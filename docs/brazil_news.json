@@ -1,7 +1,35 @@
 {
   "country": "brazil",
-  "last_updated": "2026-05-09T23:40:03Z",
+  "last_updated": "2026-05-10T11:58:01Z",
   "stories": [
+    {
+      "title": "With a split between deputies, the PL base tries to maintain the presidency of Alesp",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/com-racha-entre-deputados-base-do-pl-tenta-manter-presidencia-da-alesp.shtml",
+      "published_date": "2026-05-10T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Advertiser friend of Flávio Bolsonaro will coordinate campaign communication",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/publicitario-amigo-de-flavio-bolsonaro-vai-coordenar-comunicacao-de-campanha.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel claims to have deported Brazilian activist Thiago Ávila",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/israel-afirma-ter-deportado-o-ativista-brasileiro-thiago-avila.shtml",
+      "published_date": "2026-05-10T05:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "When commenting on Lula's kindnesses, a reader asks why interest payments are not mentioned",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/05/ao-comentar-bondades-de-lula-leitora-pergunta-por-que-nao-se-fala-do-pagamento-de-juros.shtml",
+      "published_date": "2026-05-10T01:15:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ypê becomes the target of political debate on social media after suspension from Anvisa",
       "source": "Folha de S.Paulo",
@@ -115,32 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Lula has been promising for years to defend and enrich the poor', says reader",
+      "title": "Massacre of black soldiers in 1844 generates unprecedented listing of historical heritage in RS",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/05/ha-anos-lula-promete-defender-e-enriquecer-os-pobres-diz-leitor.shtml",
-      "published_date": "2026-05-09T01:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/massacre-de-soldados-negros-em-1844-gera-tombamento-inedito-de-patrimonio-historico-no-rs.shtml",
+      "published_date": "2026-05-10T10:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "A friendly but opaque meeting between Lula and Trump",
+      "title": "PM uses bombs, 'Polish corridor' and gas to vacate USP rectory",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/05/um-encontro-amistoso-mas-opaco-entre-lula-e-trump.shtml",
-      "published_date": "2026-05-09T01:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pm-usa-bombas-corredor-polones-e-gas-para-desocupar-reitoria-da-usp.shtml",
+      "published_date": "2026-05-10T09:38:00Z",
+      "category": "Military"
     },
     {
-      "title": "In her debut as a speaker, Ana Paula Renault says she hates coaches: 'I prefer the label of witch'",
+      "title": "Trump publishes AI photo of sunken ships after new threats from Iran",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/em-estreia-como-palestrante-ana-paula-renault-diz-detestar-coaches-prefiro-o-rotulo-de-bruxona.shtml",
-      "published_date": "2026-05-09T00:23:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-publica-foto-feita-com-ia-de-navios-afundados-apos-novas-ameacas-do-ira.shtml",
+      "published_date": "2026-05-10T02:04:00Z",
+      "category": "Military"
     },
     {
-      "title": "App driver is attacked at Guarulhos airport, and taxis are vandalized after confusion",
+      "title": "I still hear the screams of children separated from their parents, says photographer awarded for work on ICE",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/motorista-de-aplicativo-e-agredido-no-aeroporto-de-guarulhos-e-taxis-sao-vandalizados-apos-confusao.shtml",
-      "published_date": "2026-05-08T23:12:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/ainda-ouco-gritos-das-criancas-separadas-dos-pais-diz-fotografa-premiada-por-trabalho-sobre-o-ice.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "US invasion of Cuba would be historic military error, says former White House adviser",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/invasao-de-cuba-pelos-eua-seria-erro-militar-historico-diz-ex-conselheiro-da-casa-branca.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
+      "category": "Military"
     },
     {
       "title": "'It was a stupid operation', says biologist about whale saga in Germany",
@@ -248,39 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Bolsonaro's defense asks Fachin, president of the STF, to annul the coup plot case",
+      "title": "Vegan? See the complete itinerary with breakfast, lunch, drinks and sophisticated dinner in SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/defesa-de-bolsonaro-pede-a-fachin-presidente-do-stf-anulacao-do-caso-da-trama-golpista.shtml",
-      "published_date": "2026-05-08T23:06:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/05/vegano-veja-roteiro-completo-com-cafe-da-manha-almoco-drinque-e-jantar-sofisticado-em-sp.shtml",
+      "published_date": "2026-05-10T10:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "PM is arrested on suspicion of shooting a woman to death in Avaré, in the interior of SP",
+      "title": "RD Saúde adopts 5x2, but sees the risk of inflation 'in the vein' with a reduction in weekly working hours",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pm-e-preso-sob-suspeita-de-matar-mulher-a-tiros-em-avare-no-interior-de-sp.shtml",
-      "published_date": "2026-05-08T22:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "STF forms majority to keep the mayor of Sorocaba (SP) in office",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/stf-forma-maioria-para-manter-o-prefeito-de-sorocaba-sp-no-cargo.shtml",
-      "published_date": "2026-05-08T21:35:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon's new UFO files aren't that big of a deal",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/05/novos-arquivos-de-ovnis-do-pentagono-nao-sao-la-grande-coisa.shtml",
-      "published_date": "2026-05-08T20:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mendonça authorizes transfer of former BRB president to Papudinha",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/mendonca-autoriza-transferencia-de-ex-presidente-do-brb-para-papudinha.shtml",
-      "published_date": "2026-05-08T19:44:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/rd-saude-adota-5x2-mas-ve-risco-de-inflacao-na-veia-com-diminuicao-da-jornada-semanal.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "The waste of energy with Bolsonaro",
@@ -409,18 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "If a woman reached the Supreme Court now, it would take 18 years to become TSE minister, says Cármen Lúcia",
+      "title": "Discover estimates of the real cost of oil and war in Iran",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/05/se-uma-mulher-chegasse-agora-ao-supremo-levaria-18-anos-para-ser-ministra-do-tse-diz-carmen-lucia.shtml",
-      "published_date": "2026-05-07T20:19:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/05/conheca-estimativas-do-custo-real-do-petroleo-e-guerra-no-ira.shtml",
+      "published_date": "2026-05-10T11:30:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Valverde hospitalized with head injury after fight in Real Madrid dressing room",
+      "title": "Chico Lopes, the anatomy of a fall",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/valverde-e-hospitalizado-apos-briga-com-tchouameni-no-real-madrid.shtml",
-      "published_date": "2026-05-07T19:55:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/candido-bracher/2026/05/chico-lopes-a-anatomia-de-uma-queda.shtml",
+      "published_date": "2026-05-10T11:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Income Tax Refund 2026: deadline to enter the 1st batch ends this Sunday",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/restituicao-do-imposto-de-renda-2026-prazo-para-entrar-no-1o-lote-acaba-neste-domingo.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Lula 3's economic performance does not translate into popularity",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/05/por-que-o-desempenho-economico-de-lula-3-nao-se-converte-em-popularidade.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Motherhood imposes professional barriers on 8 out of 10 women leaders, says study",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/maternidade-impoe-barreiras-profissionais-a-8-em-cada-10-mulheres-lideres-diz-estudo.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Diversifying investments is not diversifying assets",
@@ -528,178 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "The toxic reader",
+      "title": "Car bomb attack kills 15 police officers in Pakistan",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/05/o-leitor-toxico.shtml",
-      "published_date": "2026-05-08T19:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazil Central Bank Buys Dollars in Futures First Time in 10 Years",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazil-central-bank-dollar-futures-first-purchase-10-years-may-2026/",
-      "published_date": "2026-05-08T18:24:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "USA & Canada Intelligence Brief for Friday, May 8, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-may-8-2026/",
-      "published_date": "2026-05-08T17:45:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Production and sales of vehicles in Brazil decline in April compared to March",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/producao-e-vendas-de-veiculos-no-brasil-recuam-em-abril-ante-marco.shtml",
-      "published_date": "2026-05-08T17:38:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Embraer Q1 Profit -51% but Record R$7.6B Rev, US$32B Backlog",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/embraer-q1-profit-51-but-record-r7-6b-rev-us32b-backlog/",
-      "published_date": "2026-05-08T17:31:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Union centrals support USP student strike: dialogue with working class interests",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/centrais-sindicais-apoiam-greve-de-alunos-da-usp-dialoga-com-interesses-da-classe-trabalhadora.shtml",
-      "published_date": "2026-05-09T23:33:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/ataque-com-carro-bomba-mata-15-policiais-no-paquistao.shtml",
+      "published_date": "2026-05-10T11:38:00Z",
       "category": "Local Events"
     },
     {
-      "title": "CNJ internal affairs department annuls the creation of penduricalhos and orders audits in state courts",
+      "title": "Mother's Day: Cleo and Gloria Pires talk about film partnership and how they understand each other through their eyes",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/corregedoria-do-cnj-anula-criacao-de-penduricalhos-e-ordena-auditorias-em-tribunais-estaduais.shtml",
-      "published_date": "2026-05-09T22:32:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/dia-das-maes-cleo-e-gloria-pires-falam-sobre-parceria-em-filme-e-como-se-entendem-pelo-olhar.shtml",
+      "published_date": "2026-05-10T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Luciana Gimenez's reaction to Maya Massafera's bags entertains the web",
+      "title": "Words on the tip of your tongue",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/reacao-de-luciana-gimenez-a-bolsas-de-maya-massafera-diverte-web.shtml",
-      "published_date": "2026-05-09T22:29:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/05/palavras-na-ponta-da-lingua.shtml",
+      "published_date": "2026-05-10T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "PSOL leader says that Dosimetry is casuistry and that Moraes reinforces the seriousness of January 8th",
+      "title": "Government of Goiás wants to release mining in Chapada dos Veadeiros",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/lider-do-psol-diz-que-dosimetria-e-casuistica-e-que-moraes-reforca-gravidade-do-8-de-janeiro.shtml",
-      "published_date": "2026-05-09T21:31:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/05/governo-de-goias-quer-liberar-mineracao-na-chapada-dos-veadeiros.shtml",
+      "published_date": "2026-05-10T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Woman dies after crashing motorcycle to escape robbery on Pinheiros waterfront, in SP",
+      "title": "Mothers rediscover hobbies after their children leave home",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/mulher-morre-ao-bater-moto-para-fugir-de-assalto-na-marginal-pinheiros-em-sp.shtml",
-      "published_date": "2026-05-09T21:22:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/maes-redescobrem-hobbies-apos-saida-dos-filhos-de-casa.shtml",
+      "published_date": "2026-05-10T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Elon Musk's confidant is central to lawsuit against OpenAI in the US",
+      "title": "My adventures on the Rio Negro",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/confidente-de-elon-musk-e-peca-central-em-processo-contra-openai-nos-eua.shtml",
-      "published_date": "2026-05-09T20:44:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/05/minhas-aventuras-no-rio-negro.shtml",
+      "published_date": "2026-05-10T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "João Fonseca loses third match in a row and falls at ATP 1000 in Rome",
+      "title": "Ukrainian prisoners say they suffered systematic torture in Russian prisons",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/joao-fonseca-perde-terceira-partida-consecutiva-e-cai-no-atp-1000-de-roma.shtml",
-      "published_date": "2026-05-09T20:42:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/prisioneiros-ucranianos-dizem-ter-sofrido-torturas-sistematicas-em-prisoes-da-russia.shtml",
+      "published_date": "2026-05-10T09:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rejected at birth, buffalo calf gains adoptive mother at Simba Safari, in SP",
+      "title": "One month after the return of Artemis 2, understand ten photos taken by the mission around the Moon",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/05/rejeitada-ao-nascer-filhote-de-bufalo-ganha-mae-adotiva-no-simba-safari-em-sp.shtml",
-      "published_date": "2026-05-09T20:14:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/um-mes-apos-volta-da-artemis-2-entenda-dez-fotos-feitas-pela-missao-ao-redor-da-lua.shtml",
+      "published_date": "2026-05-10T09:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Check out the results of Mega-Sena contest 3006 from 9pm this Saturday (9)",
+      "title": "Spain begins evacuation of passengers from ship with hantavirus outbreak",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/confira-a-partir-das-21h-deste-sabado-9-o-resultado-do-concurso-3006-da-mega-sena.shtml",
-      "published_date": "2026-05-09T20:14:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/cruzeiro-com-hantavirus-chega-as-ilhas-canarias-para-evacuacao-de-passageiros.shtml",
+      "published_date": "2026-05-10T07:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "1926: Trains collide in a very serious disaster in the interior of São Paulo",
+      "title": "Lourenço Mutarelli writes book from a 'farewell perspective' after two cardiac arrests",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/05/1926-trens-se-chocam-em-gravissimo-desastre-no-interior-de-sao-paulo.shtml",
-      "published_date": "2026-05-09T20:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/lourenco-mutarelli-escreve-livro-sob-otica-de-despedida-apos-duas-paradas-cardiacas.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Help!' and scout Marco Aurélio: what to see on TV and streaming this week",
+      "title": "INSS maternity salary doubles in one year after STF decision",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/socorro-e-o-escoteiro-marco-aurelio-o-que-ver-na-tv-e-no-streaming-nesta-semana.shtml",
-      "published_date": "2026-05-09T20:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/salario-maternidade-do-inss-dobra-em-um-ano-apos-decisao-do-stf.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "How political loyalty to Bolsonaro kept Brazilians away from the Covid vaccine",
+      "title": "Aging of the immune system is different between men and women, study says",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/como-lealdade-politica-a-bolsonaro-afastou-brasileiros-da-vacina-contra-a-covid.shtml",
-      "published_date": "2026-05-09T20:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/envelhecimento-do-sistema-imunologico-e-diferente-entre-homens-e-mulheres-diz-estudo.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "WHO classifies cruise passengers with hantavirus as high-risk contacts",
+      "title": "Women report the trauma of not feeling loved by their mothers",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/oms-classifica-passageiros-de-cruzeiro-com-hantavirus-como-contatos-de-alto-risco.shtml",
-      "published_date": "2026-05-09T19:59:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/mulheres-relatam-trauma-de-nao-se-sentirem-amadas-pelas-maes.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "New edition of MasterChef Brasil premieres on May 26",
+      "title": "An entrepreneur must have imagination, courage and excessive stubbornness, says Edu Lyra at CasaFolha",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/05/nova-edicao-do-masterchef-brasil-estreia-em-26-de-maio.shtml",
-      "published_date": "2026-05-09T19:55:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/empreendedor-tem-que-ter-imaginacao-coragem-e-teimosia-excessiva-diz-edu-lyra-na-casafolha.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Gol cargo plane leaves the runway after landing at Salvador airport",
+      "title": "Who really holds the cards? Trump, Iran or AI?",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/aviao-cargueiro-da-gol-sai-da-pista-apos-pousar-no-aeroporto-de-salvador.shtml",
-      "published_date": "2026-05-09T19:54:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/05/quem-realmente-esta-com-as-cartas-trump-ira-ou-a-ia.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Georg Baselitz turned the art world upside down",
+      "title": "Conservatives hold political training with pink booklet, cake and prayer",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/05/georg-baselitz-virou-mundo-da-arte-de-cabeca-para-baixo.shtml",
-      "published_date": "2026-05-09T19:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/redesocial/2026/05/conservadoras-fazem-formacao-politica-com-cartilha-cor-de-rosa-bolo-e-oracao.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Police say teenager is suspected of attacking athletes with fireworks in Belo Horizonte",
+      "title": "Mothers in politics deal with hostility despite advances in maternity leave",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/policia-diz-que-adolescente-e-suspeito-de-atacar-atletas-com-fogos-de-artificio-em-belo-horizonte.shtml",
-      "published_date": "2026-05-09T18:47:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/maes-na-politica-lidam-com-hostilidade-apesar-de-avanco-em-licenca-maternidade.shtml",
+      "published_date": "2026-05-10T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Before I had more vigor, today I have more control', says Beth Goulart about maturity",
+      "title": "Railway in Minas Gerais transported quince for 34 years in Serra da Mantiqueira",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/antes-eu-tinha-mais-vigor-hoje-eu-tenho-mais-dominio-diz-beth-goulart-sobre-maturidade.shtml",
-      "published_date": "2026-05-09T18:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/05/ferrovia-em-minas-transportou-marmelo-por-34-anos-na-serra-da-mantiqueira.shtml",
+      "published_date": "2026-05-10T02:57:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Singer Netinho reveals cancer return after a year and begins new treatment",
+      "title": "Seizure of crypto by the PF skyrockets, but criminal use already exceeds billions",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/cantor-netinho-revela-retorno-de-cancer-apos-um-ano-e-comeca-novo-tratamento.shtml",
-      "published_date": "2026-05-09T18:14:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/apreensao-de-cripto-pela-pf-dispara-mas-uso-criminoso-ja-supera-bilhoes.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "From the outstretched hands came astonishment",
+      "title": "Kassio tries to shield the TSE from questioning the polls and aims to differentiate himself from Moraes",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/antonioprata/2026/05/das-maos-espalmadas-fez-se-o-espanto.shtml",
-      "published_date": "2026-05-09T18:08:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/kassio-tenta-blindagem-no-tse-contra-questionamento-as-urnas-e-mira-se-diferenciar-de-moraes.shtml",
+      "published_date": "2026-05-10T02:00:00Z",
       "category": "Local Events"
     }
   ]
