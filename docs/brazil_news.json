@@ -1,7 +1,126 @@
 {
   "country": "brazil",
-  "last_updated": "2026-05-12T23:53:38Z",
+  "last_updated": "2026-05-13T13:21:40Z",
   "stories": [
+    {
+      "title": "Trump invites Nvidia CEO at the last minute to 'open market' in China",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/trump-convida-ceo-da-nvidia-de-ultima-hora-para-abrir-mercado-na-china.shtml",
+      "published_date": "2026-05-13T13:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How bats shaped the appearance of flowers",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2026/05/como-morcegos-moldaram-a-aparencia-de-flores.shtml",
+      "published_date": "2026-05-13T13:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ypê donated R$1.5 million to Bolsonaro’s campaign; remember bigger donations to him and Lula in 2022",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/ype-doou-r-15-milhao-para-campanha-de-bolsonaro-lembre-maiores-doacoes-a-ele-e-lula-em-2022.shtml",
+      "published_date": "2026-05-13T11:16:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Close to too many bandits",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/05/proximo-de-bandidos-demais.shtml",
+      "published_date": "2026-05-13T11:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Genial/Quaest: Lula has 42%, and Flávio Bolsonaro, 41% in the 2nd round dispute",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/genialquaest-lula-tem-42-e-flavio-bolsonaro-41-em-disputa-de-2o-turno.shtml",
+      "published_date": "2026-05-13T11:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rio de Janeiro Daily Brief for Wednesday, May 13, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-may-13-2026/",
+      "published_date": "2026-05-13T10:26:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US and China have a common enemy, and it is no longer the Soviet Union",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/05/eua-e-china-tem-um-inimigo-em-comum-e-nao-e-mais-a-uniao-sovietica.shtml",
+      "published_date": "2026-05-13T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Podcast discusses the Ypê case and the polarization that goes beyond politics",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/05/podcast-discute-o-caso-ype-e-a-polarizacao-que-extrapola-a-politica.shtml",
+      "published_date": "2026-05-13T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula asks for mapping of positions for retaliation, but cozies up to Alcolumbre after defeats in Congress",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/lula-pede-mapeamento-de-cargos-para-retaliacao-mas-afaga-alcolumbre-apos-derrotas-no-congresso.shtml",
+      "published_date": "2026-05-13T02:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "With Bolsonaro isolated, allies resist accepting his children's nomination for the Senate",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/com-bolsonaro-isolado-aliados-resistem-em-acatar-indicacao-dos-filhos-para-o-senado.shtml",
+      "published_date": "2026-05-13T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ypê says he changed water treatment after the first inspection by Anvisa",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/ype-diz-que-mudou-tratamento-da-agua-apos-primeira-fiscalizacao-da-anvisa.shtml",
+      "published_date": "2026-05-13T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Parliamentarians call exemption from the 'blouse tax' electoral, and PT members avoid public criticism",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/parlamentares-chamam-isencao-da-taxa-das-blusinhas-de-eleitoreira-e-petistas-evitam-criticas-em-publico.shtml",
+      "published_date": "2026-05-13T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Medicines on digital platforms are a threat to health",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/05/medicamentos-em-plataformas-digitais-sao-ameaca-a-saude.shtml",
+      "published_date": "2026-05-13T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Repeal of the tax on blouses helps Haddad in SP, says PT",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/revogacao-da-taxa-das-blusinhas-ajuda-haddad-em-sp-avalia-pt.shtml",
+      "published_date": "2026-05-13T00:08:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Flávio Bolsonaro and Cleitinho form an alliance in Minas Gerais, but there is still no defined candidate",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/flavio-bolsonaro-e-cleitinho-fecham-alianca-em-minas-gerais-mas-ainda-sem-candidato-definido.shtml",
+      "published_date": "2026-05-13T00:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How detergent and inflation affect Lula and Trump’s electoral campaigns",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/05/como-o-detergente-e-a-inflacao-afetam-as-campanhas-eleitorais-de-lula-e-trump.shtml",
+      "published_date": "2026-05-12T23:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Court schedules 1st hearing in the Tainara case, dead after being run over and dragged on the Tietê waterfront",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/justica-marca-1o-audiencia-do-caso-tainara-morta-apos-ser-atropelada-e-arrastada-na-marginal-tiete.shtml",
+      "published_date": "2026-05-12T23:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Understand what the 'blouse tax' is and the back-and-forth tax",
       "source": "Folha de S.Paulo",
@@ -24,123 +143,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Flávio Bolsonaro says he wouldn't refuse to greet Lula: 'If I pass by, I have no problem'",
+      "title": "Dollar opens higher this Wednesday after new electoral poll in Brazil and Trump's arrival in China",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/05/flavio-bolsonaro-diz-que-nao-recusaria-cumprimentar-lula-se-passar-perto-nao-tenho-problema.shtml",
-      "published_date": "2026-05-12T22:31:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/dolar-abre-em-alta-nesta-quarta-apos-nova-pesquisa-eleitoral-no-brasil-e-chegada-de-trump-a-china.shtml",
+      "published_date": "2026-05-13T12:59:00Z",
+      "category": "Military"
     },
     {
-      "title": "Ypê's refund guarantee depends on Anvisa's decision this Wednesday (13), experts say",
+      "title": "PF investigates million-dollar investment from Cajamar pension funds in Master",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/garantia-de-reembolso-da-ype-depende-de-decisao-da-anvisa-nesta-quarta-13-dizem-especialistas.shtml",
-      "published_date": "2026-05-12T22:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/pf-investiga-investimento-milionario-de-fundos-de-previdencia-de-cajamar-no-master.shtml",
+      "published_date": "2026-05-13T12:19:00Z",
+      "category": "Military"
     },
     {
-      "title": "Lula signs MP that eliminates 'blouse tax' months before the election",
+      "title": "Police warn drivers about 'drunken deer' and urge caution on roads in France",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/lula-assina-medida-provisoria-que-zera-taxa-das-blusinhas.shtml",
-      "published_date": "2026-05-12T21:53:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/bichos/2026/05/policia-alerta-motoristas-sobre-cervos-bebados-e-pede-cautela-em-estradas-na-franca.shtml",
+      "published_date": "2026-05-13T12:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "Another pack of Lula",
+      "title": "Book warns of the collapse of reason under the rule of the algorithm",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/05/mais-um-pacote-de-lula.shtml",
-      "published_date": "2026-05-12T21:13:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/livro-alerta-para-colapso-da-razao-sob-dominio-do-algoritmo.shtml",
+      "published_date": "2026-05-13T11:57:00Z",
+      "category": "Military"
     },
     {
-      "title": "Wine consumption in Brazil breaks record in 2025, contrary to the global decline",
+      "title": "Trump arrives in China to discuss Iran, Taiwan and trade with Xi Jinping",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/consumo-de-vinho-no-brasil-bate-recorde-em-2025-na-contramao-da-queda-mundial.shtml",
-      "published_date": "2026-05-12T21:10:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/trump-chega-a-china-para-discutir-ira-taiwan-e-comercio-com-xi-jinping.shtml",
+      "published_date": "2026-05-13T11:55:00Z",
+      "category": "Military"
     },
     {
-      "title": "See before and after photos of the Ypê factory subject to inspection by Anvisa",
+      "title": "Maneuver to circumvent Screen Quota in cinema shows 'purposely lax' law, says sector",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/veja-fotos-do-antes-e-depois-da-fabrica-da-ype-alvo-de-fiscalizacao-da-anvisa.shtml",
-      "published_date": "2026-05-12T21:10:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/05/manobra-para-burlar-cota-de-tela-no-cinema-mostra-lei-propositalmente-frouxa-diz-setor.shtml",
+      "published_date": "2026-05-13T11:51:00Z",
+      "category": "Military"
     },
     {
-      "title": "MPF asks that energy mega-auction contracts not be signed",
+      "title": "Viih Tube says he was 'defaulted' on BBB 21 and never received a R$10,000 prize",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/mpf-pede-que-contratos-de-megaleilao-de-energia-nao-sejam-assinados.shtml",
-      "published_date": "2026-05-12T21:09:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/viih-tube-diz-que-levou-calote-no-bbb-21-e-nunca-recebeu-premio-de-r-10-mil.shtml",
+      "published_date": "2026-05-13T11:40:00Z",
+      "category": "Military"
     },
     {
-      "title": "Tourist wins compensation after losing 'race for sunbeds' at hotel in Greece",
+      "title": "Civil Defense releases 86 properties in the explosion region in SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/05/turista-ganha-indenizacao-apos-perder-corrida-por-espreguicadeiras-em-hotel-na-grecia.shtml",
-      "published_date": "2026-05-12T20:53:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/defesa-civil-libera-86-imoveis-na-regiao-de-explosao-em-sp.shtml",
+      "published_date": "2026-05-13T09:56:00Z",
+      "category": "Military"
     },
     {
-      "title": "Ypê presents 239 correction measures after product suspension, says Anvisa",
+      "title": "Temperature rises again in São Paulo and maximum could reach 26°C this Wednesday (13)",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/ype-apresenta-239-medidas-de-correcao-apos-suspensao-de-produtos-diz-anvisa.shtml",
-      "published_date": "2026-05-12T20:34:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/temperatura-volta-a-subir-em-sao-paulo-e-maxima-pode-chegar-a-26c-nesta-quarta-13.shtml",
+      "published_date": "2026-05-13T08:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "1926: Brazilian doctor goes to Paris for Homeopathic League activities",
+      "title": "'Brazil is coffee, and coffee is black': how coffee farming delayed abolition",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/05/1926-medico-brasileiro-vai-a-paris-para-atividades-da-liga-homeopatica.shtml",
-      "published_date": "2026-05-12T20:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/05/o-brasil-e-o-cafe-e-o-cafe-e-o-negro-como-a-cafeicultura-retardou-a-abolicao.shtml",
+      "published_date": "2026-05-13T07:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Erika Hilton wants to summon presidents of Sabesp and Comgás after explosion in Jaguaré",
+      "title": "Xi must pressure Trump to stop supplying US weapons to Taiwan",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/05/erika-hilton-quer-convocar-presidentes-da-sabesp-e-comgas-apos-explosao-no-jaguare.shtml",
-      "published_date": "2026-05-12T19:26:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/xi-deve-pressionar-trump-a-parar-de-fornecer-armas-dos-eua-a-taiwan.shtml",
+      "published_date": "2026-05-13T02:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Court orders Valdemar Costa Neto to compensate PT for holding party responsible for 8/1",
+      "title": "Government banned antibiotics vetoed by the EU, but allowed the use of stocks until October",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/justica-condena-valdemar-costa-neto-a-indenizar-pt-por-responsabilizar-partido-pelo-81.shtml",
-      "published_date": "2026-05-12T19:25:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/governo-proibiu-antibioticos-vetados-por-ue-mas-liberou-uso-de-estoques-ate-outubro.shtml",
+      "published_date": "2026-05-13T02:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Unicamp approves graduation in AI and three other courses; vote on Faculty of Law is postponed",
+      "title": "Florida plans to close 'Alligator Alcatraz', immigration detention center, says newspaper",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/unicamp-aprova-graduacao-em-ia-e-outros-tres-cursos-votacao-sobre-faculdade-de-direito-e-adiada.shtml",
-      "published_date": "2026-05-12T19:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula government rescues Collor government law to curb fuel price abuse",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/governo-lula-resgata-lei-do-governo-collor-para-coibir-abuso-no-preco-de-combustiveis.shtml",
-      "published_date": "2026-05-12T19:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Increase in demand for sand threatens biomes and animals, warns UN body",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/aumento-na-demanda-por-areia-ameaca-biomas-e-animais-alerta-orgao-da-onu.shtml",
-      "published_date": "2026-05-12T18:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "War keeps pressure on food and fuel inflation in election year in Brazil",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/guerra-mantem-pressao-sobre-inflacao-de-alimentos-e-combustiveis-em-ano-eleitoral-no-brasil.shtml",
-      "published_date": "2026-05-12T18:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula Launches R$11 Billion Plan to Asphyxiate Brazil’s Crime Factions",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/lula-launches-r11-billion-plan-to-asphyxiate-brazils-crime-factions/",
-      "published_date": "2026-05-12T17:49:51Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/florida-planeja-fechar-alcatraz-dos-jacares-centro-de-detencao-de-imigrantes-diz-jornal.shtml",
+      "published_date": "2026-05-13T00:33:00Z",
+      "category": "Military"
     },
     {
       "title": "Chamber Security Committee approves project that allows the use of FGTS to buy weapons",
@@ -192,95 +283,53 @@
       "category": "Military"
     },
     {
-      "title": "Wagner Moura starts new films after Oscar nomination and records with Kristen Stewart",
+      "title": "Oil reserves fall at a record pace, warns international agency; barrel price fluctuates on Wednesday",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/wagner-moura-engata-novos-filmes-apos-indicacao-ao-oscar-e-grava-com-kristen-stewart-na-europa.shtml",
-      "published_date": "2026-05-12T18:16:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/reservas-de-petroleo-caem-em-ritmo-recorde-alerta-agencia-internacional-preco-do-barril-oscila-na-quarta.shtml",
+      "published_date": "2026-05-13T12:33:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Israel says in report that Hamas carried out large-scale sexual violence",
+      "title": "More than 1,700 people are confined on a cruise in France after the death of a passenger",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/israel-diz-em-relatorio-que-hamas-praticou-violencia-sexual-em-larga-escala.shtml",
-      "published_date": "2026-05-12T17:50:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/mais-de-1700-pessoas-ficam-confinadas-em-cruzeiro-na-franca-apos-morte-de-passageiro.shtml",
+      "published_date": "2026-05-13T12:24:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Scientists fear a severe year of fires in the world due to El Niño",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/05/cientistas-temem-ano-severo-de-incendios-no-mundo-em-razao-de-el-nino.shtml",
-      "published_date": "2026-05-12T17:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Climbing, which is gaining fans in Brazil, exercises strength and mobility of the entire body",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/escalada-que-ganha-adeptos-no-brasil-exercita-forca-e-mobilidade-do-corpo-inteiro.shtml",
-      "published_date": "2026-05-12T13:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Work stolen from a Jewish dealer in World War II is found in the Netherlands",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/obra-roubada-de-negociante-judeu-na-segunda-guerra-e-encontrada-na-holanda.shtml",
-      "published_date": "2026-05-12T12:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia Now Supplies 81% of Brazil’s Diesel Amid Iran War",
+      "title": "Petrobras Signals Gasoline Hike as Brent Hits $103 and Q1 Profit Slips",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/russia-now-supplies-81-of-brazils-diesel-amid-iran-war/",
-      "published_date": "2026-05-12T12:10:57Z",
-      "category": "Military"
+      "url": "https://www.riotimesonline.com/petrobras-signals-gasoline-hike-as-brent-hits-103-and-q1-profit-slips/",
+      "published_date": "2026-05-13T12:08:45Z",
+      "category": "Energy"
     },
     {
-      "title": "Inflation slows to 0.67% in April and reaches 4.39% in 12 months; food and gasoline pressure",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/inflacao-desacelera-a-067-em-abril-e-vai-a-439-em-12-meses.shtml",
-      "published_date": "2026-05-12T12:02:00Z",
-      "category": "Military"
+      "title": "Bolivia Hits 67 Roadblocks as Inflation Reaches 14%",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/bolivia-hits-67-roadblocks-as-inflation-reaches-14/",
+      "published_date": "2026-05-13T11:21:04Z",
+      "category": "Energy"
     },
     {
-      "title": "PF carries out mega operation against factions in 16 states and carries out 71 arrest warrants",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pf-faz-megaoperacao-contra-faccoes-em-16-estados-e-cumpre-71-mandados-de-prisao.shtml",
-      "published_date": "2026-05-12T11:39:00Z",
-      "category": "Military"
+      "title": "Brazil Wind Blade Maker Aeris Q1 Loss Widens 40% to R$138M",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/brazil-wind-blade-maker-aeris-q1-loss-widens-40-to-r138m/",
+      "published_date": "2026-05-13T09:46:06Z",
+      "category": "Energy"
     },
     {
-      "title": "Operation arrests 4 civil police officers from SP suspected of charging a high amount to avoid forging a crime",
+      "title": "Pro-Ypê campaign reveals mobilizing element of conspiracy theories on the Bolsonarist right",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/operacao-prende-4-policiais-civis-de-sp-suspeitos-de-cobrar-alta-quantia-para-nao-forjar-flagrante.shtml",
-      "published_date": "2026-05-12T11:37:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/campanha-pro-ype-revela-elemento-mobilizador-das-teorias-conspiratorias-da-direita-bolsonarista.shtml",
+      "published_date": "2026-05-13T02:19:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Paramount forwards contract renewal to broadcast Libertadores until 2030",
+      "title": "Community in Jaguaré mobilizes after explosion caused by Sabesp work; find out how to help",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/05/paramount-encaminha-renovacao-de-contrato-para-transmitir-a-libertadores-ate-2030.shtml",
-      "published_date": "2026-05-12T11:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Chargist did not mock the judge's death",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/05/chargista-nao-debochou-da-morte-da-juiza.shtml",
-      "published_date": "2026-05-12T11:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Brazilian dictatorship had infiltrated agents in Argentina, Uruguay and Chile",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/ditadura-brasileira-teve-agentes-infiltrados-na-argentina-uruguai-e-chile.shtml",
-      "published_date": "2026-05-12T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "See where the main names of the SP government and the PCC are in the wave of attacks in 2006",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/veja-onde-estao-os-principais-nomes-do-governo-de-sp-e-do-pcc-na-onda-de-ataques-de-2006.shtml",
-      "published_date": "2026-05-12T02:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/comunidade-no-jaguare-se-mobiliza-apos-explosao-causada-por-obra-da-sabesp-saiba-como-ajudar.shtml",
+      "published_date": "2026-05-13T00:08:00Z",
+      "category": "Energy"
     },
     {
       "title": "Is there a market for products that use green hydrogen?",
@@ -374,53 +423,46 @@
       "category": "Energy"
     },
     {
-      "title": "Venezuelans Trust Chevron More Than Their President: New Polls",
+      "title": "Peter Jackson, in Cannes, says he sees no problem with the use of AI in cinema",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/peter-jackson-em-cannes-diz-nao-ver-problema-no-uso-de-ia-no-cinema.shtml",
+      "published_date": "2026-05-13T12:37:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Higher education does not keep up with demand for AI skills, research shows",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/ensino-superior-nao-acompanha-demanda-por-habilidades-em-ia-aponta-pesquisa.shtml",
+      "published_date": "2026-05-13T11:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Brazil Healthcare Group Dasa Returns to Profit at R$9M in Q1",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/venezuelans-trust-chevron-more-than-their-president-new-polls/",
-      "published_date": "2026-05-11T12:01:08Z",
-      "category": "Energy"
+      "url": "https://www.riotimesonline.com/brazil-healthcare-group-dasa-returns-to-profit-at-r9m-in-q1/",
+      "published_date": "2026-05-13T09:43:35Z",
+      "category": "Economy"
     },
     {
-      "title": "Heat pump sales soar in Europe as fuel prices rise",
+      "title": "Public debt above 71.5% of GDP forces BC to raise Selic further, says survey",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/vendas-de-bombas-de-calor-disparam-na-europa-com-alta-de-combustiveis.shtml",
-      "published_date": "2026-05-11T11:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/divida-publica-acima-de-715-do-pib-forca-bc-a-elevar-mais-a-selic-diz-pesquisa.shtml",
+      "published_date": "2026-05-13T09:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Indian Prime Minister calls for return to working from home to reduce fuel consumption",
+      "title": "Is Pix included in the Income Tax declaration? Understand the controversy over the payment method",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/premie-indiano-pede-retorno-ao-home-office-para-reduzir-consumo-de-combustivel.shtml",
-      "published_date": "2026-05-10T23:30:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/pix-entra-na-declaracao-do-imposto-de-renda-entenda-a-polemica-sobre-o-meio-de-pagamento.shtml",
+      "published_date": "2026-05-13T07:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Oil price rises 4.6% and approaches US$106 after Trump rejects Iran's proposal",
+      "title": "The 'blouse tax' decision was political and displeased technical teams who saw losses to trade",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/petroleo-abre-em-alta-apos-trump-classificar-proposta-iraniana-como-inaceitavel.shtml",
-      "published_date": "2026-05-10T23:03:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump becomes major investor in nuclear fusion energy in the US",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/corrida-pela-energia-de-fusao-esta-esquentando.shtml",
-      "published_date": "2026-05-10T20:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Aramco CEO warns that loss of 1 billion barrels will delay oil market recovery",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/ceo-da-aramco-adverte-que-perda-de-1-bilhao-de-barris-atrasara-recuperacao-do-mercado-de-petroleo.shtml",
-      "published_date": "2026-05-10T19:02:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Do we absorb information better on paper than on screens? Depends on the screen",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/absorvemos-melhor-as-informacoes-no-papel-do-que-em-telas-depende-da-tela.shtml",
-      "published_date": "2026-05-10T16:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/decisao-de-taxa-das-blusinhas-foi-politica-e-desagradou-equipes-tecnicas-que-veem-prejuizo-a-comercio.shtml",
+      "published_date": "2026-05-13T02:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Industry entities claim that the end of the 'blouse tax' generates unfair competition",
@@ -521,185 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "USA & Canada Intelligence Brief for Tuesday, May 12, 2026",
+      "title": "Thieves attack truck with weight-loss pens, exchange gunfire with escort and take driver hostage in SP",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/ladroes-atacam-caminhao-com-canetas-emagrecedoras-trocam-tiros-com-escolta-e-levam-motorista-refem-em-sp.shtml",
+      "published_date": "2026-05-13T13:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The Nobility of Love' broadens TV's horizons by creating a fable about black culture",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/05/a-nobreza-do-amor-amplia-horizontes-da-tv-ao-criar-fabula-sobre-cultura-negra.shtml",
+      "published_date": "2026-05-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spiritbox brings its delicate metal back to Brazil after playing at the Grammys",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/spiritbox-traz-seu-metal-delicado-de-volta-ao-brasil-depois-de-tocar-no-grammy.shtml",
+      "published_date": "2026-05-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Louvre neglected its security, says parliamentary report after robbery",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/louvre-negligenciava-a-sua-seguranca-afirma-relatorio-parlamentar-apos-roubo.shtml",
+      "published_date": "2026-05-13T12:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head of the FDA, the US food and drug regulatory agency, leaves office",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/chefe-da-fda-agencia-reguladora-de-alimentos-e-medicamentos-nos-eua-deixa-o-cargo.shtml",
+      "published_date": "2026-05-13T12:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula Kills 20% Shein Import Tax Five Months Before Election Vote",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-tuesday-may-12-2026/",
-      "published_date": "2026-05-12T18:33:02Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/lula-kills-20-shein-import-tax-five-months-before-election-vote/",
+      "published_date": "2026-05-13T12:15:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "Flávio's marketer was named in Vorcaro's plan against BC and received R$650,000 from an agency owner",
+      "title": "Dead humpback whale calf strands near beach in central Ilhabela",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/marqueteiro-de-flavio-foi-citado-em-plano-de-vorcaro-contra-bc-e-recebeu-r-650-mil-de-dono-de-agencia.shtml",
-      "published_date": "2026-05-12T18:03:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/filhote-de-baleia-jubarte-morta-encalha-perto-de-praia-do-centro-de-ilhabela.shtml",
+      "published_date": "2026-05-13T12:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Argentina Beef Exports Hit US$1B in Q1 2026, Up 54%",
+      "title": "Venezuela Expands Supreme Court to 32 Magistrates",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/argentina-beef-exports-hit-us1b-in-q1-2026-up-54/",
-      "published_date": "2026-05-12T13:01:01Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/venezuela-expands-supreme-court-to-32-magistrates/",
+      "published_date": "2026-05-13T11:54:42Z",
+      "category": "Local Events"
     },
     {
-      "title": "'Improbable Loves' becomes a series and confirms the wave of hockey romances",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/amores-improvaveis-vira-serie-e-confirma-onda-dos-romances-de-hoquei.shtml",
-      "published_date": "2026-05-12T13:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "São Paulo Agribusiness Hits R$174.6B as Beef and Coffee Lead",
+      "title": "Court Freezes Petro’s $5.9 Billion Pension Transfer",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/sao-paulo-agribusiness-hits-r174-6b-as-beef-and-coffee-lead/",
-      "published_date": "2026-05-12T12:40:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dollar opens slightly higher as investors assess slowing inflation and increased tension in Iran",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/dolar-abre-em-leve-alta-com-investidores-avaliando-desaceleracao-da-inflacao-e-aumento-da-tensao-no-ira.shtml",
-      "published_date": "2026-05-12T12:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "NBA player Brandon Clarke dies at age 29",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/jogador-da-nba-brandon-clarke-morre-aos-29-anos.shtml",
-      "published_date": "2026-05-12T23:19:00Z",
+      "url": "https://www.riotimesonline.com/court-freezes-petros-5-9-billion-pension-transfer/",
+      "published_date": "2026-05-13T11:35:11Z",
       "category": "Local Events"
     },
     {
-      "title": "8/1 sentence reduction rapporteur meets with Moraes and says that the STF should rule on the law at the end of May",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/relator-de-reducao-de-penas-do-81-se-reune-com-moraes-e-diz-que-stf-deve-julgar-lei-no-fim-de-maio.shtml",
-      "published_date": "2026-05-12T23:04:00Z",
+      "title": "Latin America Sports Daily for Wednesday, May 13, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-wednesday-may-13-2026/",
+      "published_date": "2026-05-13T11:34:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Ancelotti praises Neymar and says the call-up will be based on physical condition and performance",
+      "title": "Strengthening civil society organizations is protecting the future",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/05/ancelotti-elogia-neymar-e-diz-que-convocacao-sera-baseada-em-condicao-fisica-e-desempenho.shtml",
-      "published_date": "2026-05-12T22:58:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/05/fortalecer-organizacoes-da-sociedade-civil-e-proteger-o-futuro.shtml",
+      "published_date": "2026-05-13T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "SP City Hall gains approval to hold mega shows on Avenida Paulista",
+      "title": "Businesspeople recalculate route and want to negotiate more flexibility in post-6x1 stopovers",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/prefeitura-de-sp-ganha-aval-para-realizar-megashows-na-avenida-paulista.shtml",
-      "published_date": "2026-05-12T22:46:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/empresariado-recalcula-rota-e-quer-negociar-mais-flexibilidade-nas-escalas-pos-6x1.shtml",
+      "published_date": "2026-05-13T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Why controversy involving Israel could change Eurovision forever",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/por-que-polemica-envolvendo-israel-pode-mudar-o-eurovision-para-sempre.shtml",
-      "published_date": "2026-05-12T22:17:00Z",
+      "title": "São Paulo Daily Brief for Wednesday, May 13, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-wednesday-may-13-2026/",
+      "published_date": "2026-05-13T10:35:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Kassio takes office as president of the TSE; see live",
+      "title": "MPF investigates destination of savings of enslaved people at Caixa Econômica",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/05/kassio-toma-posse-na-presidencia-do-tse-assista.shtml",
-      "published_date": "2026-05-12T22:08:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/mpf-investiga-destino-de-poupancas-de-escravizados-na-caixa-economica.shtml",
+      "published_date": "2026-05-13T10:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Reliance obtains authorization from the TCU and returns to operate in an area that will be a megaterminal",
+      "title": "Birthday in another country? Understand how the location can change your astral year",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/reliance-obtem-autorizacao-do-tcu-e-volta-a-operar-em-area-que-sera-de-megaterminal.shtml",
-      "published_date": "2026-05-12T22:05:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/05/aniversario-em-outro-pais-entenda-como-o-local-pode-mudar-seu-ano-astral.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Explosion in Jaguaré could be investigated for murder and collapse, lawyers say",
+      "title": "Today a star, monkey Punch begins to let go of his stuffed orangutan",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/explosao-no-jaguare-pode-ser-investigada-por-homicidio-e-desmoronamento-dizem-advogados.shtml",
-      "published_date": "2026-05-12T21:59:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/05/hoje-um-astro-macaco-punch-comeca-a-se-desapegar-de-orangotango-de-pelucia.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Amores Improbáveis' and Gilberto Gil: what to see on TV and streaming on Wednesday",
+      "title": "Porto Seguro records a 39% increase in electric vehicle insurance; prices grow 80%",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/amores-improvaveis-e-gilberto-gil-o-que-ver-na-tv-e-no-streaming-na-quarta.shtml",
-      "published_date": "2026-05-12T21:54:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/porto-seguro-registra-alta-de-39-em-seguros-de-veiculos-eletricos-cotacoes-crescem-80.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "It is not yet known whether the ship's hantavirus strain has mutated, says French minister",
+      "title": "The handling of the hantavirus crisis shows that we continue to make the usual mistakes",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/ainda-nao-se-sabe-se-cepa-de-hantavirus-do-cruzeiro-sofreu-mutacao-diz-ministra-francesa.shtml",
-      "published_date": "2026-05-12T21:47:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/conducao-da-crise-do-hantavirus-mostra-que-seguimos-cometendo-os-erros-de-sempre.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Investigation points to false pipes in work worth almost R$100 million on Natal beach",
+      "title": "Strategic works stopped due to licensing",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/investigacao-aponta-tubulacoes-falsas-em-obra-de-quase-r-100-milhoes-na-praia-de-natal.shtml",
-      "published_date": "2026-05-12T21:40:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/05/obras-estrategicas-paradas-pelo-licenciamento.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Internal Affairs opens investigation against prosecutor who defended filing action against Monark",
+      "title": "Buddhist robot shows how objects shape social life",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/05/corregedoria-abre-investigacao-contra-promotor-que-defendeu-arquivar-acao-contra-monark.shtml",
-      "published_date": "2026-05-12T21:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conan O’Brien will host the Oscars for the third year in a row",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/conan-obrien-vai-apresentar-o-oscar-pelo-terceiro-ano-consecutivo.shtml",
-      "published_date": "2026-05-12T21:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private flights account for half of accidents in the country",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/voos-privados-concentram-metade-dos-acidentes-no-pais.shtml",
-      "published_date": "2026-05-12T21:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarcísio says that the PM acted 'within the law' when removing students from the USP rectory",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/tarcisio-diz-que-pm-agiu-dentro-da-legalidade-ao-retirar-estudantes-da-reitoria-da-usp.shtml",
-      "published_date": "2026-05-12T21:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gretchen says aesthetic procedure harmed treatment for alopecia",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/gretchen-diz-que-procedimento-estetico-prejudicou-o-tratamento-para-alopecia.shtml",
-      "published_date": "2026-05-12T21:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Confessions II', Madonna's album, will have a video version shown at Tribeca",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/confessions-ii-disco-de-madonna-tera-versao-em-video-exibida-em-tribeca.shtml",
-      "published_date": "2026-05-12T21:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dentist acquitted of rape charges in Rio is ordered to pay R$478,000 to the State",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/dentista-absolvido-da-acusacao-de-estupros-no-rio-e-condenado-a-pagar-r-478-mil-ao-estado.shtml",
-      "published_date": "2026-05-12T20:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate approves facilitation of driver's license renewal for good drivers and resumes requirement for medical examination",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/senado-aprova-facilitacao-da-renovacao-de-cnh-para-bons-condutores-e-retoma-exigencia-de-exame-medico.shtml",
-      "published_date": "2026-05-12T20:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disney cruise has Michelin chef and 186 m² suite",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/05/cruzeiro-da-disney-tem-chef-michelin-e-suite-de-186-m2.shtml",
-      "published_date": "2026-05-12T20:45:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/robo-budista-mostra-como-objetos-moldam-a-vida-social.shtml",
+      "published_date": "2026-05-13T10:00:00Z",
       "category": "Local Events"
     }
   ]
