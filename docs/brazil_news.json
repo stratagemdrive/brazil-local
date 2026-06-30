@@ -1,7 +1,28 @@
 {
   "country": "brazil",
-  "last_updated": "2026-06-29T23:57:14Z",
+  "last_updated": "2026-06-30T13:11:27Z",
   "stories": [
+    {
+      "title": "Lula releases R$520 million for advertising before the election, more than twice as much as Bolsonaro in 2022",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/lula-libera-r-520-mi-para-propaganda-antes-da-eleicao-mais-que-o-dobro-de-bolsonaro-em-2022.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After criticism, Sabina Simonato retracts her speech about the functioning of schools during the Brazil game",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/06/apos-criticas-sabina-simonato-se-retrata-por-fala-sobre-funcionamento-de-escolas-durante-jogo-do-brasil.shtml",
+      "published_date": "2026-06-30T01:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alcohol advertising law turns 30 and what has changed?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/06/lei-de-publicidade-do-alcool-faz-30-anos-e-o-que-mudou.shtml",
+      "published_date": "2026-06-30T01:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brazilians work hard, but feel like they can't move",
       "source": "Folha de S.Paulo",
@@ -122,25 +143,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tourism needs to be State policy, not an ideological platform",
+      "title": "Public thinks that 'bodybuilding is bombing until you die', says Paulo Muzy",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/06/turismo-precisa-ser-politica-de-estado-nao-palanque-ideologico.shtml",
-      "published_date": "2026-06-29T11:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/06/publico-acha-que-fisiculturismo-e-tomar-bomba-ate-morrer-diz-paulo-muzy.shtml",
+      "published_date": "2026-06-30T13:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Lula drops five points in the Northeast after allegations against Jaques Wagner in the Master case",
+      "title": "Homeschooling weakens what Brazil needs to strengthen most: schools",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/lula-cai-cinco-pontos-no-nordeste-depois-de-denuncias-contra-jaques-wagner-no-caso-master.shtml",
-      "published_date": "2026-06-29T10:49:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/06/homeschooling-enfraquece-o-que-o-brasil-mais-precisa-fortalecer-a-escola.shtml",
+      "published_date": "2026-06-30T13:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Podcast discusses advertising for World Cup bets after the CazéTV case",
+      "title": "'Package bomb' explosion leaves Ukrainian oligarch and two others injured in Monaco",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/06/podcast-discute-publicidade-de-bets-na-copa-depois-de-caso-cazetv.shtml",
-      "published_date": "2026-06-29T08:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/explosao-de-pacote-bomba-deixa-oligarca-ucraniano-e-mais-dois-feridos-em-monaco.shtml",
+      "published_date": "2026-06-30T12:12:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "UK announces biggest defense spending since the Cold War",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/reino-unido-anuncia-maior-gasto-com-defesa-desde-a-guerra-fria.shtml",
+      "published_date": "2026-06-30T11:44:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mindelo, in Cape Verde, celebrates the musical legacy of Cesária Évora",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/06/mindelo-em-cabo-verde-celebra-legado-musical-de-cesaria-evora.shtml",
+      "published_date": "2026-06-30T11:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "São Paulo has a dry weather warning for the next few days and a maximum of 26°C this Tuesday (30)",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/sao-paulo-tem-alerta-de-tempo-seco-para-os-proximos-dias-e-maxima-de-26c-nesta-terca-30.shtml",
+      "published_date": "2026-06-30T08:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Nazi items are sold on the internet under the justification of historical preservation",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/itens-nazistas-sao-vendidos-na-internet-sob-justificativa-de-preservacao-historica.shtml",
+      "published_date": "2026-06-30T07:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bombardment of information and stimuli causes digital overload and feeling like your head won't turn off",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/06/bombardeio-de-informacoes-e-estimulos-causa-sobrecarga-digital-e-sensacao-de-cabeca-que-nao-desliga.shtml",
+      "published_date": "2026-06-30T07:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "New CNPJ with letters and numbers starts in July and 'one thousand backwards' may change",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/novo-cnpj-com-letras-e-numeros-comeca-em-julho-e-mil-ao-contrario-pode-mudar.shtml",
+      "published_date": "2026-06-30T07:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ivory Coast, one of the best defenses, and Norway, among the worst, decide who will play Brazil in the World Cup",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/costa-do-marfim-uma-das-melhores-defesas-e-noruega-entre-as-piores-decidem-quem-pega-brasil-na-copa.shtml",
+      "published_date": "2026-06-30T02:02:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Cold War never became a real war, but it still shapes US policy",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/guerra-fria-nunca-virou-guerra-de-fato-mas-ainda-molda-politica-dos-eua.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "PF, Lula and Mendonça act impartially in the Master case",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/06/pf-lula-e-mendonca-agem-com-isencao-no-caso-master.shtml",
+      "published_date": "2026-06-30T01:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The investigation into Americanas continues",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/06/prossegue-a-investigacao-sobre-a-americanas.shtml",
+      "published_date": "2026-06-30T01:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Kristen Stewart says she lived a 'magnificent nightmare' filming with Wagner Moura",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/06/kristen-stewart-diz-que-viveu-pesadelo-magnifico-ao-filmar-com-wagner-moura.shtml",
+      "published_date": "2026-06-30T00:24:00Z",
+      "category": "Military"
     },
     {
       "title": "Apple has list of suppliers, parts and photos of the iPhone 18 Pro exposed after hacker attack against Tata",
@@ -185,102 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "PF alleges lack of personnel and asks Mendonça for more time for investigation that mentions Lulinha",
+      "title": "Your time to shine? How Jupiter in Leo can change your game in 2026",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/pf-alega-falta-de-pessoal-e-pede-mais-prazo-a-mendonca-para-investigacao-que-cita-lulinha.shtml",
-      "published_date": "2026-06-29T14:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/06/sua-hora-de-brilhar-como-jupiter-em-leao-pode-mudar-seu-jogo-em-2026.shtml",
+      "published_date": "2026-06-30T10:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Award recognizes reports on sustainable development in the country",
+      "title": "AI drives record $200 billion in mergers and acquisitions in the US electricity sector",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/06/premio-reconhece-reportagens-sobre-desenvolvimento-sustentavel-no-pais.shtml",
-      "published_date": "2026-06-29T13:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/ia-impulsiona-recorde-de-us-200-bilhoes-em-fusoes-e-aquisicoes-no-setor-eletrico-dos-eua.shtml",
+      "published_date": "2026-06-30T09:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Eloá's brother, Rota lieutenant shot in the head, has an extremely serious condition",
+      "title": "Project in São Paulo addresses the impacts of racism on health and restores the self-esteem of young black people",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/irmao-de-eloa-tenente-da-rota-baleado-na-cabeca-tem-quadro-extremamente-grave.shtml",
-      "published_date": "2026-06-29T12:36:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/06/projeto-em-sao-paulo-trata-os-impactos-do-racismo-na-saude-e-resgata-autoestima-de-jovens-negros.shtml",
+      "published_date": "2026-06-30T07:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "US Troops Race to Reopen Venezuela’s Airport and Port for Quake Aid",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/venezuela-us-military-southcom-la-guaira-port-airport-earthquake-2026/",
-      "published_date": "2026-06-29T11:31:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minas will delay navigation in Hormuz for months, says CEO of the maritime transport sector",
+      "title": "Artisano celebrates five years with gelatos designed by renowned chefs",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/minas-vao-atrasar-a-navegacao-em-ormuz-por-meses-diz-ceo-do-setor-de-transporte-maritimo.shtml",
-      "published_date": "2026-06-29T11:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Fasten your seatbelts, Zico is gone",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/casa-folha-na-copa/2026/06/apertem-os-cintos-que-o-zico-sumiu.shtml",
-      "published_date": "2026-06-28T22:17:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "From student to World Cup rival: how Brazil helped Japan take a leap forward in football",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/de-aluno-a-rival-na-copa-como-brasil-ajudou-japao-a-dar-um-salto-no-futebol.shtml",
-      "published_date": "2026-06-28T21:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Court orders arrest of two suspects linked to the attempted murder of Eloá's lieutenant brother",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/justica-decreta-prisao-de-dois-suspeitos-ligados-a-tentativa-de-homicidio-de-tenente-da-rota.shtml",
-      "published_date": "2026-06-28T18:36:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two Brazilians are arrested with 500 kilos of cocaine on a sailboat in Spain",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/dois-brasileiros-sao-presos-com-500-quilos-de-cocaina-em-veleiro-na-espanha.shtml",
-      "published_date": "2026-06-28T17:43:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Task force seeks to clarify attack against Rota lieutenant, Eloá's brother, in SP",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/forca-tarefa-busca-esclarecer-atentado-contra-tenente-da-rota-irmao-de-eloa-em-sp.shtml",
-      "published_date": "2026-06-28T16:05:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Entity takes case of military minister accused of gender discrimination to the STF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/entidade-leva-ao-stf-caso-de-ministro-militar-acusado-de-discriminacao-de-genero.shtml",
-      "published_date": "2026-06-28T15:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "São Paulo agency allocates R$400 million to female entrepreneurs in three years",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/agencia-paulista-destina-r-400-milhoes-a-empreendedoras-em-tres-anos.shtml",
-      "published_date": "2026-06-28T13:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "PM arrests suspects of shooting Eloá’s brother, Rota lieutenant",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/pm-prende-suspeitos-de-atirar-em-irmao-de-eloa-tenente-da-rota.shtml",
-      "published_date": "2026-06-28T12:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ginzburg inherited a taste for banal situations from his mother, which inspired his work.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/06/ginzburg-herdou-da-mae-gosto-por-situacoes-banais-que-inspirou-seu-trabalho.shtml",
-      "published_date": "2026-06-28T11:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2026/06/artisano-celebra-cinco-anos-com-gelatos-assinados-por-chefs-renomados.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "LED lamps will have new efficiency rules from 2028",
@@ -395,32 +423,88 @@
       "category": "Energy"
     },
     {
-      "title": "Is AI more like electricity or social networks?",
+      "title": "Brazil's gross public debt rises to 81.1% of GDP in May, says BC",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-machado-dias/2026/06/ia-se-parece-mais-com-eletricidade-ou-redes-sociais.shtml",
-      "published_date": "2026-06-28T10:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/divida-publica-bruta-do-brasil-sobe-a-811-do-pib-em-maio-diz-bc.shtml",
+      "published_date": "2026-06-30T13:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Russel overtakes Ferrari and secures pole at the Austrian Formula 1 GP",
+      "title": "With 'Euphoria' and 'Industry', series embrace OnlyFans and are inspired by porn actors",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/russel-supera-ferrari-e-garante-pole-no-gp-da-austria-de-formula-1.shtml",
-      "published_date": "2026-06-27T18:45:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/06/com-euphoria-e-industry-series-abracam-o-onlyfans-e-se-inspiram-em-atores-porno.shtml",
+      "published_date": "2026-06-30T13:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "The laws of politics and money do not overcome the laws of nature",
+      "title": "Dollar opens slightly higher on Ptax definition day of the month",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/06/as-leis-da-politica-e-do-dinheiro-nao-vencem-as-leis-da-natureza.shtml",
-      "published_date": "2026-06-27T10:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/dolar-abre-em-leve-alta-em-dia-de-definicao-da-ptax-do-mes.shtml",
+      "published_date": "2026-06-30T12:41:00Z",
+      "category": "Economy"
     },
     {
-      "title": "El Niño is predictable and we must prepare",
+      "title": "European Union expands protection for the steel industry, reduces annual limit and creates 50% tariff",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/06/el-nino-e-previsivel-e-devemos-nos-preparar.shtml",
-      "published_date": "2026-06-27T04:17:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/uniao-europeia-amplia-protecao-a-industria-de-aco-reduz-limite-anual-e-cria-tarifa-de-50.shtml",
+      "published_date": "2026-06-30T11:53:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Retail on alert: discounts and bonuses can be expensive",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/varejo-em-alerta-descontos-e-bonificacoes-podem-sair-caro.shtml",
+      "published_date": "2026-06-30T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Do any players still jump over the concentration wall?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/06/algum-jogador-ainda-pula-o-muro-da-concentracao.shtml",
+      "published_date": "2026-06-30T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Clubs, athletes and referees say Cade is soft on the FFU and demand new measures",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/clubes-atletas-e-arbitros-dizem-que-cade-e-brando-com-ffu-e-cobram-novas-medidas.shtml",
+      "published_date": "2026-06-30T09:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "There is gender discrimination in the job market, but there are also our choices",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/06/existe-discriminacao-de-genero-no-mercado-de-trabalho-mas-tambem-existem-nossas-escolhas.shtml",
+      "published_date": "2026-06-30T08:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Revenue paid R$16 billion in the 2nd batch of IR 2026; What are the next batches and what to do if you haven't entered?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/receita-paga-r-16-bi-no-2o-lote-do-ir-2026-quais-os-proximos-lotes-e-o-que-fazer-se-nao-entrou.shtml",
+      "published_date": "2026-06-30T07:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dominated by pastries, street markets in SP also have poke, Korean dog and burrito; see where to eat",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/06/dominadas-por-pasteis-feiras-livres-de-sp-tambem-tem-poke-dog-coreano-e-burrito-veja-onde-comer.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Assembly under the CKD and SKD regimes is also of interest to traditional automakers in Brazil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/06/montagem-nos-regimes-ckd-e-skd-interessa-tambem-a-montadoras-tradicionais-no-brasil.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "If an intense El Niño comes, the sorghum area will gain more space",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/06/se-vier-um-el-nino-intenso-a-area-de-sorgo-ganha-mais-espaco.shtml",
+      "published_date": "2026-06-30T02:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "SLC Agricola Wins a $358M Land Fight, and JP Morgan Winces",
@@ -479,227 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Namibia’s Orange Basin Draws the World’s Oil Majors",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/namibia-orange-basin-oil-2026/",
-      "published_date": "2026-06-29T13:01:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Alckmin, Haddad and Dias Toffoli watch João Carlos Martins and Chalita's show at Masp",
+      "title": "FIFA ranking proves Argentina's good life until the World Cup semi-final",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/alckmin-haddad-e-dias-toffoli-assistem-a-espetaculo-de-joao-carlos-martins-e-chalita-no-masp.shtml",
-      "published_date": "2026-06-29T13:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Port sector fears Super El Niño and sector association questions federal government investments",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/setor-portuario-teme-super-el-nino-e-associacao-do-setor-questiona-investimentos-do-governo-federal.shtml",
-      "published_date": "2026-06-29T13:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Public accounts have a deficit of R$44.4 billion in the year to May, the worst balance since 2020",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/contas-publicas-tem-deficit-de-r-444-bi-no-ano-ate-maio-pior-saldo-desde-2020.shtml",
-      "published_date": "2026-06-29T12:57:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "How Vini Jr. became Brazil's protagonist in the World Cup and could make the difference against Japan",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/como-vini-jr-virou-protagonista-do-brasil-na-copa-e-pode-fazer-a-diferenca-contra-o-japao.shtml",
-      "published_date": "2026-06-29T11:55:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Economists interrupt increase in inflation forecast after 15 weeks",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/economistas-interrompem-aumento-na-previsao-da-inflacao-apos-15-semanas.shtml",
-      "published_date": "2026-06-29T11:54:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "'I'll stop whenever I want', says Ana Maria Braga about retiring from television",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/06/vou-parar-quando-eu-quiser-diz-ana-maria-braga-sobre-aposentadoria-da-televisao.shtml",
-      "published_date": "2026-06-29T11:15:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazil x Japan changes opening hours for INSS, banks, stores and supermarkets; see how it looks",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/brasil-x-japao-muda-horario-de-inss-bancos-lojas-e-supermercados-veja-como-fica.shtml",
-      "published_date": "2026-06-29T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The wrong question about the dollar",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/06/a-pergunta-errada-sobre-o-dolar.shtml",
-      "published_date": "2026-06-29T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Chips in crisis and companies in fear",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/06/chips-em-crise-e-empresas-com-medo.shtml",
-      "published_date": "2026-06-29T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazilian population is stressed and loses sleep because of money, says research",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/populacao-brasileira-vive-estressada-e-perde-o-sono-por-causa-de-dinheiro-diz-pesquisa.shtml",
-      "published_date": "2026-06-29T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Card debt can double in less than a year without renegotiation",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/divida-no-cartao-pode-dobrar-em-menos-de-um-ano-sem-renegociacao.shtml",
-      "published_date": "2026-06-29T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "In Brazil's game, the political division cools",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/06/no-jogo-do-brasil-a-divisao-politica-arrefece.shtml",
-      "published_date": "2026-06-29T23:51:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/ranking-da-fifa-comprova-boa-vida-da-argentina-ate-a-semifinal-da-copa.shtml",
+      "published_date": "2026-06-30T13:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Japan changed drastically to try to hold back Brazil",
+      "title": "CazéTV's retreat shows how public pressure can change incentives",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/japao-mudou-drasticamente-para-tentar-segurar-o-brasil.shtml",
-      "published_date": "2026-06-29T23:44:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/06/recuo-da-cazetv-mostra-como-pressao-publica-pode-mudar-incentivos.shtml",
+      "published_date": "2026-06-30T13:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Baby was my engine to stay awake and alert': the story of a mother rescued with her 18-day-old son from the rubble of an earthquake in Venezuela",
+      "title": "Nuns go viral celebrating Brazil's turnaround: 'We ask for the intercession of Saint Padre Pio, of whom Ancelotti is devoted'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/bebe-foi-meu-motor-para-estar-acordada-e-em-alerta-o-relato-de-mae-resgatada-com-filho-de-18-dias-de-escombros-de-terremoto-na-venezuela.shtml",
-      "published_date": "2026-06-29T23:43:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/freiras-viralizam-comemorando-virada-do-brasil-pedimos-intercessao-de-sao-padre-pio-de-quem-ancelotti-e-devoto.shtml",
+      "published_date": "2026-06-30T12:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "On penalties, Paraguay ends Germany's five-year-old dream and advances in the World Cup",
+      "title": "Vice member of Eduardo Paes' ticket and ally are targets of PF operation",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/paraguai-acaba-com-sonho-do-penta-da-alemanha-e-avanca-na-copa.shtml",
-      "published_date": "2026-06-29T23:29:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/06/vice-na-chapa-de-eduardo-paes-e-aliado-sao-alvos-de-operacao-da-pf.shtml",
+      "published_date": "2026-06-30T12:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Son apologizes after South Korea's early elimination from the World Cup",
+      "title": "Brazilian Navy sets up first field hospital in Venezuela after earthquake",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/son-pede-desculpas-apos-eliminacao-precoce-da-coreia-do-sul-na-copa-do-mundo.shtml",
-      "published_date": "2026-06-29T23:21:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/marinha-do-brasil-monta-primeiro-hospital-de-campanha-na-venezuela-apos-terremoto.shtml",
+      "published_date": "2026-06-30T12:47:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Paquetá has a problem with his thigh and will undergo tests; Raphinha no longer feels pain",
+      "title": "Who is Gamix, the Japanese influencer who went viral after shouting for elimination for Brazil",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/paqueta-tem-problema-na-coxa-e-passara-por-exames-raphinha-ja-nao-sente-dores.shtml",
-      "published_date": "2026-06-29T23:16:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/06/quem-e-gamix-influenciador-japones-que-viralizou-ao-gritar-com-eliminacao-para-o-brasil.shtml",
+      "published_date": "2026-06-30T12:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Neymar sends message to 'World Cup guru' who predicted Brazil's defeat",
+      "title": "Gakpo's personal tragedy shows that there are more important things than football",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/neymar-manda-mensagem-para-guru-das-copas-que-previu-derrota-do-brasil.shtml",
-      "published_date": "2026-06-29T23:08:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/tragedia-pessoal-de-gakpo-mostra-que-ha-coisas-mais-importantes-que-futebol.shtml",
+      "published_date": "2026-06-30T12:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "City Hall admits that drains installed in Roosevelt Square are inadequate and cause flooding",
+      "title": "Raízen sees losses almost triple and reach R$7.3 billion between January and March",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/prefeitura-admite-que-ralos-instalados-na-praca-roosevelt-sao-inadequados-e-causam-alagamento.shtml",
-      "published_date": "2026-06-29T23:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/raizen-ve-prejuizo-quase-triplicar-e-ir-a-r-73-bilhoes-entre-janeiro-e-marco.shtml",
+      "published_date": "2026-06-30T12:28:00Z",
       "category": "Local Events"
     },
     {
-      "title": "World Cup 2026 Portugal Face Croatia in Last-32 Tie",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-preview/",
-      "published_date": "2026-06-29T22:52:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026 Spain Face Austria in Last-32 Tie",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-preview/",
-      "published_date": "2026-06-29T22:52:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026 Brazil Beat Japan 2-1 to Reach the Last 16",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/world-cup-2026-brazil-beat-japan-2-1-to-reach-the-last-16/",
-      "published_date": "2026-06-29T22:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "With fetishistic origins, latex clothing became a trend among celebrities in Brazil during the World Cup",
+      "title": "Deadline to request forgotten PIS/Pasep values ​​for July ends this Tuesday (30)",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/06/roupas-de-latex-viram-tendencia-entre-celebridades-no-brasil-durante-a-copa-do-mundo.shtml",
-      "published_date": "2026-06-29T22:45:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/prazo-para-pedir-valores-esquecidos-do-pispasep-de-julho-termina-nesta-terca-30.shtml",
+      "published_date": "2026-06-30T12:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Japanese-style déjà vu: eliminated, Japan came out ahead in 2018, 2022 and 2026",
+      "title": "Hospitals in Venezuela suffer from overcrowding, lack of professionals and damage after earthquakes, says WHO",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/deja-vu-a-japonesa-eliminado-japao-saiu-na-frente-em-2018-2022-e-2026.shtml",
-      "published_date": "2026-06-29T22:44:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/hospitais-na-venezuela-sofrem-com-superlotacao-falta-de-profissionais-e-danos-apos-terremotos-diz-oms.shtml",
+      "published_date": "2026-06-30T12:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Port in La Guaira, Venezuela, becomes an open-air morgue after earthquakes",
+      "title": "US Security Secretary says he celebrated Iran's elimination from the World Cup",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/porto-em-la-guaira-na-venezuela-vira-necroterio-a-ceu-aberto-apos-terremotos.shtml",
-      "published_date": "2026-06-29T22:40:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/secretario-de-seguranca-dos-eua-diz-que-comemorou-eliminacao-do-ira-na-copa.shtml",
+      "published_date": "2026-06-30T12:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Maersk raises profit forecast as new US tariffs boost demand",
+      "title": "Dasa launches medicine for early-stage Alzheimer’s; two monthly applications cost R$12,700",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/maersk-eleva-projecao-de-lucro-com-novas-tarifas-dos-eua-impulsionando-demanda.shtml",
-      "published_date": "2026-06-29T22:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/dasa-lanca-medicamento-para-estagio-inicial-de-alzheimer-duas-aplicacoes-mensais-custam-r-127-mil.shtml",
+      "published_date": "2026-06-30T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sabesp obtains approval to expand the capture of the system that supplies RJ to reinforce Cantareira",
+      "title": "OnlyFans becomes a showcase of fame, fortune and reinvention for content creators",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/sabesp-obtem-aval-para-ampliar-captacao-de-sistema-que-abastece-o-rj-para-reforcar-cantareira.shtml",
-      "published_date": "2026-06-29T22:28:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/06/onlyfans-vira-vitrine-de-fama-fortuna-e-reinvencao-para-criadores-de-conteudo.shtml",
+      "published_date": "2026-06-30T11:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Alice Carvalho wears Marta's shirt and starts recording in Brazil",
+      "title": "Cape Verde enchants Brazilians with cultural and historical affinities",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/06/alice-carvalho-veste-a-camisa-de-marta-e-inicia-gravacoes-no-brasil.shtml",
-      "published_date": "2026-06-29T22:28:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/06/cabo-verde-encanta-brasileiros-com-afinidades-culturais-e-historicas.shtml",
+      "published_date": "2026-06-30T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "With goals from Casemiro and Martinelli, networks praise Ancelotti's lineup: 'Football genius'",
+      "title": "Enem 2025 questions were removed from the grade calculation due to their difficulty; know which ones",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/06/com-gols-de-casemiro-e-martinelli-redes-elogiam-escalacao-de-ancelotti-genio-do-futebol.shtml",
-      "published_date": "2026-06-29T22:22:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/questoes-do-enem-2025-foram-retiradas-do-calculo-da-nota-pela-dificuldade-saiba-quais.shtml",
+      "published_date": "2026-06-30T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezuelans deported from the US are missing after arriving in La Guaira before earthquakes",
+      "title": "Cape Verde requires planning for travel between islands in the archipelago",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/venezuelanos-deportados-dos-eua-estao-desaparecidos-apos-chegar-a-la-guaira-antes-de-terremotos.shtml",
-      "published_date": "2026-06-29T22:18:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/06/cabo-verde-exige-planejamento-para-viagem-entre-ilhas-do-arquipelago.shtml",
+      "published_date": "2026-06-30T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Asphalt that gave way in Belém was made by a company belonging to a deputy investigated for bidding fraud",
+      "title": "Mining agency contradicted internal opinion and reactivated permits abandoned by mining company",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/06/asfalto-que-cedeu-em-belem-foi-feito-por-empresa-de-deputado-investigado-de-fraude-em-licitacoes.shtml",
-      "published_date": "2026-06-29T22:07:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/agencia-de-mineracao-contrariou-parecer-interno-e-reativou-alvaras-abandonados-por-mineradora.shtml",
+      "published_date": "2026-06-30T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grupo Trigo predicts first results with Casa do Pão de Queijo at the end of the year",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/grupo-trigo-preve-primeiros-resultados-com-casa-do-pao-de-queijo-no-fim-do-ano.shtml",
+      "published_date": "2026-06-30T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Selection of Cláudio Hebdô cartoons from June 2026",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/06/selecao-de-charges-do-claudio-hebdo-de-junho-de-2026.shtml",
+      "published_date": "2026-06-30T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus drivers enter second day of strike in Rio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/motoristas-de-onibus-entram-no-segundo-dia-de-greve-no-rio.shtml",
+      "published_date": "2026-06-30T09:05:00Z",
       "category": "Local Events"
     }
   ]
