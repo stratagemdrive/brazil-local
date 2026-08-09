@@ -1,7 +1,28 @@
 {
   "country": "brazil",
-  "last_updated": "2026-08-09T11:35:32Z",
+  "last_updated": "2026-08-09T23:22:47Z",
   "stories": [
+    {
+      "title": "Lula acknowledges to allies that he spoke too much at his campaign convention",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-reconhece-a-aliados-que-falou-demais-em-convencao-de-sua-campanha.shtml",
+      "published_date": "2026-08-09T22:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina needs to stop aggression against Brazil to normalize relations, says Mauro Vieira",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/argentina-precisa-parar-as-agressoes-contra-o-brasil-para-normalizar-as-relacoes-diz-mauro-vieira.shtml",
+      "published_date": "2026-08-09T19:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Flávio writes a letter to Bolsonaro, cries and says that banning visits on Father's Day is inhumane",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-escreve-carta-a-bolsonaro-chora-e-diz-que-proibir-visita-no-dia-dos-pais-e-desumano.shtml",
+      "published_date": "2026-08-09T16:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rio de Janeiro Daily Brief — Sunday, August 9, 2026",
       "source": "The Rio Times Online",
@@ -122,25 +143,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pressure for Infantino to resign comes amid groundswell of support",
+      "title": "Maria da Penha's ex-husband is arrested in Natal (RN) for failing to comply with a protective measure",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/pressao-pela-renuncia-de-infantino-surge-em-meio-a-onda-de-apoio.shtml",
-      "published_date": "2026-08-08T11:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/ex-marido-de-maria-da-penha-e-preso-em-natal-rn-por-descumprir-medida-protetiva.shtml",
+      "published_date": "2026-08-09T22:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Documents reveal that the US investigated an alleged UFO in Bahia in 1963",
+      "title": "In a warm game, Palmeiras and Internacional draw goalless for the Brazilian",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/documentos-revelam-que-eua-investigaram-suposto-ovni-na-bahia-em-1963.shtml",
-      "published_date": "2026-08-08T08:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/em-jogo-morno-palmeiras-e-internacional-empatam-sem-gols-pelo-brasileiro.shtml",
+      "published_date": "2026-08-09T21:17:00Z",
+      "category": "Military"
     },
     {
-      "title": "USP signs agreement with reference Korean school that trained 'Parasite' director",
+      "title": "Jadson, ex-Corinthians and São Paulo, is released after arrest on suspicion of domestic violence",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/usp-firma-acordo-com-escola-coreana-referencia-que-formou-diretor-de-parasita.shtml",
-      "published_date": "2026-08-08T07:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/jadson-ex-corinthians-e-sao-paulo-e-liberado-apos-prisao-por-suspeita-de-violencia-domestica.shtml",
+      "published_date": "2026-08-09T18:20:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan's invisible children born in war and without registration",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/as-criancas-invisiveis-do-sudao-nascidas-na-guerra-e-sem-registro.shtml",
+      "published_date": "2026-08-09T15:09:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Expensive gasoline in the US drives sales of Toyota and Hyundai hybrids",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/gasolina-cara-nos-eua-impulsiona-venda-de-hibridos-de-toyota-e-hyundai.shtml",
+      "published_date": "2026-08-09T14:35:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Warner uses artificial intelligence dogs to promote 'The End of the Street'; look",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/warner-usa-cachorros-de-inteligencia-artificial-para-divulgar-o-fim-da-rua-veja.shtml",
+      "published_date": "2026-08-09T14:09:00Z",
+      "category": "Military"
     },
     {
       "title": "São Paulo Daily Brief — Sunday, August 9, 2026",
@@ -241,46 +283,39 @@
       "category": "Military"
     },
     {
-      "title": "Deodoro Arenas of Rio-2016 are closed due to impasse between Ministry of Sports and Army",
+      "title": "Oil opens week on a high with uncertainty about reopening of the Strait of Hormuz",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/arenas-de-deodoro-da-rio-2016-ficam-fechadas-com-impasse-entre-ministerio-do-esporte-e-exercito.shtml",
-      "published_date": "2026-08-08T15:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/petroleo-abre-semana-em-alta-com-incertezas-sobre-reabertura-do-estreito-de-hormuz.shtml",
+      "published_date": "2026-08-09T22:53:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Moraes rejects Bolsonaro's request to receive visits from his children on Father's Day",
+      "title": "Artificial Intelligence's Volatile Demand for Energy Damages Data Centers",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/moraes-rejeita-pedido-de-bolsonaro-para-receber-visita-de-filhos-no-dia-dos-pais.shtml",
-      "published_date": "2026-08-08T14:57:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/demanda-volatil-da-inteligencia-artificial-por-energia-danifica-data-centers.shtml",
+      "published_date": "2026-08-09T21:19:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Judge of São Paulo makes his debut in dramaturgy with conflicts by Henry Sidgwick",
+      "title": "Rosalía makes her 'Lux' tour a breathtaking show of visual poetry and energy",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/juiz-de-sao-paulo-faz-sua-estreia-na-dramaturgia-com-conflitos-de-henry-sidgwick.shtml",
-      "published_date": "2026-08-08T13:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/rosalia-faz-da-turne-lux-um-show-arrebatador-de-poesia-visual-e-energia.shtml",
+      "published_date": "2026-08-09T16:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Institute promotes awards on combating corruption",
+      "title": "Total solar eclipse in Leo dominates the week and affects relationships",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/instituto-promove-premiacao-sobre-combate-a-corrupcao.shtml",
-      "published_date": "2026-08-08T13:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/08/eclipse-solar-total-em-leao-domina-a-semana-e-mexe-com-relacoes.shtml",
+      "published_date": "2026-08-09T13:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Jim Carrey set to star in live-action 'The Jetsons' film, says Warner Bros.",
+      "title": "Netanyahu says Iran will not have a nuclear weapon, and Houthis attack Saudi refinery on the Red Sea coast",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/jim-carrey-deve-protagonizar-filme-live-action-do-desenho-os-jetsons-diz-warner-bros.shtml",
-      "published_date": "2026-08-08T12:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Conflict between PF and STF creates hostile environment, but delegates see no risk for investigations",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/embate-entre-pf-e-stf-gera-ambiente-hostil-mas-delegados-nao-veem-risco-para-investigacoes.shtml",
-      "published_date": "2026-08-08T09:00:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/netanyahu-diz-que-ira-nao-tera-arma-nuclear-e-houthis-atacam-refinaria-saudita-na-costa-do-mar-vermelho.shtml",
+      "published_date": "2026-08-09T12:25:00Z",
+      "category": "Energy"
     },
     {
       "title": "Petrobras chooses company for carbon credits whose partner had the logging company punished",
@@ -388,39 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "Chile Markets: IPSA & the Peso — August 7, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/chile-markets-ipsa-the-peso-august-7-2026/",
-      "published_date": "2026-08-07T08:03:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Colombia Markets: COLCAP & the Peso — August 7, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-august-7-2026/",
-      "published_date": "2026-08-07T08:01:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Brazil’s Financial Morning Call for Friday, August 7, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-august-7-2026/",
-      "published_date": "2026-08-07T08:00:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "With El Niño, Ibama authorizes reduction of water flow in Belo Monte to a minimum level",
+      "title": "'Oppenheimer', by Nolan, and 'Supergirl': what to see on TV and streaming this Monday",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/com-el-nino-ibama-autoriza-reducao-de-vazao-de-agua-em-belo-monte-a-nivel-minimo.shtml",
-      "published_date": "2026-08-07T08:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/oppenheimer-de-nolan-e-supergirl-o-que-ver-na-tv-e-no-streaming-nesta-segunda.shtml",
+      "published_date": "2026-08-09T20:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump imposes 15% tariff on polysilicon to protect US chip and solar industry",
+      "title": "Why I hate self-help and motivational literature",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/trump-impoe-tarifa-de-15-sobre-polissilicio-para-proteger-industria-de-chips-e-energia-solar-dos-eua.shtml",
-      "published_date": "2026-08-07T02:30:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/08/por-que-eu-detesto-literatura-de-autoajuda-e-de-cunho-motivacional.shtml",
+      "published_date": "2026-08-09T15:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Replenishment for Father's Day advances, but value per purchase falls, assesses Qive",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/reabastecimento-para-o-dia-dos-pais-avanca-mas-valor-por-compra-cai-avalia-qive.shtml",
+      "published_date": "2026-08-09T14:34:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Investment at maturity requires even more planning; know what to consider",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/investimento-na-maturidade-requer-ainda-mais-planejamento-saiba-o-que-considerar.shtml",
+      "published_date": "2026-08-09T14:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nocturnal coffee frog discovered in Costa Rica",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/ra-do-cafe-noturna-e-descoberta-na-costa-rica.shtml",
+      "published_date": "2026-08-09T13:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Virginia Fonseca does not give up on TV and evaluates research on her image in the market",
@@ -528,178 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "São Paulo Daily Brief — Saturday, August 8, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-august-8-2026/",
-      "published_date": "2026-08-08T10:23:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The scare surrounding Fauci is a piece of cake filled with bad faith",
+      "title": "Globo cameraman is expelled by Band during debate on suspicion of attacking photographer backstage",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/08/escarceu-em-torno-de-fauci-e-pastel-de-vento-recheado-com-ma-fe.shtml",
-      "published_date": "2026-08-08T10:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Colombia’s New President Says the Wealth Tax Will Go — What That Means if You Live There",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/colombia-wealth-tax-abolition-foreign-residents-2026/",
-      "published_date": "2026-08-08T09:42:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Argentina’s Country Risk Climbed to 451 While the Rest of the Region Rallied",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/argentina-country-risk-451-decoupling-2026/",
-      "published_date": "2026-08-08T09:42:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "LatAm Expat & Nomad Daily Guide for Saturday, August 8, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-august-8-2026/",
-      "published_date": "2026-08-08T09:42:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Saxophonist Dick Parry, who played with Pink Floyd, leaves assets of R$384 thousand",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/saxofonista-dick-parry-que-tocou-com-pink-floyd-deixa-patrimonio-de-r-384-mil.shtml",
-      "published_date": "2026-08-09T11:20:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/cinegrafista-da-globo-e-expulso-pela-band-durante-debate-sob-suspeita-de-agredir-fotografo-nos-bastidores.shtml",
+      "published_date": "2026-08-09T23:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Contra o Godzilla digital",
+      "title": "Readers comment on paternity: 'Patriarchal contract is subverted by love'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/contra-o-godzilla-digital.shtml",
-      "published_date": "2026-08-09T11:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/08/leitores-comentam-paternidades-contrato-patriarcal-e-subvertido-por-amor.shtml",
+      "published_date": "2026-08-09T22:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'I'm a loving father', says Cauã Reymond raising his teenage daughter",
+      "title": "Why did the courts re-arrest the ex-husband of Maria da Penha, the woman who inspired the law against domestic violence",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/sou-um-pai-carinhoso-diz-caua-reymond-a-criacao-da-filha-adolescente.shtml",
-      "published_date": "2026-08-09T11:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/por-que-justica-voltou-a-prender-o-ex-marido-de-maria-da-penha-mulher-que-inspirou-lei-contra-violencia-domestica.shtml",
+      "published_date": "2026-08-09T22:27:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Even outside the government plan, zero tariffs will be one of Lula's goals, says PT deputy",
+      "title": "Ana Paula Renault reflects on present fatherhood and gets emotional on Father's Day",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/mesmo-fora-do-plano-de-governo-tarifa-zero-sera-uma-das-metas-de-lula-diz-deputado-do-pt.shtml",
-      "published_date": "2026-08-09T11:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/08/ana-paula-renault-faz-reflexao-sobre-paternidade-presente-e-se-emociona-no-dia-dos-pais.shtml",
+      "published_date": "2026-08-09T22:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Latin America Sports Daily for Sunday, August 9, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/latin-america-sports-daily-sunday-august-9-2026/",
-      "published_date": "2026-08-09T10:55:25Z",
+      "title": "Olivier Anquier opens cultural space in the center of SP with never-before-seen photographs",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/olivier-anquier-inaugura-espaco-cultural-no-centro-de-sp-com-fotografias-ineditas.shtml",
+      "published_date": "2026-08-09T22:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Residents record video of tornado in rural area of ​​Paraná",
+      "title": "The unequal limit of electoral donations",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/moradores-registram-video-de-tornado-em-area-rural-do-parana.shtml",
-      "published_date": "2026-08-09T10:06:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/08/o-limite-desigual-das-doacoes-eleitorais.shtml",
+      "published_date": "2026-08-09T21:41:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Voepass accident investigations could be a milestone for aviation safety",
+      "title": "Moro and Paes decide not to go to the first debate between candidates for governor",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/investigacoes-de-acidente-da-voepass-podem-ser-marco-para-seguranca-aerea.shtml",
-      "published_date": "2026-08-09T10:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/moro-e-paes-decidem-nao-ir-a-primeiro-debate-entre-candidatos-a-governador.shtml",
+      "published_date": "2026-08-09T21:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pro-Trump influencers lose millions of views on video platforms",
+      "title": "Modern medicine has taken death out of the home and we have lost familiarity with it, says doctor who is a reference in euthanasia",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/influenciadores-pro-trump-perdem-milhoes-de-visualizacoes-em-plataformas-de-video.shtml",
-      "published_date": "2026-08-09T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/medicina-moderna-tirou-a-morte-de-dentro-de-casa-e-perdemos-a-familiaridade-com-ela-diz-medica-referencia-em-eutanasia.shtml",
+      "published_date": "2026-08-09T21:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "In-person events become more valuable in the virtual world, says former SXSW chief",
+      "title": "NGOs launch campaign for Sabesp to resume discount for water savings",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/eventos-presenciais-se-tornam-mais-valiosos-em-mundo-virtual-diz-ex-chefe-do-sxsw.shtml",
-      "published_date": "2026-08-09T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/ongs-lancam-campanha-para-que-sabesp-retome-desconto-por-economia-de-agua.shtml",
+      "published_date": "2026-08-09T21:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sugar was as key as meat in human evolution, study finds",
+      "title": "Tamara Klink apologizes for asking readers to stop buying her book",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/08/acucar-foi-tao-chave-quanto-carne-na-evolucao-humana-aponta-estudo.shtml",
-      "published_date": "2026-08-09T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/tamara-klink-se-desculpa-por-pedir-que-leitores-deixem-de-comprar-o-seu-livro.shtml",
+      "published_date": "2026-08-09T20:47:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Class C rejects ideological labels and votes by result, says book",
+      "title": "Newborn kidnapped in Campo Grande (MS) is found in Paraguay",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/classe-c-rejeita-rotulos-ideologico-e-vota-por-resultado-diz-livro.shtml",
-      "published_date": "2026-08-09T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/recem-nascida-sequestrada-em-campo-grande-ms-e-encontrada-no-paraguai.shtml",
+      "published_date": "2026-08-09T20:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "First OpenAI, then Meta: why AI bots keep hacking",
+      "title": "Whitney Houston turns into a Barbie with a costume from the classic 'I Wanna Dance with Somebody'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/08/primeiro-a-openai-depois-a-meta-por-que-robos-de-ia-continuam-fazendo-ataques-hackers.shtml",
-      "published_date": "2026-08-09T07:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/whitney-houston-vira-barbie-com-figurino-do-classico-i-wanna-dance-with-somebody.shtml",
+      "published_date": "2026-08-09T20:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "After leukemia relapse, 6-year-old boy is discharged with immunotherapy",
+      "title": "Why Miami became the new capital of the ultra-rich in the USA",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/apos-recidiva-da-leucemia-menino-de-6-anos-recebe-alta-com-imunoterapia.shtml",
-      "published_date": "2026-08-09T07:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/por-que-miami-virou-a-nova-capital-dos-ultrarricos-nos-eua.shtml",
+      "published_date": "2026-08-09T20:11:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Male infertility is discovered late and delays couples’ pregnancies",
+      "title": "Deaths: Treated cancer by reaffirming kindness and optimism, which he taught to his children",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/08/infertilidade-masculina-e-descoberta-tardiamente-e-adia-gravidez-de-casais.shtml",
-      "published_date": "2026-08-09T07:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/mortes-tratou-o-cancer-reafirmando-bondade-e-otimismo-que-ensinou-aos-filhos.shtml",
+      "published_date": "2026-08-09T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Check out the results of Mega-Sena competition 3042 from 11 am this Sunday (9).",
+      "title": "Extreme heat causes searches for 'heat wave' to break global record on Google",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/confira-a-partir-das-11h-deste-domingo-9-o-resultado-do-concurso-3042-da-mega-sena.shtml",
-      "published_date": "2026-08-09T07:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/calor-extremo-faz-buscas-por-onda-de-calor-baterem-recorde-global-no-google.shtml",
+      "published_date": "2026-08-09T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Former player Jadson is arrested in the act in Paraná on suspicion of domestic violence",
+      "title": "1926: Imprisoned journalist is acclaimed in Ceará before the elected president",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/ex-jogador-jadson-e-preso-em-flagrante-no-parana-sob-suspeita-de-violencia-domestica.shtml",
-      "published_date": "2026-08-09T02:40:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/0008/07/1926-jornalista-preso-e-aclamado-no-ceara-diante-do-presidente-eleito.shtml",
+      "published_date": "2026-08-09T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rare show by Paulinho da Viola and Maria Bethânia packs Sweet Wonder",
+      "title": "Wanted for attempted feminicide is arrested in the south of São Paulo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/raro-show-de-paulinho-da-viola-e-maria-bethania-embala-doce-maravilha.shtml",
-      "published_date": "2026-08-09T02:07:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/procurado-por-tentativa-de-feminicidio-e-preso-na-zona-sul-de-sao-paulo.shtml",
+      "published_date": "2026-08-09T19:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Renan Santos' hearing",
+      "title": "Colombian woman killed in helicopter crash in Rio had more than 250 thousand followers",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/08/a-sabatina-de-renan-santos.shtml",
-      "published_date": "2026-08-09T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/08/colombiana-morta-em-queda-de-helicoptero-no-rio-tinha-mais-de-250-mil-seguidores.shtml",
+      "published_date": "2026-08-09T19:17:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Viih Tube and the strange reality of labor rights",
+      "title": "Man surrenders to police after killing his 3 and 5 year old daughters in the south of SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/08/viih-tube-e-o-estranho-reality-dos-direitos-trabalhistas.shtml",
-      "published_date": "2026-08-09T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/homem-se-entrega-a-policia-apos-matar-as-filhas-de-3-e-5-anos-na-zona-sul-de-sp.shtml",
+      "published_date": "2026-08-09T19:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Father's Day 2026 is the last with five-day paternity leave in Brazil",
+      "title": "Luxury chain WatchHouse sells cup of coffee for R$163 in the USA",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dia-dos-pais-de-2026-e-o-ultimo-com-licenca-paternidade-de-cinco-dias-no-brasil.shtml",
-      "published_date": "2026-08-09T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/rede-de-luxo-watchhouse-vende-xicara-de-cafe-por-r-163-nos-eua.shtml",
+      "published_date": "2026-08-09T19:06:00Z",
       "category": "Local Events"
     }
   ]
