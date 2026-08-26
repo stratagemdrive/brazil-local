@@ -1,7 +1,28 @@
 {
   "country": "brazil",
-  "last_updated": "2026-08-25T23:17:52Z",
+  "last_updated": "2026-08-26T11:33:59Z",
   "stories": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/aliados-de-joao-campos-intensificam-apelo-por-lula-em-pernambuco.shtml",
+      "published_date": "2026-08-26T02:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Caiado compara anistia a Bolsonaro a decisão do STF a favor de Lula e evita explicar ajuste fiscal",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caiado-compara-anistia-a-bolsonaro-a-anulacao-de-sentencas-de-lula-pelo-stf.shtml",
+      "published_date": "2026-08-26T00:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/08/um-chato-de-galochas.shtml",
+      "published_date": "2026-08-25T23:14:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
@@ -122,25 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Envoy Flags Vaca Muerta Espionage Risk From Chinese Tech",
+      "title": "Ecuador Approves Law Letting Military Aid Police Without Emergency",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/us-envoy-flags-vaca-muerta-espionage-risk-from-chinese-tech/",
-      "published_date": "2026-08-23T08:33:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.riotimesonline.com/ecuador-military-support-law-police-2026/",
+      "published_date": "2026-08-26T09:33:26Z",
+      "category": "Military"
     },
     {
-      "title": "Companies project losses from the effects of El Niño, but some see gains",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/empresas-projetam-perdas-com-efeitos-do-el-nino-mas-algumas-veem-ganhos.shtml",
-      "published_date": "2026-08-23T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Presidential election has first debate with probable absence of Lula and Flávio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/eleicao-presidencial-tem-primeiro-debate-com-provavel-ausencia-de-lula-e-flavio.shtml",
-      "published_date": "2026-08-23T02:00:00Z",
-      "category": "Diplomacy"
+      "title": "Codelco and Pucobre Seal US$870 Million Tovaku Copper Alliance",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/codelco-pucobre-alliance-tovaku-copper-2026/",
+      "published_date": "2026-08-26T09:32:46Z",
+      "category": "Military"
     },
     {
       "title": "Statkraft Chile Fills Los Lagos Reservoir, Eyes 2027 Start",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Prime Minister says Canada is now in a trade war with the US",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/mark-carney-diz-que-canada-esta-agora-em-guerra-comercial-com-os-eua.shtml",
-      "published_date": "2026-08-22T19:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Batista brothers tell Cade that the purchase of Avibras is an entry into national defense",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/irmaos-batista-dizem-ao-cade-que-compra-da-avibras-e-entrada-em-defesa-nacional.shtml",
-      "published_date": "2026-08-22T18:36:00Z",
-      "category": "Military"
+      "title": "Venezuela’s Oil Exports to the US Hit a Seven-Year High",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/venezuela-economy-after-maduro-2026/",
+      "published_date": "2026-08-26T10:10:00Z",
+      "category": "Energy"
     },
     {
       "title": "Rodríguez Says Venezuela Exchange Rate Gap Fell to 12.3 Percent",
@@ -416,11 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "Prosecutors Raided the Maker of Baly, Brazil’s Cheapest Energy Drink",
+      "title": "Brazil’s Real Recovers as Forecasters Hold Their Dollar Call",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/baly-energy-drink-investigation-icms-santa-catarina/",
-      "published_date": "2026-08-20T22:07:10Z",
-      "category": "Energy"
+      "url": "https://www.riotimesonline.com/usd-brl-outlook-real-focus-2026/",
+      "published_date": "2026-08-26T10:10:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Argentina’s Inflation Crept Back Up to 2.1% in July",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/argentina-inflation-july-2026-indec/",
+      "published_date": "2026-08-26T10:10:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Peru Export Record Fuels Tech, AI and Automation Supplier Boom",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/peru-export-record-tech-suppliers-hong-kong-fta-2026/",
+      "published_date": "2026-08-26T07:59:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deirdre-nansen-mccloskey/2026/08/a-recessao-esta-chegando.shtml",
+      "published_date": "2026-08-26T03:05:00Z",
+      "category": "Economy"
     },
     {
       "title": "Ex-Prosecutor Accuses Fiscal Camargo of Order to Drop Petro Charge",
@@ -535,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ghana’s Central Bank Lost US$1.7 Billion Buying Gold, the IMF Says",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/casas-bahia-faz-novo-leilao-de-eletrodomesticos-lances-vao-ate-4-de-setembro.shtml",
+      "published_date": "2026-08-26T11:18:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/justica-libera-r-27-bi-para-pagar-atrasados-do-inss-veja-quem-recebe.shtml",
+      "published_date": "2026-08-26T11:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/inundacoes-no-nepal-matam-ao-menos-9-e-ha-quase-400-desaparecidos.shtml",
+      "published_date": "2026-08-26T11:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/08/cantoria-de-baleias-envolve-pratica-imitacao-e-ensaios.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/08/mata-atlantica-e-a-primeira-linha-de-defesa-climatica-contra-o-el-nino.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/08/bombeiros-terapeutas-e-agricultores-quais-animais-trabalham-em-parceria-com-os-humanos.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/tire-suas-duvidas-sobre-a-multa-aplicada-pela-anpd-ao-tiktok-no-pais.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/08/morcegos-sao-cegos-caes-veem-em-preto-e-branco-saiba-como-bichos-enxergam.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/08/restaurantes-do-rio-incorporam-cafe-especial-em-pratos-drinques-e-cartas.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/elogio-da-esterilidade.shtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Says It Will Join the BRICS Bank — Bank Can’t Confirm",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/ghana-gold-purchase-programme-loss-inquiry-2026/",
-      "published_date": "2026-08-23T09:44:27Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/ndb-members-who-can-join-2026/",
+      "published_date": "2026-08-26T10:10:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "World Bank Bars Kenya’s eCitizen Builder Over a Somalia Contract",
+      "title": "Aeroparque Closed: What Buenos Aires Travelers Need to Know This Week",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/world-bank-debarment-kenya-webmasters-2026/",
-      "published_date": "2026-08-23T09:42:50Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/aeroparque-closed-buenos-aires-travelers-guide/",
+      "published_date": "2026-08-26T10:05:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Flávio Bolsonaro Security Plan Mirrors Bukele Model",
+      "title": "LatAm Expat & Nomad Daily Guide for Wednesday, August 26, 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/flavio-bolsonaro-security-plan-mirrors-bukele-model/",
-      "published_date": "2026-08-23T08:34:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Reducing Brazil's very high interest rates requires tackling rent-seeking",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/reduzir-os-juros-altissimos-do-brasil-exige-enfrentar-o-rentismo.shtml",
-      "published_date": "2026-08-23T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/cineasta-e-organizacao-lancam-carta-anticensura-e-cobram-compromisso-de-candidatos-com-liberdade-de-expressao.shtml",
-      "published_date": "2026-08-25T23:13:00Z",
+      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-wednesday-august-26-2026/",
+      "published_date": "2026-08-26T10:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/08/investigados-do-fifagate-chegam-a-acordo-com-departamento-de-justica-dos-eua.shtml",
-      "published_date": "2026-08-25T23:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/08/presidentes-de-companhias-aereas-se-unem-em-video-por-lito-souza.shtml",
-      "published_date": "2026-08-25T23:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-em-rondonia-marcos-rogerio-tem-24-e-adailton-furia-21.shtml",
-      "published_date": "2026-08-25T23:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/trump-lamenta-morte-de-dolly-parton-e-pede-bandeiras-dos-eua-a-meio-mastro.shtml",
-      "published_date": "2026-08-25T23:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-flavio-preve-derrota-em-julgamento-sobre-deep-fake-no-tse.shtml",
-      "published_date": "2026-08-25T22:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-riedel-lidera-com-40-em-ms-fabio-trad-tem-13-e-delcidio-amaral-8.shtml",
-      "published_date": "2026-08-25T22:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/08/bolsa-familia-para-os-presidenciaveis.shtml",
-      "published_date": "2026-08-25T22:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-no-mt-wellington-fagundes-tem-27-e-otaviano-pivetta-23.shtml",
-      "published_date": "2026-08-25T22:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/novo-corregedor-nacional-de-justica-toma-posse-e-pede-de-juizes-resistencia-a-pressoes-e-conveniencias.shtml",
-      "published_date": "2026-08-25T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/stf-recomeca-do-zero-julgamento-sobre-lei-que-pode-afetar-buser-e-fretamento-por-aplicativo.shtml",
-      "published_date": "2026-08-25T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil Police Raid Municipal Offices in Banco Master Pension Probe",
+      "title": "Pereira’s Matecaña Airport Reopens After Earthquake, but Schedules Stay Thin",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/banco-master-pension-probe-campo-grande-2026/",
-      "published_date": "2026-08-25T22:28:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia Ends Diesel Subsidy for Large Consumers as YPFB Admits Crisis",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/bolivia-fuel-subsidy-diesel-ypfb-paz-jobs-2026/",
-      "published_date": "2026-08-25T22:27:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia Quake Insurance Claims Triple as Court Weighs Pension Reform",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/colombia-earthquake-insurance-claims-pension-court-2026/",
-      "published_date": "2026-08-25T22:26:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caputo Demands Law to Punish Journalists Over ‘Unfounded’ Reports",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/caputo-journalists-law-argentina-2026/",
-      "published_date": "2026-08-25T22:25:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil Senate Committee Takes Up PEC Ending 6×1 Work Schedule",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazil-6x1-work-schedule-senate-aziz-2026/",
-      "published_date": "2026-08-25T22:23:42Z",
+      "url": "https://www.riotimesonline.com/pereira-matecana-airport-reopens-earthquake-schedules/",
+      "published_date": "2026-08-26T10:05:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/quaest-cleitinho-lidera-em-mg-com-29-patrus-tem-11-e-kalil-10.shtml",
-      "published_date": "2026-08-25T22:21:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/08/onu-premia-rede-brasileira-voltada-a-preservacao-do-cerrado.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/a-vida-e-os-sucessos-de-dolly-parton-a-lenda-da-musica-country-que-morreu-aos-80-anos.shtml",
-      "published_date": "2026-08-25T22:13:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/por-que-evangelicos-deveriam-reconsiderar-o-tema-da-eutanasia.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/justica-nega-pedido-de-lulinha-para-derrubar-video-de-flavio-sobre-suspeita-de-desvios-no-inss.shtml",
-      "published_date": "2026-08-25T22:05:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/08/escola-pioneira-no-ensino-bilingue-de-sao-paulo-e-vendida-para-investidores.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/justica-condena-99-a-indenizar-passageira-vitima-de-acidente-com-mototaxi-em-sp.shtml",
-      "published_date": "2026-08-25T22:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/08/na-praca-de-burle-marx-o-medo-trava-a-caneta.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/com-a-venda-de-350-toneladas-de-guioza-congelado-ajinomoto-amplia-participacao-no-food-service.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/08/o-que-a-astrologia-realmente-diz-sobre-o-signo-do-seu-cachorro.shtml",
+      "published_date": "2026-08-26T10:00:00Z",
       "category": "Local Events"
     }
   ]
