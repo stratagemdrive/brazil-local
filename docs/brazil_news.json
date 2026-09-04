@@ -1,7 +1,70 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-04T00:33:19Z",
+  "last_updated": "2026-09-04T14:53:22Z",
   "stories": [
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/super-ricos-ampliam-fatia-da-renda-sob-lula-apesar-de-agenda-voltada-aos-mais-pobres.shtml",
+      "published_date": "2026-09-04T14:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Friday (4) is the last hot day in São Paulo before the cold arrives",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sexta-4-e-o-ultimo-dia-de-calor-em-sao-paulo-antes-da-chegada-do-frio.shtml",
+      "published_date": "2026-09-04T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "See what international purchases look like with the end of the blouse tax",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/veja-como-ficam-as-compras-internacionais-com-o-fim-da-taxa-das-blusinhas.shtml",
+      "published_date": "2026-09-04T07:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bolsonarists come out in defense of Mendonça against Moraes; Flávio talks about the defeat of 'Lula's minister'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/bolsonaristas-saem-em-defesa-de-mendonca-contra-moraes-flavio-fala-em-derrota-de-ministro-de-lula.shtml",
+      "published_date": "2026-09-04T02:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-disputa-indefinida-e-flavio-bolsonaro-aposta-em-rua-e-crise-do-stf.shtml",
+      "published_date": "2026-09-04T02:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A woman at the head of the UN would be the end of a historic injustice",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/09/uma-mulher-a-frente-da-onu-seria-o-fim-de-uma-injustica-historica.shtml",
+      "published_date": "2026-09-04T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/renato-goes-posa-caracterizado-como-filho-desaparecido-de-arthur-em-quem-ama-cuida.shtml",
+      "published_date": "2026-09-04T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/fim-da-escala-6x1-leitores-opinam-sobre-avanco-e-pausa-em-votacao-de-pec.shtml",
+      "published_date": "2026-09-04T01:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Datafolha: Campaign zeroes out 'Dark Horse' effect and Cury plants flag on center voters",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-zera-efeito-dark-horse-e-cury-finca-bandeira-no-eleitor-de-centro.shtml",
+      "published_date": "2026-09-04T01:04:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
@@ -80,67 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Alcolumbre frustrates Lula government and leaves the end of the 6x1 until after the 1st round of the election",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/alcolumbre-frustra-governo-lula-e-deixa-fim-da-6x1-para-depois-do-1o-turno-da-eleicao.shtml",
-      "published_date": "2026-09-03T07:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "DiCaprio praises Brazilian actions to protect the Amazon and other ecosystems",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/dicaprio-elogia-acoes-brasileiras-para-proteger-a-amazonia-e-outros-ecossistemas.shtml",
-      "published_date": "2026-09-03T05:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flamengo wins late game and sticks to Palmeiras at the top of the Brazilian Championship",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-vence-jogo-atrasado-e-cola-no-palmeiras-na-ponta-do-brasileiro.shtml",
-      "published_date": "2026-09-03T00:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'I congratulated DiCaprio for his commitment to the environmental and indigenous cause', says Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/parabenizei-dicaprio-pelo-seu-compromisso-com-a-causa-ambiental-e-indigena-diz-lula.shtml",
-      "published_date": "2026-09-03T00:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Augusto Cury attributes rise in research to the country's 'pacification movement'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/augusto-cury-atribui-alta-em-pesquisa-a-movimento-de-pacificacao-do-pais.shtml",
-      "published_date": "2026-09-02T22:57:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula talks to Fachin about the crisis in the STF, distances himself from Moraes and defines the 'no one above the law' speech",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml",
-      "published_date": "2026-09-02T22:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alcolumbre cites money for 'Dark Horse' to respond to pressure for Moraes' impeachment",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml",
-      "published_date": "2026-09-02T22:41:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Government members press for an end to the 6x1, but avoid attacks on Alcolumbre after resuming relations",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-pressionam-por-fim-da-6x1-mas-evitam-ataques-a-alcolumbre-apos-retomada-de-relacao.shtml",
-      "published_date": "2026-09-02T22:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/senado-aprova-lei-dos-minerais-criticos-com-r-5-bi-em-subsidios-e-conselho-com-poder-de-veto-a-estrangeiros.shtml",
-      "published_date": "2026-09-02T21:36:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/jane-fonda-critica-fusao-entre-warner-e-paramount-e-perseguicao-a-mark-ruffalo.shtml",
+      "published_date": "2026-09-04T13:16:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Chico Mendes' legacy boosts green entrepreneurship in Brazil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/09/legado-de-chico-mendes-impulsiona-empreendedorismo-verde-no-brasil.shtml",
+      "published_date": "2026-09-04T11:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "SP prosecutor's office denounces nine on charges of 'money purchase' scheme linked to illegal betting and PCC",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/promotoria-de-sp-denuncia-nove-sob-acusacao-de-esquema-de-compra-de-dinheiro-ligado-a-bet-ilegal-e-pcc.shtml",
+      "published_date": "2026-09-04T09:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -262,25 +283,39 @@
       "category": "Military"
     },
     {
-      "title": "Police carry out operation against group of SP suspected of robbing apartments in Cuiabá",
+      "title": "Milei promises to toughen punishments for companies that explore oil in the Falklands; United Kingdom says territory is its own",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-faz-operacao-contra-grupo-de-sp-suspeito-de-assalto-a-apartamentos-em-cuiaba.shtml",
-      "published_date": "2026-09-02T12:38:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/milei-promete-endurecer-punicoes-a-empresas-que-exploram-petroleo-nas-malvinas-reino-unido-diz-que-territorio-e-seu.shtml",
+      "published_date": "2026-09-04T13:18:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Chile, Argentina, Bolivia and Peru Sign a Minerals Pact",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/chile-argentina-bolivia-and-peru-sign-a-minerals-pact/",
-      "published_date": "2026-09-02T12:12:00Z",
-      "category": "Military"
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/enel-aponta-falta-de-analise-sobre-alternativas-a-caducidade-e-pede-anulacao-de-processo-a-aneel.shtml",
+      "published_date": "2026-09-04T12:28:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Xi defends military pact between Middle Eastern countries",
+      "title": "Melting glaciers pressures climate adaptation",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/xi-defende-pacto-militar-de-paises-do-oriente-medio.shtml",
-      "published_date": "2026-09-02T12:09:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/derretimento-de-geleiras-pressiona-adaptacao-climatica.shtml",
+      "published_date": "2026-09-04T12:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Taesa says it is preparing for the worst in the face of the threat of El Niño in energy transmission",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/taesa-diz-se-preparar-para-o-pior-diante-de-ameaca-do-el-nino-na-transmissao-de-energia.shtml",
+      "published_date": "2026-09-04T11:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Rock in Rio 2026: the best and worst days according to astrology",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/rock-in-rio-2026-os-melhores-e-os-piores-dias-segundo-a-astrologia.shtml",
+      "published_date": "2026-09-04T10:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Ecopetrol Says a Community Is Holding Up Sirius Gas",
@@ -388,39 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "Vila de Marvão watches over Alentejo with castle, sacred art museum and Hotel Museum",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/09/vila-de-marvao-vigia-o-alentejo-com-castelo-museu-de-arte-sacra-e-hotel-museu.shtml",
-      "published_date": "2026-09-01T15:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-alta-com-mercado-de-trabalho-forte-nos-eua-e-cenario-eleitoral-no-radar.shtml",
+      "published_date": "2026-09-04T13:12:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Oil rises again by more than 5% after ships are attacked in Hormuz",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/petroleo-volta-a-disparar-mais-de-5-apos-navios-serem-atacados-em-hormuz.shtml",
-      "published_date": "2026-09-01T14:46:00Z",
-      "category": "Energy"
+      "title": "Laufey in São Paulo, Brazil: ‘A Matter of Time’ Tour at Espaço Unimed on September 9",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/laufey-sao-paulo-brazil-concert-september-9-2026-espaco-unimed/",
+      "published_date": "2026-09-04T12:52:46Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump's Venezuela oil deal reignites fears of neocolonialism",
+      "title": "A third factor for high interest rates",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-trump-sobre-petroleo-da-venezuela-reacende-temor-de-neocolonialismo.shtml",
-      "published_date": "2026-09-01T14:33:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/um-terceiro-fator-para-os-juros-altos.shtml",
+      "published_date": "2026-09-04T11:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Government reverses decision that suspended oil export tax",
+      "title": "Nvidia becomes a central part of the economy with the advancement of AI",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-reverte-decisao-que-suspendia-imposto-de-exportacao-do-petroleo.shtml",
-      "published_date": "2026-09-01T14:05:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/nvidia-se-torna-peca-central-da-economia-com-avanco-da-ia.shtml",
+      "published_date": "2026-09-04T07:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Oil agreement between the USA and Venezuela provides for purchase at cost price and for the company to explore 17 fields for 100 years",
+      "title": "Industry and retail say that the end of the blouse tax is electoral and an economic setback",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/acordo-de-petroleo-entre-eua-e-venezuela-preve-compra-a-preco-de-custo-e-que-empresa-explore-17-campos-por-100-anos.shtml",
-      "published_date": "2026-09-01T13:38:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/industria-e-varejo-dizem-que-fim-da-taxa-das-blusinhas-e-eleitoreiro-e-um-retrocesso-economico.shtml",
+      "published_date": "2026-09-04T02:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "PUC-SP students protest against the use of Open Finance in granting scholarships",
@@ -528,178 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "85% of invoices are adapted to tax reform, according to the IRS",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/85-das-notas-fiscais-estao-adaptadas-a-reforma-tributaria-segundo-a-receita.shtml",
-      "published_date": "2026-09-03T07:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Casas Bahia reduces TV advertising by 90% and stops sponsoring Brasileirão on CazéTV",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/casas-bahia-reduz-publicidade-na-tv-em-90-e-deixa-de-patrocinar-brasileirao-na-cazetv.shtml",
-      "published_date": "2026-09-03T07:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BC negotiates to connect Pix to the European payment system",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bc-negocia-interligar-pix-ao-sistema-de-pagamentos-europeu.shtml",
-      "published_date": "2026-09-03T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Food inflation continues downward trend in August",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/09/inflacao-dos-alimentos-mantem-tendencia-de-queda-em-agosto.shtml",
-      "published_date": "2026-09-02T21:45:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Traffic doctors call for changes in motorcycle taxi MP to prevent increase in traffic deaths",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/medicos-do-trafego-pedem-mudancas-em-mp-do-mototaxi-para-impedir-aumento-de-mortes-no-transito.shtml",
-      "published_date": "2026-09-02T21:14:00Z",
-      "category": "Economy"
-    },
-    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/as-gargalhadas-no-stf.shtml",
-      "published_date": "2026-09-04T00:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "André Mendonça treats Lulinha's case differently from that of ACM Neto, says PF in report to Moraes",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/andre-mendonca-trata-caso-de-lulinha-de-forma-diferente-do-de-acm-neto-diz-pf-em-relatorio-a-moraes.shtml",
-      "published_date": "2026-09-04T00:26:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/canal-do-panama-comeca-a-reduzir-trafego-de-navios-devido-ao-el-nino.shtml",
+      "published_date": "2026-09-04T14:35:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/conselho-da-volkswagen-aprova-reestruturacao-confirmando-corte-de-ate-100-mil-empregos.shtml",
-      "published_date": "2026-09-04T00:20:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/folha-estreia-no-substack-com-newsletter-da-eleicao.shtml",
+      "published_date": "2026-09-04T14:34:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml",
-      "published_date": "2026-09-04T00:15:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/por-que-a-holanda-retirou-us-12-bilhoes-em-ouro-dos-eua-e-do-canada.shtml",
+      "published_date": "2026-09-04T14:31:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-manda-mendonca-moraes-gonet-e-chefe-da-pf-prestarem-informacoes-sobre-dialogos-com-vorcaro.shtml",
-      "published_date": "2026-09-04T00:10:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doutrina-militar-russa-de-moraes-contamina-eleicao-de-vez.shtml",
+      "published_date": "2026-09-04T14:26:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/nao-tinha-nocao-do-que-estava-fazendo-diz-isabela-garcia-sobre-nudez.shtml",
-      "published_date": "2026-09-04T00:05:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/presidente-do-cade-pede-nova-analise-e-atrasa-acordo-entre-maersk-e-msc-na-disputa-pelo-tecon-10.shtml",
+      "published_date": "2026-09-04T14:23:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-apresenta-notas-de-r-264-mil-apos-suspeita-de-que-teve-terno-bancado-por-lobista-do-master.shtml",
-      "published_date": "2026-09-04T00:04:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/china-sera-concorrente-do-brasil-no-mercado-mundial-de-frango-diz-rabobank.shtml",
+      "published_date": "2026-09-04T14:20:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-descreve-gastos-de-claudio-castro-com-caviar-adega-e-imoveis-em-inquerito-sobre-refit.shtml",
-      "published_date": "2026-09-04T00:04:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-o-diretor-tony-gatlif-que-explorou-a-cultura-cigana-nos-cinemas-aos-77.shtml",
+      "published_date": "2026-09-04T14:17:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/09/openai-promete-us-1-bi-para-defesa-digital-em-meio-a-duvidas-sobre-seguranca-da-ia.shtml",
-      "published_date": "2026-09-04T00:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/brasileira-e-condenada-a-prisao-perpetua-pela-morte-do-namorado-italiano.shtml",
+      "published_date": "2026-09-04T14:05:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/caiado-leva-crise-do-stf-a-tv-e-cita-banda-podre-que-comanda-o-pais.shtml",
-      "published_date": "2026-09-03T23:45:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sob-impasses-camara-de-bh-aprova-projeto-com-incentivos-a-verticalizacao-da-regiao-central.shtml",
+      "published_date": "2026-09-04T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Extremist Israeli minister presents plan to expel all Palestinians from Gaza",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ministro-extremista-de-israel-apresenta-plano-para-expulsar-todos-palestinos-de-gaza.shtml",
+      "published_date": "2026-09-04T13:59:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-todos-devem-ser-investigados-e-cobra-pgr-e-stf-por-resolucao-de-caso-master.shtml",
-      "published_date": "2026-09-03T23:45:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/precos-mundiais-dos-alimentos-atingem-maior-nivel-desde-2022-com-guerras-e-el-nino-diz-fao.shtml",
+      "published_date": "2026-09-04T13:59:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-aponta-interferencia-de-mendonca-em-investigacoes-e-suposto-direcionamento-de-alvos.shtml",
-      "published_date": "2026-09-03T23:27:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/adversarios-veem-tebet-muito-azulzinha-e-querem-reforcar-alianca-dela-com-a-esquerda.shtml",
+      "published_date": "2026-09-04T13:51:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/alexandre-de-moraes-envia-a-fachin-pedido-de-investigacao-contra-andre-mendonca.shtml",
-      "published_date": "2026-09-03T23:21:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/dave-bautista-mostra-musculos-para-viver-kratos-em-god-of-war.shtml",
+      "published_date": "2026-09-04T13:48:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-pede-a-fachin-investigacao-de-andre-mendonca-por-abuso-de-autoridade.shtml",
-      "published_date": "2026-09-03T23:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eliana relives Banana Split times and brings Adriana Colin back to television",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/eliana-revive-tempos-de-banana-split-e-traz-adriana-colin-de-volta-a-televisao.shtml",
-      "published_date": "2026-09-03T23:09:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/pf-prende-dez-suspeitos-de-fraudar-registros-de-armas-para-cacs-no-rio.shtml",
+      "published_date": "2026-09-04T13:45:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-do-df-pede-que-stf-obrigue-uniao-a-ser-fiadora-em-emprestimo-para-socorrer-brb.shtml",
-      "published_date": "2026-09-03T23:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/nova-zelandia-aprova-uso-de-mdma-para-tratar-estresse-pos-traumatico.shtml",
+      "published_date": "2026-09-04T13:42:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/milei-exalta-ditadura-de-pinochet-no-chile-e-diz-que-regiao-teve-inveja-do-periodo.shtml",
-      "published_date": "2026-09-03T23:02:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-diz-que-reforma-da-previdencia-nao-esta-em-discussao-agora-mas-admite-debate-futuro.shtml",
+      "published_date": "2026-09-04T13:37:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/fundacao-tide-setubal-reune-em-publicacao-aprendizados-de-20-anos-nas-periferias.shtml",
-      "published_date": "2026-09-03T23:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/dino-diz-que-stf-e-maior-que-qualquer-um-que-o-integra-apos-escalada-da-tensa-entre-moraes-e-mendonca.shtml",
+      "published_date": "2026-09-04T13:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women's football sales jump 19%; Brazil has a historic record",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/vendas-do-futebol-feminino-saltam-19-brasil-tem-recorde-historico.shtml",
+      "published_date": "2026-09-04T13:12:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-fala-em-adotar-reciprocidade-caso-nao-consiga-reverter-veto-a-carne-na-ue.shtml",
-      "published_date": "2026-09-03T22:51:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresarios-discutem-novo-manifesto-para-pressionar-stf-apos-mensagens-de-vorcaro-e-moraes.shtml",
+      "published_date": "2026-09-04T13:06:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/aviao-sobrevoa-paramount-com-faixa-que-alfineta-relacao-do-ceo-com-trump.shtml",
-      "published_date": "2026-09-03T22:49:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/israel-afirma-que-consolidou-zona-de-seguranca-no-sul-do-libano-apos-novo-avanco.shtml",
+      "published_date": "2026-09-04T13:04:00Z",
       "category": "Local Events"
     }
   ]
