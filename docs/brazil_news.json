@@ -1,7 +1,28 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-11T14:56:37Z",
+  "last_updated": "2026-09-12T00:49:30Z",
   "stories": [
+    {
+      "title": "Datafolha: Flávio Bolsonaro and Lula are rejected by 46% of voters",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-46-dos-eleitores.shtml",
+      "published_date": "2026-09-11T21:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml",
+      "published_date": "2026-09-11T20:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OAS Chief Pushes Nicaragua Foreign Ministers Meeting: ‘Condemnation Is Not Enough’",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/oas-nicaragua-foreign-ministers-meeting-sanctions-2026/",
+      "published_date": "2026-09-11T16:47:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Japan requests changes to new UN map to represent islands disputed with Russia",
       "source": "Folha de S.Paulo",
@@ -122,25 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lula supporters gather in Brasília, call for mobilization and criticize Mendonça",
+      "title": "1926: Mussolini emerges unharmed from a bomb attack; police arrest anarchist",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/apoiadores-de-lula-se-reunem-em-brasilia-pedem-mobilizacao-e-criticam-mendonca.shtml",
-      "published_date": "2026-09-10T08:23:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-mussolini-sai-ileso-de-atentado-a-bomba-policia-prende-anarquista.shtml",
+      "published_date": "2026-09-11T20:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Moraes and Mendonça must be satisfied, and the answer to the crisis is in the STF itself, say former Justice ministers",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/moraes-e-mendonca-devem-satisfacoes-e-resposta-para-crise-e-no-proprio-stf-dizem-ex-ministros-da-justica.shtml",
-      "published_date": "2026-09-10T07:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-futuro-incerto-do-ministerio-da-cultura.shtml",
+      "published_date": "2026-09-11T20:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "PT sees Lula's campaign at risk with crisis in the STF and calls emergency meeting with allies",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-ve-campanha-de-lula-em-risco-com-crise-no-stf-e-convoca-reuniao-de-emergencia-com-aliados.shtml",
-      "published_date": "2026-09-10T07:00:00Z",
-      "category": "Diplomacy"
+      "title": "Amazon Cargo Plane Was Too Fast Before Deadly Miami Crash, NTSB Data Shows",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/amazon-cargo-miami-crash-ntsb-excessive-speed-2026/",
+      "published_date": "2026-09-11T16:50:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "UNITAS 2026 Opens in Peru: 24 Navies Launch the Americas’ Largest Multinational Drill",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/unitas-2026-peru-navy-exercise-callao-2026/",
+      "published_date": "2026-09-11T16:33:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Panama 2027 Budget Books US$103 Million for San Miguelito Cable Car",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/panama-san-miguelito-cable-car-2027-budget-2026/",
+      "published_date": "2026-09-11T16:12:48Z",
+      "category": "Military"
     },
     {
       "title": "Rain causes house to collapse in eastern SP",
@@ -245,41 +280,6 @@
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/escalada-da-guerra-no-ira-pressiona-fluxo-de-petroleo-da-arabia-saudita-e-ameaca-mercado-global.shtml",
       "published_date": "2026-09-10T11:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Operation targets scheme that turns stolen cell phones into products for resale",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-mira-esquema-que-transforma-celulares-roubados-em-produtos-para-revenda.shtml",
-      "published_date": "2026-09-10T10:47:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "PF launches operation on financing 'Dark Horse', Bolsonaro's film",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-deflagra-operacao-sobre-dinheiro-de-vorcaro-para-filme-de-bolsonaro.shtml",
-      "published_date": "2026-09-10T10:04:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mathematics in Enem requires mastery of operations and strategy; know what to study",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/matematica-no-enem-exige-dominio-de-operacoes-e-estrategia-saiba-o-que-estudar.shtml",
-      "published_date": "2026-09-10T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "SP has storm warnings on the coast and tornadoes in the southwest this Thursday (10)",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sp-tem-alertas-de-tempestade-no-litoral-e-de-tornados-no-sudoeste-nesta-quinta-10.shtml",
-      "published_date": "2026-09-10T08:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "President of Colombia revokes decree that restricted carrying of weapons",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/presidente-da-colombia-revoga-decreto-que-restringia-porte-de-armas.shtml",
-      "published_date": "2026-09-10T07:00:00Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "How spending R$1,000 less per month can change your retirement",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/09/como-gastar-r-1000-a-menos-por-mes-pode-mudar-sua-aposentadoria.shtml",
+      "published_date": "2026-09-11T21:00:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "US inflation stands at 3.4% in August before Fed rate decision",
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/inflacao-dos-eua-fica-em-34-em-agosto-antes-de-decisao-do-fed-sobre-juros.shtml",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "S&P Cuts Senegal to CC, Its Lowest Credit Rating in 26 Years",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/senegal-sp-cc-downgrade-debt-restructuring-2026/",
-      "published_date": "2026-09-09T18:11:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Postal workers approve indefinite national strike",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhadores-dos-correios-aprovam-greve-nacional-por-tempo-indeterminado.shtml",
-      "published_date": "2026-09-11T14:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roberta Miranda reveals that she discovered she was not the daughter of the woman who raised her",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/roberta-miranda-revela-que-descobriu-nao-ser-filha-da-mulher-que-a-criou.shtml",
-      "published_date": "2026-09-11T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robert De Niro says Zohran Mamdani must be bridged on September 11",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/robert-de-niro-diz-que-zohran-mamdani-deve-ser-ponte-neste-11-de-setembro.shtml",
-      "published_date": "2026-09-11T13:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel, apartheid",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/israel-apartheid.shtml",
-      "published_date": "2026-09-11T13:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/mc-cabelinho-e-tz-da-coronel-cantam-para-multidao-jovem-no-rock-in-rio.shtml",
+      "published_date": "2026-09-12T00:37:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/o-que-precisa-acontecer-para-a-libertadores-virar-rio-sao-paulo.shtml",
-      "published_date": "2026-09-11T13:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amendment monitor: tool shows destination of parliamentary funds",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/monitor-das-emendas-ferramenta-mostra-destino-das-verbas-parlamentares.shtml",
-      "published_date": "2026-09-11T13:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/franca-alerta-para-risco-de-tumor-nas-meninges-ligado-a-anticoncepcional.shtml",
+      "published_date": "2026-09-12T00:34:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/angela-alonso/2026/09/flavio-bolsonaro-almeja-grande-patria-transnacional-liderada-por-trump.shtml",
-      "published_date": "2026-09-11T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Go see the zeppelin!",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/vai-ver-o-zepelim.shtml",
-      "published_date": "2026-09-11T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I survived 9/11 because I got to work late. Sometimes I feel guilty'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sobrevivi-ao-11-de-setembro-porque-cheguei-mais-tarde-ao-trabalho-as-vezes-me-sinto-culpado.shtml",
-      "published_date": "2026-09-11T12:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gilmar Mendes gives a lecture in Italy amid the STF crisis",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-mendes-da-palestra-na-italia-em-meio-a-crise-no-stf.shtml",
-      "published_date": "2026-09-11T12:41:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-preconceito-nunca-parou-meus-sonhos-diz-gabriela-loran.shtml",
+      "published_date": "2026-09-12T00:29:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/tatica-dos-eua-para-titulos-do-tesouro-fracassa-e-rendimento-atinge-nivel-preocupante.shtml",
-      "published_date": "2026-09-11T12:41:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/ganhando-tempo-com-os-podres-de-todos-no-stf.shtml",
+      "published_date": "2026-09-12T00:10:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/cidade-de-sao-paulo-confirma-dois-novos-casos-de-sarampo-estado-vai-a-32.shtml",
-      "published_date": "2026-09-11T12:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soda Stereo’s ‘Ecos’ Tour in Central America: Five Countries, Six Shows Across November 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/soda-stereo-ecos-central-america-tour-november-2026-honduras-el-salvador-costa-rica-nicaragua-panama/",
-      "published_date": "2026-09-11T12:36:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Camilo in Barranquilla, Colombia: The ‘Para Cuando Sean Mayores’ Tour Stops in La Arenosa on December 4, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/camilo-barranquilla-colombia-concert-december-4-2026-para-cuando-sean-mayores-tour/",
-      "published_date": "2026-09-11T12:35:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Gran Combo de Puerto Rico in Lima, Peru: Salsa’s ‘University’ Plays Two Shows in One Night on September 18, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/gran-combo-puerto-rico-lima-peru-concerts-september-18-2026-gran-teatro-nacional/",
-      "published_date": "2026-09-11T12:35:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/andres-calamaro-lima-peru-concert-september-15-2026-costa-21/",
-      "published_date": "2026-09-11T12:34:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robbie Williams in Lima, Peru: First-Ever Shows in the Country at Arena 1 on September 23–24, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/robbie-williams-lima-peru-concerts-september-23-24-2026-arena-1-first-time/",
-      "published_date": "2026-09-11T12:33:46Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/k-pop-de-hwasa-agita-o-rock-in-rio-em-meio-a-alerta-de-aglomeracao-e-calor.shtml",
+      "published_date": "2026-09-12T00:07:00Z",
       "category": "Local Events"
     },
     {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/gisele-bundchen-diz-que-recusa-99-dos-trabalhos-quero-priorizar-minha-familia.shtml",
-      "published_date": "2026-09-11T12:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/bancada-feminista-do-psol-pede-na-justica-que-meta-exclua-perfis-associados-aos-red-pill.shtml",
+      "published_date": "2026-09-12T00:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Cazzu in Montevideo, Uruguay: Argentina’s Trap Star Brings ‘Latinaje’ to Antel Arena on October 24, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/cazzu-montevideo-uruguay-concert-october-24-2026-antel-arena-latinaje/",
-      "published_date": "2026-09-11T12:24:10Z",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-brasileiro-de-combate-a-fome-vence-premio-do-brics-para-mulheres-empreendedoras.shtml",
+      "published_date": "2026-09-12T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Jamiroquai in Santiago, Chile: The Acid-Jazz Legends Play Claro Arena on September 15, 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/jamiroquai-santiago-chile-concert-september-15-2026-claro-arena/",
-      "published_date": "2026-09-11T12:23:42Z",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/chorem-gritem-pecam-ajuda-nao-desistam.shtml",
+      "published_date": "2026-09-12T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/chile-passa-aniversario-do-golpe-sem-ato-oficial-pela-1a-vez-desde-redemocratizacao.shtml",
+      "published_date": "2026-09-11T23:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/apos-ascensao-nas-pesquisas-cury-muda-qg-para-area-nobre-de-sp.shtml",
+      "published_date": "2026-09-11T23:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/aaron-rodgers-revela-motivo-do-fim-do-relacionamento-com-a-atriz-shailene-woodley.shtml",
+      "published_date": "2026-09-11T23:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/deputados-britanicos-rejeitam-legalizacao-da-ajuda-para-morrer-na-inglaterra-e-pais-de-gales.shtml",
+      "published_date": "2026-09-11T23:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/txai-surui/2026/09/258-indigenas-assassinados-a-omissao-do-estado.shtml",
+      "published_date": "2026-09-11T23:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-amo-todas-as-teorias-diz-nathalia-dill-sobre-morte-de-francesa-em-novela.shtml",
+      "published_date": "2026-09-11T23:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/projeto-7-leituras-apresenta-o-deus-da-carnificina-da-francesa-yasmina-reza.shtml",
+      "published_date": "2026-09-11T23:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-retira-sigilo-da-investigacao-sobre-dark-horse-e-outros-processos-do-caso-master.shtml",
+      "published_date": "2026-09-11T23:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/no-supremo-sem-tapetao.shtml",
+      "published_date": "2026-09-11T22:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/apos-voo-cancelado-giovanna-ewbank-vive-perrengue-para-ver-stray-kids-com-a-filha.shtml",
+      "published_date": "2026-09-11T22:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/espaco-favela-do-rock-in-rio-e-vitrine-artistica-mas-ainda-marginaliza.shtml",
+      "published_date": "2026-09-11T22:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/a-disputa-pela-sucessao-dentro-da-familia-real-de-uganda-apos-a-morte-do-monarca-mais-jovem-do-mundo.shtml",
+      "published_date": "2026-09-11T22:39:00Z",
       "category": "Local Events"
     }
   ]
