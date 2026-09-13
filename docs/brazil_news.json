@@ -1,12 +1,89 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-13T00:30:52Z",
+  "last_updated": "2026-09-13T14:53:04Z",
   "stories": [
     {
-      "title": "Former tucano senator says he voted against Mendonça to the STF due to lack of culture and legal knowledge",
+      "title": "Kenya’s Opposition Tests Its Strength in Nairobi as President William Ruto Locks Down His Base",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/ruto-ringfences-nairobi-turf-opposition-rallies-2026/",
+      "published_date": "2026-09-13T09:41:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rock in Rio 2026: 'Está tudo certo', diz Thaila Ayala após climão entre o marido e Tata Werneck",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ex-senador-tucano-diz-que-votou-contra-mendonca-ao-stf-por-falta-de-cultura-e-saber-juridico.shtml",
-      "published_date": "2026-09-13T00:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-esta-tudo-certo-diz-thaila-ayala-apos-climao-entre-o-marido-e-tata-werneck.shtml",
+      "published_date": "2026-09-13T02:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Santos bate o Cruzeiro, engata 3ª vitória seguida e já é o 10º no Brasileiro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/na-estreia-de-cebolinha-santos-bate-o-cruzeiro-e-se-afasta-bem-do-z4.shtml",
+      "published_date": "2026-09-13T02:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Raphinha retoma boa fase no Barcelona antes de voltar à seleção",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/raphinha-retoma-boa-fase-no-barcelona-antes-de-voltar-a-selecao.shtml",
+      "published_date": "2026-09-13T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Veja o que os candidatos à Presidência pensam sobre EUA, China, Brics e outros temas de política externa",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-o-que-os-candidatos-a-presidencia-pensam-sobre-eua-china-brics-e-outros-temas-de-politica-externa.shtml",
+      "published_date": "2026-09-13T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maria Bethânia faz o 'L' de Lula em show descontraído no Coala Festival",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/maria-bethania-faz-o-l-de-lula-em-show-descontraido-no-coala-festival.shtml",
+      "published_date": "2026-09-13T01:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Campanha acirrada, debate indigente",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/campanha-acirrada-debate-indigente.shtml",
+      "published_date": "2026-09-13T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palmeiras bate o São Paulo, recupera a liderança do Brasileiro e agora torce pelo Corinthians",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-bate-o-sao-paulo-recupera-a-lideranca-do-brasileiro-e-agora-torce-pelo-corinthians.shtml",
+      "published_date": "2026-09-12T23:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leitores falam de gangues quebra-vidros e roubos de celulares",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/leitores-falam-de-gangues-quebra-vidros-e-roubos-de-celulares.shtml",
+      "published_date": "2026-09-12T23:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fachin dá 24 horas para PF informar sobre custódia e estado de celular de Vorcaro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-da-24-horas-para-pf-informar-sobre-custodia-e-estado-de-celular-de-vorcaro.shtml",
+      "published_date": "2026-09-12T22:26:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Avaliação positiva de Lula vai de 46% em PE a 25% em SP, mostra Datafolha",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/avaliacao-positiva-de-lula-vai-de-46-no-pe-a-25-em-sp-mostra-datafolha.shtml",
+      "published_date": "2026-09-12T21:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula se queixa a aliados de ministro da Justiça, mas descarta troca no momento",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-se-queixa-a-aliados-de-ministro-da-justica-mas-descarta-troca-no-momento.shtml",
+      "published_date": "2026-09-12T21:00:00Z",
       "category": "Diplomacy"
     },
     {
@@ -66,108 +143,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Datafolha: Lula leads among the poorest and Flávio, in the other income groups; see search by segments",
+      "title": "Bombeiros localizam mais 3 corpos soterrados após queda de prédio na zona leste de SP; mortos chegam a cinco",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-lidera-entre-mais-pobres-e-flavio-nas-demais-faixas-de-renda-veja-pesquisa-por-segmentos.shtml",
-      "published_date": "2026-09-12T02:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brics Summit reaffirms the bloc’s lack of cohesion",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/cupula-do-brics-reafirma-falta-de-coesao-do-bloco.shtml",
-      "published_date": "2026-09-12T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Xi's commercial advantage in negotiations with Trump produces its own poison",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/09/vantagem-comercial-de-xi-em-negociacao-com-trump-produz-seu-proprio-veneno.shtml",
-      "published_date": "2026-09-12T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/projeto-brasileiro-de-combate-a-fome-vence-premio-do-brics-para-mulheres-empreendedoras.shtml",
-      "published_date": "2026-09-12T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: Flávio Bolsonaro and Lula are rejected by 46% of voters",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-46-dos-eleitores.shtml",
-      "published_date": "2026-09-11T21:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: 42% think Lula's government is bad or terrible, and 32%, good or excellent",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-42-acham-governo-lula-ruim-ou-pessimo-e-32-bom-ou-otimo.shtml",
-      "published_date": "2026-09-11T21:37:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: Lula has 39%, and Flávio Bolsonaro, 35% in the 1st round; rivals tie for 2nd",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-35-em-primeiro-turno.shtml",
-      "published_date": "2026-09-11T21:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-cletinho-tem-37-e-mantem-lideranca-em-corrida-pelo-governo-de-mg.shtml",
-      "published_date": "2026-09-11T20:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OAS Chief Pushes Nicaragua Foreign Ministers Meeting: ‘Condemnation Is Not Enough’",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/oas-nicaragua-foreign-ministers-meeting-sanctions-2026/",
-      "published_date": "2026-09-11T16:47:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan requests changes to new UN map to represent islands disputed with Russia",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/japao-pede-alteracao-em-novo-mapa-da-onu-por-representacao-de-ilhas-disputadas-com-a-russia.shtml",
-      "published_date": "2026-09-11T14:02:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eduardo Bolsonaro supports former banker Marcelo Kayath as Flávio's finance minister",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/eduardo-bolsonaro-apoia-ex-banqueiro-marcelo-kayath-para-ministro-da-fazenda-de-flavio.shtml",
-      "published_date": "2026-09-11T13:22:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rock in Rio 2026: 'It will surprise', says João Vitor Silva about Rafael's turn in 'Quem Ama Cuida'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-vai-surpreender-diz-joao-vitor-silva-sobre-virada-de-rafael-em-quem-ama-cuida.shtml",
-      "published_date": "2026-09-12T23:49:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/bombeiros-resgatam-corpo-soterrado-apos-queda-de-predio-na-zona-leste-de-sp-mortos-chegam-a-tres.shtml",
+      "published_date": "2026-09-13T02:10:00Z",
       "category": "Military"
     },
     {
-      "title": "PF located 24 firearms when arresting former BRB president",
+      "title": "Já passei por coisas muito dolorosas por pressão estética, diz Débora Nascimento",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pf-localizou-24-armas-de-fogo-ao-prender-ex-presidente-do-brb.shtml",
-      "published_date": "2026-09-12T23:40:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "João Gomes makes a procession with frevo, maracatu and dolls from Olinda at Rock in Rio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/joao-gomes-faz-cortejo-com-frevo-maracatu-e-bonecos-de-olinda-no-rock-in-rio.shtml",
-      "published_date": "2026-09-12T23:19:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Readers talk about window-breaking gangs and cell phone thefts",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/leitores-falam-de-gangues-quebra-vidros-e-roubos-de-celulares.shtml",
-      "published_date": "2026-09-12T23:15:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ja-passei-por-coisas-muito-dolorosas-por-pressao-estetica-diz-debora-nascimento.shtml",
+      "published_date": "2026-09-13T02:00:00Z",
       "category": "Military"
     },
     {
@@ -283,10 +269,31 @@
       "category": "Military"
     },
     {
-      "title": "J Balvin adds Brazilian pepper to celebrate reggaeton at Rock in Rio",
+      "title": "Cientistas querem descobrir se há detritos de civilizações alienígenas na Lua",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/cientistas-querem-descobrir-se-ha-detritos-de-civilizacoes-alienigenas-na-lua.shtml",
+      "published_date": "2026-09-13T14:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Southern Angola Joins the National Power Grid, Ending Years of Running on Diesel",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/southern-angola-national-electricity-grid-2026/",
+      "published_date": "2026-09-13T09:42:03Z",
+      "category": "Energy"
+    },
+    {
+      "title": "J Balvin põe pimenta brasileira em celebração ao reggaeton no Rock in Rio",
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/j-balvin-poe-pimenta-brasileira-em-celebracao-ao-reggaeton-no-rock-in-rio.shtml",
       "published_date": "2026-09-12T23:42:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Política foi a grande estrela das premiações do Festival de Veneza",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/politica-foi-a-grande-estrela-das-premiacoes-do-festival-de-veneza.shtml",
+      "published_date": "2026-09-12T21:22:00Z",
       "category": "Energy"
     },
     {
@@ -402,25 +409,60 @@
       "category": "Energy"
     },
     {
-      "title": "Colombia Electricity Bills Now Come With a Personal Savings Target",
+      "title": "Africa’s Trade Bank Has Lent Egypt US$9.5 Billion in Three Years and Is Turning Cairo Into a Hub",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/colombia-electricity-plan-energia-ya-el-nino-2026/",
-      "published_date": "2026-09-09T14:42:29Z",
-      "category": "Energy"
+      "url": "https://www.riotimesonline.com/afreximbank-egypt-financing-hub-2026/",
+      "published_date": "2026-09-13T09:42:37Z",
+      "category": "Economy"
     },
     {
-      "title": "State-owned PPSA is out of funds and there is a risk to Union oil contracts, the ministry tells TCU",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/estatal-ppsa-esta-sem-verba-e-ha-risco-para-contratos-de-petroleo-da-uniao-diz-ministerio-ao-tcu.shtml",
-      "published_date": "2026-09-09T07:00:00Z",
-      "category": "Energy"
+      "title": "Nigerian Savers Lose Millions After the Online Investment Platform PXES Stops Paying Out",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/nigerians-lose-savings-pxes-ponzi-scheme-2026/",
+      "published_date": "2026-09-13T09:40:48Z",
+      "category": "Economy"
     },
     {
-      "title": "Aneel proposes expanding control over distributed energy generation",
+      "title": "Kenya and Its Neighbours Are Reaching for Treason Charges Against Their Critics",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/kenya-treason-charges-political-dissent-2026/",
+      "published_date": "2026-09-13T09:40:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Angola Is Spending on Fibre, Satellites and Undersea Cables to Become a Regional Digital Hub",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/angola-ict-investment-africa-2026/",
+      "published_date": "2026-09-13T09:39:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Four Kenyan Banks Make a New Global Top-500 Ranking, in a First for East Africa",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/kenyan-banks-global-elite-lenders-2026/",
+      "published_date": "2026-09-13T09:39:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Folha lança site C-Level e amplia cobertura de negócios e finanças",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/aneel-propoe-ampliar-controle-sobre-geracao-distribuida-de-energia.shtml",
-      "published_date": "2026-09-08T21:23:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/folha-lanca-portal-c-level-e-amplia-cobertura-de-negocios-e-financas.shtml",
+      "published_date": "2026-09-13T02:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "O que mais envelhece é a ideia de envelhecer",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/09/o-que-mais-envelhece-e-a-ideia-de-envelhecer.shtml",
+      "published_date": "2026-09-13T02:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Comprar um produto para agradar o gerente é uma espécie de corrupção?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/09/comprar-um-produto-para-agradar-o-gerente-e-uma-especie-de-corrupcao.shtml",
+      "published_date": "2026-09-12T21:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "SBT's partner in the World Cup accuses TV of not passing on revenue and asks for R$40 million in court",
@@ -507,199 +549,143 @@
       "category": "Economy"
     },
     {
-      "title": "BC sells US$ 1 billion in cash and US$ 1 billion in reverse currency swap",
+      "title": "Museus da França estão sob intenso escrutínio após onda de invasões e furtos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bc-vende-us-1-bilhao-a-vista-e-us-1-bilhao-em-swap-cambial-reverso.shtml",
-      "published_date": "2026-09-10T14:23:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/museus-da-franca-estao-sob-intenso-escrutinio-apos-onda-de-invasoes-e-furtos.shtml",
+      "published_date": "2026-09-13T14:42:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Brazil's services sector remains stable in July and frustrates expectations",
+      "title": "'O que aprendi ao ter um AVC aos 26 anos'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/setor-de-servicos-do-brasil-fica-estavel-em-julho-e-frustra-expectativas.shtml",
-      "published_date": "2026-09-10T14:18:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/o-que-aprendi-ao-ter-um-avc-aos-26-anos.shtml",
+      "published_date": "2026-09-13T14:38:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Savings had a net withdrawal of R$10.57 billion in August, says BC",
+      "title": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/poupanca-tem-saque-liquido-de-r-1057-bilhoes-em-agosto-diz-bc.shtml",
-      "published_date": "2026-09-10T14:05:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/profissionais-de-ia-estao-genuinamente-assustados-com-futuro-da-humanidade-diz-pesquisador-que-se-demitiu-da-anthropic.shtml",
+      "published_date": "2026-09-13T14:23:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Renault Niagara debuts in November and opens a new cycle of flex and hybrid pickup trucks in Brazil",
+      "title": "Globo fecha acordo com Xuxa e fará especial de fim de ano com show no Maracanã",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/renault-niagara-estreia-em-novembro-e-abre-novo-ciclo-de-picapes-flex-e-hibridas-no-brasil.shtml",
-      "published_date": "2026-09-10T13:30:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-fecha-acordo-com-xuxa-e-fara-especial-de-fim-de-ano-com-show-no-maracana.shtml",
+      "published_date": "2026-09-13T14:02:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Asia Intelligence Brief — Thursday, September 10, 2026",
+      "title": "Dino tira sigilo de investigação da polícia de São Paulo sobre produtora de 'Dark Horse'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/dino-tira-sigilo-de-investigacao-da-policia-de-sao-paulo-sobre-produtora-de-dark-horse.shtml",
+      "published_date": "2026-09-13T14:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balsa vira na Indonésia e mata ao menos 6 pessoas; centenas estão desaparecidas",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/balsa-vira-na-indonesia-e-mata-ao-menos-6-pessoas-centenas-estao-desaparecidas.shtml",
+      "published_date": "2026-09-13T13:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guerra no mar Vermelho ameaça 4% do petróleo do mundo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/guerra-no-mar-vermelho-ameaca-4-do-petroleo-do-mundo.shtml",
+      "published_date": "2026-09-13T13:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calderano cai de novo para algoz sueco e fica com 2º vice seguido no WTT Champions",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/calderano-cai-de-novo-para-algoz-sueco-e-fica-com-2o-vice-seguido-no-wtt-champions.shtml",
+      "published_date": "2026-09-13T13:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Quem Ama Cuida': Adriana decide investigar vida de Brigitte para se vingar de Pilar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/quem-ama-cuida-adriana-decide-investigar-vida-de-brigitte-para-se-vingar-de-pilar.shtml",
+      "published_date": "2026-09-13T13:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Semana de 13 a 19 de setembro tem tensão no amor e no dinheiro; veja previsões",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/semana-de-13-a-19-de-setembro-tem-tensao-no-amor-e-no-dinheiro-veja-previsoes.shtml",
+      "published_date": "2026-09-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Queridinho no Brasil, chinelo vira tendência no verão do hemisfério norte",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/queridinho-no-brasil-chinelo-vira-tendencia-no-verao-do-hemisferio-norte.shtml",
+      "published_date": "2026-09-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grupo Rão estreia atendimento em salão com unidade no aeroporto Santos Dumont",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/grupo-rao-estreia-atendimento-em-salao-com-unidade-no-aeroporto-santos-dumont.shtml",
+      "published_date": "2026-09-13T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polícia da Turquia prende ativistas LGBTQIA+ em operação para 'proteger a família'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/policia-da-turquia-prende-ativistas-lgbtqia-em-operacao-para-proteger-a-familia.shtml",
+      "published_date": "2026-09-13T12:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Até quando resiste a trégua forçada entre EUA e China?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ian-bremmer/2026/09/ate-quando-resiste-a-tregua-forcada-entre-eua-e-china.shtml",
+      "published_date": "2026-09-13T12:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brasileiro demonstra manobra consagrada em 'Jornada nas Estrelas'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/09/brasileiro-demonstra-manobra-consagrada-em-jornada-nas-estrelas.shtml",
+      "published_date": "2026-09-13T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como Beatles e Bob Dylan fazem a ciência avançar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/09/como-beatles-e-bob-dylan-fazem-a-ciencia-avancar.shtml",
+      "published_date": "2026-09-13T11:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Babando na gravata",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/09/babando-na-gravata.shtml",
+      "published_date": "2026-09-13T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Satisfeita com audiência aos domingos, Globo renova programa de Eliana para 2027",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/satisfeita-com-audiencia-aos-domingos-globo-renova-programa-de-eliana-para-2027.shtml",
+      "published_date": "2026-09-13T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "São Paulo Nightlife Tonight — September 13, 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/asia-intelligence-brief-thursday-september-10-2026/",
-      "published_date": "2026-09-10T13:17:21Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/sao-paulo-nightlife-tonight-september-13-2026/",
+      "published_date": "2026-09-13T10:46:10Z",
+      "category": "Local Events"
     },
     {
-      "title": "Guyana’s Oil Boom for Expats: Jobs, Housing and Daily Life in Georgetown in 2026",
+      "title": "Rio de Janeiro Nightlife Tonight — September 13, 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/guyana-oil-boom-expat-guide-georgetown-jobs-housing-cost-of-living-2026/",
-      "published_date": "2026-09-10T12:18:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Novamed invests R$300 million to expand production in Manaus",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/novamed-investe-r-300-milhoes-para-ampliar-producao-em-manaus.shtml",
-      "published_date": "2026-09-10T10:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bayer bets on non-hormonal medicine for menopause in Brazil, says executive",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bayer-aposta-em-remedio-nao-hormonal-para-menopausa-no-brasil-afirma-executivo.shtml",
-      "published_date": "2026-09-10T10:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "To the sound of axé, Timbalada entertains the public in a Carnival atmosphere at Rock in Rio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/ao-som-de-axe-timbalada-anima-publico-em-clima-de-carnaval-no-rock-in-rio.shtml",
-      "published_date": "2026-09-13T00:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock in Rio 2026: Diego Martins talks about rivalry with actress at Dança dos Famosos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-diego-martins-fala-sobre-rivalidade-com-atriz-no-danca-dos-famosos.shtml",
-      "published_date": "2026-09-13T00:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SenLinYu cries when talking about the fantasy 'Alchemised' at the São Paulo Book Biennial",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/senlinyu-chora-ao-falar-da-fantasia-alchemised-na-bienal-do-livro-de-sao-paulo.shtml",
-      "published_date": "2026-09-13T00:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pedro Scooby denies having an affair with Lívia Andrade, who mocks rumors on the networks",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/pedro-scooby-nega-affair-com-livia-andrade-que-ironiza-rumores-nas-redes.shtml",
-      "published_date": "2026-09-13T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fachin removes Mendonça from the case against Moraes and orders Master and INSS investigations to stop",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-tira-de-mendonca-relatoria-de-caso-moraes-e-abre-caminho-para-assumir-inqueritos-do-master-e-inss.shtml",
-      "published_date": "2026-09-12T23:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macallan Whiskey for Supreme",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/uisque-macallan-para-o-supremo.shtml",
-      "published_date": "2026-09-12T23:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palmeiras beats São Paulo, regains the lead in the Brazilian Championship and now supports Corinthians",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-bate-o-sao-paulo-recupera-a-lideranca-do-brasileiro-e-agora-torce-pelo-corinthians.shtml",
-      "published_date": "2026-09-12T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The people must choose who will occupy one of the most important positions in the Republic', says reader about STF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/o-povo-deve-escolher-quem-ocupara-uma-das-posicoes-mais-importantes-da-republica-diz-leitor-sobre-stf.shtml",
-      "published_date": "2026-09-12T23:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock in Rio 2026: Brunna Gonçalves talks about her future in Greater Rio after Anitta's announcement",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-brunna-goncalves-fala-sobre-seu-futuro-na-grande-rio-apos-anuncio-de-anitta.shtml",
-      "published_date": "2026-09-12T23:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock in Rio 2026: Juliano Floss says he prepared for years before debuting as an actor",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-juliano-floss-diz-que-se-preparou-por-ano-antes-de-estreia-como-ator.shtml",
-      "published_date": "2026-09-12T23:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "About to sing at Rock in Rio, Halsey says she has an infection on her face",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/prestes-a-cantar-no-rock-in-rio-halsey-diz-estar-com-infeccao-no-rosto.shtml",
-      "published_date": "2026-09-12T22:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/rybakina-no-1-do-mundo-vence-sabalenka-e-e-campea-do-us-open.shtml",
-      "published_date": "2026-09-12T22:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fachin gives PF 24 hours to inform Vorcaro's custody and cell phone status",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-da-24-horas-para-pf-informar-sobre-custodia-e-estado-de-celular-de-vorcaro.shtml",
-      "published_date": "2026-09-12T22:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trial on Moraes' relationship with Vorcaro will be broadcast on TV Justiça",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/julgamento-sobre-relacao-de-moraes-com-vorcaro-sera-transmitido-pela-tv-justica.shtml",
-      "published_date": "2026-09-12T22:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/milo-j-sensacao-argentina-estreia-no-brasil-para-fas-dedicados-no-rock-in-rio.shtml",
-      "published_date": "2026-09-12T22:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/openai-afasta-ipo-em-2026-por-preocupacoes-com-seguranca-da-ia.shtml",
-      "published_date": "2026-09-12T22:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/biblioteca-volta-a-expor-obras-roubadas-com-escolta-da-gcm-e-cameras-do-smartsampa.shtml",
-      "published_date": "2026-09-12T22:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/chuva-interdita-serra-antiga-da-tamoios-saiba-como-estao-as-estradas-de-sp.shtml",
-      "published_date": "2026-09-12T21:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/09/cacique-cobra-coral-diz-ter-sido-acionada-pela-prefeitura-para-reduzir-chuvas-no-rock-in-rio.shtml",
-      "published_date": "2026-09-12T21:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/politica-foi-a-grande-estrela-das-premiacoes-do-festival-de-veneza.shtml",
-      "published_date": "2026-09-12T21:22:00Z",
+      "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-tonight-september-13-2026/",
+      "published_date": "2026-09-13T10:44:48Z",
       "category": "Local Events"
     }
   ]
