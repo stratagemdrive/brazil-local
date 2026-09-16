@@ -1,7 +1,63 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-15T15:30:50Z",
+  "last_updated": "2026-09-16T00:55:52Z",
   "stories": [
+    {
+      "title": "Torcida petista por Moraes custará a eleição de Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml",
+      "published_date": "2026-09-15T23:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula cobra STF por perda de credibilidade e acusa Mendonça de vazamento seletivo no caso Master",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-cobra-stf-por-perda-de-credibilidade-e-acusa-mendonca-de-vazamento-seletivo-no-caso-master.shtml",
+      "published_date": "2026-09-15T23:41:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governistas defendem que Lula cite ministros diretamente ao cobrar investigações",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-defendem-que-lula-cite-ministros-diretamente-ao-cobrar-investigacoes.shtml",
+      "published_date": "2026-09-15T22:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "M23 Parallel Administration Now Taxes Eastern Congo, Aid Agencies Included",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/m23-parallel-administration-congo-taxes-2026/",
+      "published_date": "2026-09-15T21:22:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Senegal Debt Restructuring Was Unthinkable in February. Now Dakar Wants It Fast",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/senegal-debt-restructuring-common-framework-2026/",
+      "published_date": "2026-09-15T21:22:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan Aid Supplies Run Out at the End of This Month, the UN Migration Agency Says",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/sudan-aid-supplies-iom-warning-2026/",
+      "published_date": "2026-09-15T21:21:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mortes: Amelinha Teles lutou contra a ditadura militar e nunca optou pelo silêncio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mortes-amelinha-teles-lutou-contra-a-ditadura-militar-e-nunca-optou-pelo-silencio.shtml",
+      "published_date": "2026-09-15T20:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quênia será sede do Mundial de atletismo, o primeiro na África",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/quenia-sera-sede-do-mundial-de-atletismo-o-primeiro-na-africa.shtml",
+      "published_date": "2026-09-15T20:29:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Perfis de Lula nas redes crescem e lideram em números de interações, diz campanha",
       "source": "Folha de S.Paulo",
@@ -87,60 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eritrea Accuses the UAE of Port Imperialism in Africa",
+      "title": "Nairobi 2029 Will Be the First World Athletics Championships Held in Africa",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/eritrea-uae-port-imperialism-horn-of-africa-2026/",
-      "published_date": "2026-09-14T21:47:46Z",
-      "category": "Diplomacy"
+      "url": "https://www.riotimesonline.com/nairobi-2029-world-athletics-championships-2026/",
+      "published_date": "2026-09-15T21:21:45Z",
+      "category": "Military"
     },
     {
-      "title": "Lamine Yamal defende vantagem sobre Mbappé pela Bola de Ouro",
+      "title": "SBT faz proposta à Warner para renovar contrato da Champions League até 2031",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/lamine-yamal-defende-vantagem-sobre-mbappe-pela-bola-de-ouro.shtml",
-      "published_date": "2026-09-14T21:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flamengo e Palmeiras provam força, e Corinthians aposta tudo na Libertadores",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/flamengo-e-palmeiras-provam-forca-e-corinthians-aposta-tudo-na-libertadores.shtml",
-      "published_date": "2026-09-14T21:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brasil deve negociar tarifaço com EUA durante reunião do G20, afirma ministro",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-deve-negociar-tarifaco-com-eua-durante-reuniao-do-g20-afirma-ministro.shtml",
-      "published_date": "2026-09-14T21:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula prorroga crédito de R$ 30 bi para motoristas de aplicativo e inclui vans escolares",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-prorroga-credito-de-r-30-bi-para-motoristas-de-aplicativo-e-inclui-vans-escolares.shtml",
-      "published_date": "2026-09-14T19:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Neymar pede, e Santos anuncia Philippe Coutinho como reforço",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/neymar-pede-e-santos-anuncia-philippe-coutinho-como-reforco.shtml",
-      "published_date": "2026-09-14T17:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Durigan defende novo corte linear de benefícios fiscais caso Lula seja reeleito",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/durigan-defende-novo-corte-linear-de-beneficios-fiscais-caso-lula-seja-reeleito.shtml",
-      "published_date": "2026-09-14T15:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cezinha de Madureira juntou Mendonça e Vorcaro, andou de moto com Bolsonaro e tirou foto com Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/cezinha-de-madureira-juntou-mendonca-e-vorcaro-andou-de-moto-com-bolsonaro-e-tirou-foto-com-lula.shtml",
-      "published_date": "2026-09-14T14:10:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sbt-faz-proposta-a-warner-para-renovar-contrato-da-champions-league-ate-2031.shtml",
+      "published_date": "2026-09-15T18:38:00Z",
+      "category": "Military"
     },
     {
       "title": "A Fazenda 18: Rikardo Negro, modelo e ex-bombeiro de Eliana, é confirmado no reality show",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Amazon Cargo Plane Was Too Fast Before Deadly Miami Crash, NTSB Data Shows",
+      "title": "The Dangote Refinery Share Offer Is Cheap to Enter and Expensive to Own",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/amazon-cargo-miami-crash-ntsb-excessive-speed-2026/",
-      "published_date": "2026-09-11T16:50:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "UNITAS 2026 Opens in Peru: 24 Navies Launch the Americas’ Largest Multinational Drill",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/unitas-2026-peru-navy-exercise-callao-2026/",
-      "published_date": "2026-09-11T16:33:45Z",
-      "category": "Military"
+      "url": "https://www.riotimesonline.com/dangote-refinery-share-offer-foreign-investors-2026/",
+      "published_date": "2026-09-15T21:22:29Z",
+      "category": "Energy"
     },
     {
       "title": "CEOs do Brasil estão usando mais o LinkedIn, diz pesquisa da FGV com 225 CEOs",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "TH Joias intermediou venda de droga após posse e armazenou 200 kg de maconha, diz MPF",
+      "title": "Fiscalização apreendeu 247,5 mil litros de óleo irregular em 2026",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/th-joias-intermediou-venda-de-droga-apos-posse-como-deputado-e-armazenou-200kg-de-maconha-diz-mpf.shtml",
-      "published_date": "2026-09-13T18:14:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/fiscalizacao-apreendeu-2475-mil-litros-de-oleo-irregular-em-2026.shtml",
+      "published_date": "2026-09-15T18:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Expoalimentaria 2026 Opens in Lima’s Surco District",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Virginia Fonseca chama a atenção com Vini Jr em corrida da Fórmula 1 na Espanha",
+      "title": "Regimento do STF prevê voto de Fachin para desempate, mas há dúvida sobre aplicação em caso Moraes",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/virginia-fonseca-chama-a-atencao-com-vini-jr-em-corrida-da-formula-1-na-espanha.shtml",
-      "published_date": "2026-09-13T15:43:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/regimento-do-stf-preve-que-voto-de-fachin-pode-desempatar-julgamentos-mas-ha-duvida-sobre-aplicacao-em-caso-moraes.shtml",
+      "published_date": "2026-09-16T00:46:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Corregedoria aponta que PM teve intenção de matar mulher em abordagem na zona leste de SP",
+      "title": "Confira o resultado da Lotofácil da Independência, sorteada nesta terça (15)",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/corregedoria-aponta-que-pm-teve-intencao-de-matar-mulher-em-abordagem-na-zona-leste-de-sp.shtml",
-      "published_date": "2026-09-15T15:26:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/confira-o-resultado-da-lotofacil-da-independencia-sorteada-nesta-terca-15.shtml",
+      "published_date": "2026-09-16T00:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Os anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto",
+      "title": "Sessão do STF teve Cármen atônita, Mendonça em oração e gargalhadas na sala de lanches",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/os-anticorpos-que-atravessam-a-placenta-como-vacina-da-mae-protege-o-bebe-antes-mesmo-do-parto.shtml",
-      "published_date": "2026-09-15T15:25:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/sessao-do-stf-teve-carmen-atonita-mendonca-em-oracao-e-gargalhadas-na-sala-de-lanches.shtml",
+      "published_date": "2026-09-16T00:39:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Empresários dizem esperar que STF solucione crise",
+      "title": "Arábia Saudita diz ter interceptado drone houthi lançado contra Meca",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/empresarios-dizem-esperar-que-stf-solucione-crise.shtml",
-      "published_date": "2026-09-15T15:23:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/arabia-saudita-diz-ter-interceptado-drone-houthi-lancado-contra-meca.shtml",
+      "published_date": "2026-09-16T00:29:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Caixa e bancários retomam negociações nesta quarta (16), mas greve segue sem prazo para terminar",
+      "title": "Veja como votou cada ministro do STF em sessão sobre Moraes",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/caixa-e-bancarios-retomam-negociacoes-nesta-quarta-16-mas-greve-segue-sem-prazo-para-terminar.shtml",
-      "published_date": "2026-09-15T15:23:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-como-votou-cada-ministro-do-stf-em-sessao-sobre-moraes.shtml",
+      "published_date": "2026-09-16T00:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rwanda Keeps Entry Ban on Travelers From DR Congo",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/rwanda-entry-ban-dr-congo-travelers-2026/",
-      "published_date": "2026-09-15T15:03:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MOGA Festival Returns to Essaouira With ANOTR, Jamie Jones",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/moga-festival-essaouira-morocco-2026/",
-      "published_date": "2026-09-15T15:03:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casablanca’s L’Boulevard Festival Returns With Free Concerts",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/lboulevard-festival-casablanca-morocco-2026/",
-      "published_date": "2026-09-15T15:02:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fábio Faria agrava crise no SBT, mas Patricia Abravanel é quem vira alvo nas redes sociais",
+      "title": "Show dos horrores no STF sinaliza que nada será apurado na relação com Vorcaro; veja vídeo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/09/fabio-faria-agrava-crise-no-sbt-mas-patricia-abravanel-e-quem-vira-alvo-nas-redes-sociais.shtml",
-      "published_date": "2026-09-15T15:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/show-dos-horrores-no-stf-sinaliza-que-nada-sera-apurado-na-relacao-com-vorcaro-veja-video.shtml",
+      "published_date": "2026-09-16T00:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Guerra no Oriente Médio põe à prova sonho de ilhas artificiais luxuosas de Dubai",
+      "title": "Com metade do STF sob suspeita, campanha de impeachments ganha força",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/guerra-no-oriente-medio-poe-a-prova-sonho-de-ilhas-artificiais-luxuosas-de-dubai.shtml",
-      "published_date": "2026-09-15T15:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/com-metade-do-stf-sob-suspeita-campanha-de-impeachments-ganha-forca.shtml",
+      "published_date": "2026-09-16T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Boom de data centers de IA nos EUA exige US$ 110 bi em novas usinas de energia, diz Moody's",
+      "title": "Campanha de Flávio quer impedir Moraes de assumir STF, mas se divide quanto a estratégia",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/boom-de-data-centers-de-ia-nos-eua-exige-us-110-bi-em-novas-usinas-de-energia-diz-moodys.shtml",
-      "published_date": "2026-09-15T15:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-flavio-quer-impedir-moraes-de-assumir-stf-mas-se-divide-quanto-a-estrategia.shtml",
+      "published_date": "2026-09-16T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Dominica’s Kalinago Week Enters Its Final Days",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/dominica-kalinago-week-closing-days-2026/",
-      "published_date": "2026-09-15T14:54:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trinidad Film Festival Marks 20 Years in Port of Spain",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/trinidad-tobago-film-festival-20th-anniversary-2026/",
-      "published_date": "2026-09-15T14:54:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manifesto inter-religioso defende democracia e Estado laico no Brasil",
+      "title": "Polícia diz que servidora e donos de construtora de prédio que desabou podem ser indiciados por homicídio",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/manifesto-inter-religioso-defende-democracia-e-estado-laico-no-brasil.shtml",
-      "published_date": "2026-09-15T14:49:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-diz-que-servidora-e-donos-de-construtora-de-predio-que-desabou-podem-ser-indiciados-por-homicidio.shtml",
+      "published_date": "2026-09-15T23:54:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Candlelight’s Hans Zimmer Tribute Comes to Recife, Brazil",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/candlelight-hans-zimmer-tribute-recife-2026/",
-      "published_date": "2026-09-15T14:48:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pinacoteca Opens Ismael Nery Retrospective in São Paulo, Brazil",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/pinacoteca-ismael-nery-retrospective-sao-paulo-2026/",
-      "published_date": "2026-09-15T14:48:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock Rec Festival Lands in Olinda, Brazil, Not Recife",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/rock-rec-festival-olinda-brazil-2026/",
-      "published_date": "2026-09-15T14:48:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conab eleva previsão de safra total de grãos em 2025/2026 no Brasil e estima novo recorde",
+      "title": "TRE-SP manda Salles retirar vídeos com acusações contra André do Prado",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/09/conab-eleva-previsao-de-safra-total-de-graos-em-20252026-no-brasil-e-estima-novo-recorde.shtml",
-      "published_date": "2026-09-15T14:43:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tre-sp-manda-salles-retirar-videos-com-acusacoes-contra-prado.shtml",
+      "published_date": "2026-09-15T23:48:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Após enchente, Eldorado (SP) amanhece com lama, lixo e barcos na calçada",
+      "title": "A Fazenda 18: Maíra Charken sugere queimar roupas de Sérgio Hondjakoff",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/apos-enchente-eldorado-sp-amanhece-com-lama-lixo-e-barcos-na-calcada.shtml",
-      "published_date": "2026-09-15T14:39:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-maira-charken-sugere-queimar-roupas-de-sergio-hondjakoff.shtml",
+      "published_date": "2026-09-15T23:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vendas no varejo do Brasil recuam mais do que o esperado em julho",
+      "title": "Lavagem de roupa suja",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/vendas-no-varejo-do-brasil-recuam-mais-do-que-o-esperado-em-julho.shtml",
-      "published_date": "2026-09-15T14:33:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/lavagem-de-roupa-suja.shtml",
+      "published_date": "2026-09-15T22:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Selma Egrei e Leonardo Miggiorin prestigiam estreia de monólogo 'Eu Sou Minha Própria Mulher'",
+      "title": "Suspeito de matar universitária em Londrina (PR) buscou emprego onde vítima trabalhava, diz polícia",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/selma-egrei-e-leonardo-miggiorin-prestigiam-estreia-de-monologo-eu-sou-minha-propria-mulher.shtml",
-      "published_date": "2026-09-15T14:10:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/suspeito-de-matar-universitaria-em-londrina-pr-buscou-emprego-onde-vitima-trabalhava-diz-policia.shtml",
+      "published_date": "2026-09-15T22:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macarronada de fios e o ordenamento urbano",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/09/macarronada-de-fios-e-o-ordenamento-urbano.shtml",
+      "published_date": "2026-09-15T22:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teatro no Supremo expõe disfunção e impacto eleitoral",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/teatro-no-supremo-expoe-disfuncao-e-impacto-eleitoral.shtml",
+      "published_date": "2026-09-15T22:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Produtores do RS relatam falta de diesel e temem impacto no plantio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/09/produtores-do-rs-relatam-falta-de-diesel-e-temem-impacto-no-plantio.shtml",
+      "published_date": "2026-09-15T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greta Garbo entra no bar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/daniel-de-mesquita-benevides/2026/09/greta-garbo-entra-no-bar.shtml",
+      "published_date": "2026-09-15T21:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flávio fala de crise no STF em propaganda eleitoral com vídeo em formato de 'pronunciamento'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-fala-de-crise-no-stf-em-propaganda-eleitoral-com-video-em-formato-de-pronunciamento.shtml",
+      "published_date": "2026-09-15T21:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quase metade dos médicos de UTIs brasileiras tem risco de burnout, diz estudo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/quase-metade-dos-medicos-de-utis-brasileiras-tem-risco-de-burnout-diz-estudo.shtml",
+      "published_date": "2026-09-15T21:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justiça condena Edir Macedo e Record a pagar R$ 1,5 milhão por fala homofóbica",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/justica-condena-edir-macedo-e-record-a-pagar-r-15-milhao-por-fala-homofobica.shtml",
+      "published_date": "2026-09-15T21:48:00Z",
       "category": "Local Events"
     }
   ]
