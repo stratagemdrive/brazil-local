@@ -1,7 +1,105 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-20T14:39:06Z",
+  "last_updated": "2026-09-21T00:42:32Z",
   "stories": [
+    {
+      "title": "Lula marca encontros com Bernie Sanders, Mamdani e presidente do Uruguai em NY",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-marca-encontros-com-bernie-sanders-mamdani-e-presidente-do-uruguai-em-ny.shtml",
+      "published_date": "2026-09-21T00:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml",
+      "published_date": "2026-09-21T00:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brasil, Canadá, UE e Quênia lançam manifesto pelo multilateralismo antes da Assembleia-Geral da ONU",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/brasil-canada-ue-e-quenia-lancam-manifesto-pelo-multilateralismo-antes-da-assembleia-geral-da-onu.shtml",
+      "published_date": "2026-09-20T23:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ivete Sangalo faz 'L' com a mão após ouvir público gritando nome de Lula durante show",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ivete-sangalo-faz-l-com-a-mao-apos-ouvir-publico-gritando-nome-de-lula-durante-show.shtml",
+      "published_date": "2026-09-20T22:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vírus HTLV-1 causa síndrome inflamatória em assintomáticos, aponta estudo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/virus-htlv-1-causa-sindrome-inflamatoria-em-assintomaticos-aponta-estudo.shtml",
+      "published_date": "2026-09-20T21:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fluminense impõe sexta derrota consecutiva ao Corinthians no Brasileiro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/fluminense-impoe-sexta-derrota-consecutiva-ao-corinthians-no-brasileiro.shtml",
+      "published_date": "2026-09-20T21:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula vai à ONU acenar ao eleitor antes da eleição e pode encontrar Trump",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-vai-a-onu-acenar-ao-eleitor-antes-da-eleicao-e-pode-encontrar-trump.shtml",
+      "published_date": "2026-09-20T21:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Campanha de Lula aciona TSE contra suposto uso de perfis para impulsionar conteúdo de Flávio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-aciona-tse-contra-suposto-uso-de-perfis-para-impulsionar-conteudo-de-flavio.shtml",
+      "published_date": "2026-09-20T18:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PT rebate governo do DF e diz que não há chance de aval federal para apoiar BRB",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-rebate-governo-do-df-e-diz-que-nao-ha-chance-de-aval-federal-para-apoiar-brb.shtml",
+      "published_date": "2026-09-20T16:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indústria de bets usa valores invesidos com publicidade e patrocínio contra ofensiva do presidente Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/09/industria-de-bets-usa-valores-invesidos-com-publicidade-e-patrocinio-contra-ofensiva-do-presidente-lula.shtml",
+      "published_date": "2026-09-20T16:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Motta faz campanha paroquial e usa relação com Lula para ampliar poder na Paraíba",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/motta-faz-campanha-paroquial-e-usa-relacao-com-lula-para-ampliar-poder-na-paraiba.shtml",
+      "published_date": "2026-09-20T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governo Lula demora mais para conceder garantia a empréstimos pleiteados por opositores",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml",
+      "published_date": "2026-09-20T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dino determina revisão de regras da CVM sobre fundos e lavagem de dinheiro após caso Master",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/dino-determina-revisao-de-regras-da-cvm-sobre-fundos-e-lavagem-de-dinheiro-apos-caso-master.shtml",
+      "published_date": "2026-09-20T15:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MP de Lula para restringir bets divide Planalto e Fazenda",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mp-de-lula-para-restringir-bets-divide-planalto-e-fazenda.shtml",
+      "published_date": "2026-09-20T15:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "TSE aceita abrir ação de Flávio Bolsonaro contra Lula por desfile no Carnaval do Rio",
       "source": "Folha de S.Paulo",
@@ -45,102 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Governo vê dívida pública perto de 90% do PIB em 2029 e acima disso se perseguir piso da meta",
+      "title": "Garotinho de 'Extraordinário', Jacob Tremblay deixa papéis infantis para trás em 'Unabomber'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-ve-divida-publica-perto-de-90-do-pib-em-2029-e-acima-disso-se-perseguir-piso-da-meta.shtml",
-      "published_date": "2026-09-20T02:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/garotinho-de-extraordinario-jacob-tremblay-deixa-papeis-infantis-para-tras-em-unabomber.shtml",
+      "published_date": "2026-09-20T18:30:00Z",
+      "category": "Military"
     },
     {
-      "title": "Com Flávio fortalecido, centrão já discute apoiá-lo no segundo turno",
+      "title": "Festival de Toronto premia 'A Bola Negra' e filme sobre os dramas da guerra em Gaza",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/com-flavio-fortalecido-centrao-ja-discute-apoia-lo-no-segundo-turno.shtml",
-      "published_date": "2026-09-20T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula atravessou a praça dos Três Poderes para entrar na crise do STF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-atravessou-a-praca-dos-tres-poderes-para-entrar-na-crise-do-stf.shtml",
-      "published_date": "2026-09-20T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gabigol marca no fim e garante vitória do Santos sobre o Remo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/gabigol-decide-no-fim-e-santos-vence-o-remo-no-mangueirao.shtml",
-      "published_date": "2026-09-19T23:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Caribbean Reparations Chief Says Slavery Justice Push Is in Final Phase",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/beckles-caricom-reparations-final-phase-barbados-2026/",
-      "published_date": "2026-09-19T22:36:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gilmar reabriu caso arquivado no STF há dois anos para validar reajuste ao Bolsa Família",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/gilmar-reabriu-caso-arquivado-no-stf-ha-dois-anos-para-validar-reajuste-ao-bolsa-familia.shtml",
-      "published_date": "2026-09-19T22:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "STF reabriu caso arquivado há dois anos para validar reajuste ao Bolsa Família",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/stf-reabriu-caso-arquivado-ha-dois-anos-para-validar-reajuste-ao-bolsa-familia.shtml",
-      "published_date": "2026-09-19T22:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "São Paulo volta a bater o Flamengo e avança à decisão do Brasileiro feminino",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/sao-paulo-volta-a-bater-o-flamengo-e-avanca-a-decisao-do-brasileiro-feminino.shtml",
-      "published_date": "2026-09-19T21:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mendonça e Fux dizem que não conseguiram acessar conteúdo de celular de Vorcaro e pedem ajuda à PF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-diz-que-gabinete-nao-conseguiu-acessar-conteudo-de-celular-de-vorcaro-e-pede-ajuda-a-pf.shtml",
-      "published_date": "2026-09-19T19:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml",
-      "published_date": "2026-09-19T19:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Empresa americana de bets usou IA para identificar apostadores com maior chance de perder",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresa-americana-de-bets-usou-ia-para-identificar-apostadores-com-maior-chance-de-perder.shtml",
-      "published_date": "2026-09-19T18:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Governo Lula propõe prazo de 12 horas para redes sociais comunicarem à PF casos de risco a crianças",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/governo-lula-propoe-prazo-de-12-horas-para-redes-sociais-comunicarem-a-pf-casos-de-risco-a-criancas.shtml",
-      "published_date": "2026-09-19T18:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula e Flávio vão concentrar agendas de campanha no Nordeste e Sudeste na reta final",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-e-flavio-vao-concentrar-agendas-de-campanha-no-nordeste-e-sudeste-na-reta-final.shtml",
-      "published_date": "2026-09-19T18:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Se fosse pelo dinheiro, agro em SC deveria não só votar, mas se ajoelhar para mim, diz Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/se-fosse-pelo-dinheiro-agro-em-sc-deveria-nao-so-votar-mas-se-ajoelhar-pra-mim-diz-lula.shtml",
-      "published_date": "2026-09-19T16:35:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/festival-de-toronto-premia-a-bola-negra-e-filme-sobre-os-dramas-da-guerra-em-gaza.shtml",
+      "published_date": "2026-09-20T16:22:00Z",
+      "category": "Military"
     },
     {
       "title": "Latin America Defense Monitor — September 12–19, 2026",
@@ -269,18 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Benin and Rwanda Sign a Round of Cooperation Deals on Trade Worth About US$126,500 a Year",
+      "title": "Compound Group Marks Two Years of Growth and Expands Business Operations",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/benin-rwanda-concrete-projects-2026/",
-      "published_date": "2026-09-17T21:10:16Z",
-      "category": "Military"
+      "url": "https://www.riotimesonline.com/compound-group-two-years-growth-expansion-2026/",
+      "published_date": "2026-09-20T19:56:03Z",
+      "category": "Energy"
     },
     {
-      "title": "Guinea’s Media Regulator Issues a Formal Warning to France 24 Over One Word",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/guinea-france-24-putschist-president-warning-2026/",
-      "published_date": "2026-09-17T21:09:44Z",
-      "category": "Military"
+      "title": "Como o aumento de etanol na gasolina entrou no debate eleitoral entre Lula e Flávio Bolsonaro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/como-o-aumento-de-etanol-na-gasolina-entrou-no-debate-eleitoral-entre-lula-e-flavio-bolsonaro.shtml",
+      "published_date": "2026-09-20T15:20:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Nos EUA, academias gratuitas unem grupos de pessoas que desejam ficar sóbrias",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/nos-eua-academias-gratuitas-unem-grupos-de-pessoas-que-desejam-ficar-sobrias.shtml",
+      "published_date": "2026-09-20T15:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Capim Santo assume operação gastronômica da Reserva Morros Verdes e prevê expansão",
@@ -402,25 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "Juiz condena dois ex-executivos de empreiteiras em ação penal ligada à Operação Lava Jato",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/juiz-condena-dois-ex-executivos-de-empreiteiras-em-acao-penal-ligada-a-operacao-lava-jato.shtml",
-      "published_date": "2026-09-17T21:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Aiqfome, app de delivery da Magalu, denuncia iFood no Cade",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/aiqfome-app-de-delivery-da-magalu-denuncia-ifood-no-cade.shtml",
-      "published_date": "2026-09-17T20:57:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Cameroon Tells the IAEA It Is Studying Civil Nuclear Power",
+      "title": "Key Market Events for the Week of September 21–25, 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/cameroon-civil-nuclear-plans-2026/",
-      "published_date": "2026-09-17T20:56:26Z",
-      "category": "Energy"
+      "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-september-21-25-2026/",
+      "published_date": "2026-09-20T20:13:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Seychelles Central Bank Governor Caroline Abel Resigns After 14 Years",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/seychelles-central-bank-abel-commettant-transition/",
+      "published_date": "2026-09-20T19:58:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "São Tomé and Príncipe Sells Citizenship for US$90,000",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/sao-tome-citizenship-by-investment-90000-golden-passport/",
+      "published_date": "2026-09-20T19:58:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mozambique Gas Revenue Stays Tiny as Debt Nears 96% of GDP",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/mozambique-gas-revenue-debt-2027-2026/",
+      "published_date": "2026-09-20T19:57:50Z",
+      "category": "Economy"
     },
     {
       "title": "Diferença de juros entre Brasil e EUA diminui, mas ativos locais seguem atrativos para estrangeiros",
@@ -535,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Taxes in Ghana for Expats 2026: Residency Can Raise Your Rate",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/taxes-ghana-expats-2026/",
-      "published_date": "2026-09-18T12:56:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Taxes in Morocco for Expats 2026: The 37% Band Starts Early",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/taxes-morocco-expats-2026/",
-      "published_date": "2026-09-18T12:53:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Investing in Guatemala as a Foreigner in 2026: Two Taxes Just Went",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/investing-guatemala-foreigners-2026/",
-      "published_date": "2026-09-18T12:25:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japão eleva juros ao maior nível em 31 anos e iene cai ao menor valor em duas semanas",
+      "title": "Mariana Mug lança música inédita de Rita Lee censurada pela ditadura",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/japao-eleva-juros-ao-maior-nivel-em-31-anos-e-iene-cai-ao-menor-valor-em-duas-semanas.shtml",
-      "published_date": "2026-09-18T10:47:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/mariana-mug-lanca-musica-inedita-de-rita-lee-censurada-pela-ditadura.shtml",
+      "published_date": "2026-09-21T00:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "MC Cabelinho, Guilherme Magon e artistas prestigiam livro de Manuela Dias",
+      "title": "Anitta é coroada rainha de bateria na Grande Rio: 'Vou ficando o quanto vocês quiserem'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/mc-cabelinho-guilherme-magon-e-artistas-prestigiam-livro-de-manuela-dias.shtml",
-      "published_date": "2026-09-20T14:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/09/anitta-e-coroada-rainha-de-bateria-na-grande-rio-vou-ficando-o-quanto-voces-quiserem.shtml",
+      "published_date": "2026-09-20T23:26:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Austrália diz que big techs precisam ajudar em restrições para menores nas redes sociais",
+      "title": "Polícia procura namorado de estudante de direito encontrada morta em Fortaleza",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/australia-diz-que-big-techs-precisam-ajudar-em-restricoes-para-menores-nas-redes-sociais.shtml",
-      "published_date": "2026-09-20T14:07:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/policia-procura-namorado-de-estudante-de-direito-encontrada-morta-em-fortaleza.shtml",
+      "published_date": "2026-09-20T23:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Chihuahuas são parte coiotes, e talvez por isso sejam pequenos, mas bravos",
+      "title": "Biodiesel para transporte marítimo fica mais barato que combustíveis convencionais",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/chihuahuas-sao-parte-coiotes-e-talvez-por-isso-sejam-pequenos-mas-bravos.shtml",
-      "published_date": "2026-09-20T14:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/biodiesel-para-transporte-maritimo-fica-mais-barato-que-combustiveis-convencionais.shtml",
+      "published_date": "2026-09-20T22:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump diz que 'Arco do Triunfo' de Washington será transformado em complexo militar",
+      "title": "Os cientistas que salvam filhotes de araras de seus pais assassinos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-diz-que-arco-do-triunfo-de-washington-sera-transformado-em-complexo-militar.shtml",
-      "published_date": "2026-09-20T13:55:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/os-cientistas-que-salvam-filhotes-de-araras-de-seus-pais-assassinos.shtml",
+      "published_date": "2026-09-20T22:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ópera em Belo Horizonte humaniza Chica da Silva e revisita o mito histórico",
+      "title": "Veja cronologia da relação de Moraes e Vorcaro até a prisão de ex-banqueiro, segundo mensagens",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/opera-em-belo-horizonte-humaniza-chica-da-silva-e-revisita-o-mito-historico.shtml",
-      "published_date": "2026-09-20T13:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-cronologia-da-relacao-de-moraes-e-vorcaro-ate-a-prisao-de-ex-banqueiro-segundo-mensagens.shtml",
+      "published_date": "2026-09-20T21:38:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Semana de 20 a 26 de setembro termina tensa com Lua cheia em áries; veja previsões",
+      "title": "Thiaguinho e Carol Peixinho recebem Neymar, Huck e mais famosos no aniversário de Bento",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/09/semana-de-20-a-26-de-setembro-termina-tensa-com-lua-cheia-em-aries-veja-previsoes.shtml",
-      "published_date": "2026-09-20T13:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/thiaguinho-e-carol-peixinho-recebem-neymar-huck-e-mais-famosos-no-aniversario-de-bento.shtml",
+      "published_date": "2026-09-20T21:32:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Marisa Orth revela novos detalhes de filme em plataforma de conteúdo adulto: 'Deu trabalho'",
+      "title": "Trabalhar como babá para os ultrarricos é cada vez mais exigente e lucrativo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/marisa-orth-revela-novos-detalhes-de-filme-em-plataforma-de-conteudo-adulto-deu-trabalho.shtml",
-      "published_date": "2026-09-20T12:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/trabalhar-como-baba-para-os-ultrarricos-e-cada-vez-mais-exigente-e-lucrativo.shtml",
+      "published_date": "2026-09-20T21:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vão-se os anéis, fica o Cáriclo",
+      "title": "Operação contra infiltração do PCC no transporte tem 11 alvos com prisões mantidas após audiências",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/09/vao-se-os-aneis-fica-o-cariclo.shtml",
-      "published_date": "2026-09-20T12:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-contra-infiltracao-do-pcc-no-transporte-tem-11-alvos-com-prisoes-mantidas-apos-audiencias.shtml",
+      "published_date": "2026-09-20T21:12:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quem protege os brasileiros dos protetores da democracia?",
+      "title": "Sylvester Stallone rejeita cargo simbólico criado por Trump: 'Missão impossível'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/09/quem-protege-os-brasileiros-dos-protetores-da-democracia.shtml",
-      "published_date": "2026-09-20T11:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/sylvester-stallone-rejeita-cargo-simbolico-criado-por-trump-missao-impossivel.shtml",
+      "published_date": "2026-09-20T21:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Eu seria uma péssima vigarista', diz Anya Taylor-Joy, que vive uma na série 'Lucky'",
+      "title": "Miami sediará fase decisiva da Copa dos Campeões feminina de 2027",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/09/eu-seria-uma-pessima-vigarista-diz-anya-taylor-joy-que-vive-uma-na-serie-lucky.shtml",
-      "published_date": "2026-09-20T11:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/miami-sediara-fase-decisiva-da-copa-dos-campeoes-feminina-de-2027.shtml",
+      "published_date": "2026-09-20T21:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "O pulmão de mau humor",
+      "title": "Ivete Sangalo e Lázaro Ramos abrem temporada de programa de Angélica no GNT",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/09/o-pulmao-de-mau-humor.shtml",
-      "published_date": "2026-09-20T11:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ivete-sangalo-e-lazaro-ramos-abrem-temporada-de-programa-de-angelica-no-gnt.shtml",
+      "published_date": "2026-09-20T21:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Presidente da General Motors lidera crescimento da montadora amparado pela paixão por carros",
+      "title": "China não é desculpa para ignorar medidas de controle para IA, afirma Microsoft",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/presidente-da-general-motors-lidera-crescimento-da-montadora-amparado-pela-paixao-por-carros.shtml",
-      "published_date": "2026-09-20T10:49:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/china-nao-e-desculpa-para-ignorar-medidas-de-controle-para-ia-afirma-microsoft.shtml",
+      "published_date": "2026-09-20T20:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Crise na Escócia e novos hábitos de consumo ameaçam setor de uísque",
+      "title": "O STF em modo sobrevivência",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/crise-na-escocia-e-novos-habitos-de-consumo-ameacam-setor-de-uisque.shtml",
-      "published_date": "2026-09-20T10:46:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/09/o-stf-em-modo-sobrevivencia.shtml",
+      "published_date": "2026-09-20T20:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Varejo físico enfrenta concorrência online com lojas 'com alma' e experiências",
+      "title": "Partido de Putin lidera eleições parlamentares na Rússia, aponta pesquisa boca de urna",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/varejo-fisico-enfrenta-concorrencia-online-com-lojas-com-alma-e-experiencias.shtml",
-      "published_date": "2026-09-20T10:06:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/partido-de-putin-lidera-eleicoes-parlamentares-na-russia-aponta-pesquisa-boca-de-urna.shtml",
+      "published_date": "2026-09-20T20:37:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vídeos tentam expor ultraprocessados, mas podem ter imprecisões técnicas",
+      "title": "Governador da BA usou helicóptero disponibilizado por ex-sócio do Master a Wagner para voo em 2023",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/videos-tentam-expor-ultraprocessados-mas-podem-ter-imprecisoes-tecnicas.shtml",
-      "published_date": "2026-09-20T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/governador-da-bahia-usou-helicoptero-que-foi-disponibilizado-por-ex-socio-do-master-a-wagner.shtml",
+      "published_date": "2026-09-20T20:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Confira o resultado do concurso 3060 da Mega-Sena sorteado neste domingo (20)",
+      "title": "Seleção masculina de vôlei bate Argentina e ganha vaga nos Jogos Olímpicos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/confira-a-partir-das-11h-deste-domingo-20-o-resultado-do-concurso-3060-da-mega-sena.shtml",
-      "published_date": "2026-09-20T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/selecao-masculina-de-volei-bate-argentina-e-ganha-vaga-nos-jogos-olimpicos.shtml",
+      "published_date": "2026-09-20T20:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Com dificuldade nas pesquisas, Caiado é aconselhado a se voltar mais para Goiás",
+      "title": "Palco onde Gloria Groove se apresentava cede, e dois bailarinos caem em buraco; assista",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/com-dificuldade-nas-pesquisas-caiado-e-aconselhado-a-se-voltar-mais-para-goias.shtml",
-      "published_date": "2026-09-20T09:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/musica/2026/09/palco-onde-gloria-groove-se-apresentava-cede-e-dois-bailarinos-caem-em-buraco-assista.shtml",
+      "published_date": "2026-09-20T20:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Latin America Security: Colombia Frees Hostages, Bolivia Expels PCC Suspect",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/latin-america-security-colombia-hostages-bolivia-pcc-libertad-2026/",
-      "published_date": "2026-09-20T08:50:16Z",
+      "title": "Redatora de discursos dos Obamas virá ao Brasil para festival judaico",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/redatora-de-discursos-dos-obamas-vira-ao-brasil-para-festival-judaico.shtml",
+      "published_date": "2026-09-20T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Argentina Household Loan Delinquency Hits 12.9%, Highest Since 2004",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/argentina-household-loan-delinquency-129-imf-review-2026/",
-      "published_date": "2026-09-20T08:40:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Buenos Aires Blackout Cuts Power to About 600,000 Customers",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/buenos-aires-blackout-600000-customers-edenor-edesur-2026/",
-      "published_date": "2026-09-20T08:39:24Z",
+      "title": "1926: Deputado de SP recebe tarefa de articular acordo de paz no Brasil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/09/1926-deputado-de-sp-recebe-tarefa-de-articular-acordo-de-paz-no-brasil.shtml",
+      "published_date": "2026-09-20T20:00:00Z",
       "category": "Local Events"
     }
   ]
