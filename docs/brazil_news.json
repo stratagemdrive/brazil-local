@@ -1,7 +1,112 @@
 {
   "country": "brazil",
-  "last_updated": "2026-09-29T02:26:52Z",
+  "last_updated": "2026-09-29T16:51:43Z",
   "stories": [
+    {
+      "title": "Mulher que matou três filhos nos EUA volta a tribunal enquanto defesa tenta impedir novo julgamento",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/mulher-que-matou-tres-filhos-nos-eua-volta-a-tribunal-enquanto-defesa-tenta-impedir-novo-julgamento.shtml",
+      "published_date": "2026-09-29T16:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tribunal da UE rejeita pedido da Polônia contra acordo com Mercosul",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/09/tribunal-da-ue-rejeita-pedido-da-polonia-contra-acordo-com-mercosul.shtml",
+      "published_date": "2026-09-29T15:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prerrogativas e deputado pedem que MP-RJ reabra caso das rachadinhas de Flávio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/prerrogativas-pede-que-mp-rj-reabra-caso-das-rachadinhas-para-investigar-flavio-bolsonaro.shtml",
+      "published_date": "2026-09-29T15:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Janja ganha protagonismo na campanha, dirige a cena em atos e contraria aliados de Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/janja-ganha-protagonismo-na-campanha-dirige-a-cena-em-atos-e-contraria-aliados-de-lula.shtml",
+      "published_date": "2026-09-29T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Veto de Lula afeta aposta do BTG Pactual em bets reguladas, recusadas por concorrentes",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/veto-de-lula-afeta-aposta-do-btg-pactual-em-bets-reguladas-recusadas-por-concorrentes.shtml",
+      "published_date": "2026-09-29T15:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "O gênio das eleições",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/o-genio-das-eleicoes.shtml",
+      "published_date": "2026-09-29T15:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Debate da Globo prevê perguntas a candidato ausente e exibição de cadeira vazia",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/debate-da-globo-preve-perguntas-a-candidato-ausente-e-exibicao-de-cadeira-vazia.shtml",
+      "published_date": "2026-09-29T14:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "USA & Canada Intelligence Brief — Tuesday, September 29, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-tuesday-september-29-2026/",
+      "published_date": "2026-09-29T14:35:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Asia Intelligence Brief — Tuesday, September 29, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-september-29-2026/",
+      "published_date": "2026-09-29T14:33:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Novo Nordisk pagará até US$ 2,6 bi à chinesa Hengrui por direitos de pílula para perda de peso",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/novo-nordisk-pagara-ate-us26-bi-a-chinesa-hengrui-por-direitos-de-pilula-para-perda-de-peso.shtml",
+      "published_date": "2026-09-29T14:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belize and Taiwan: Taiwan’s Foreign Minister Visits One of Its 12 Allies",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/belize-taiwan-foreign-minister-lin-visit-allies-2026/",
+      "published_date": "2026-09-29T13:13:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dólar e Bolsa caem com novos dados de desemprego e empate entre Lula e Flávio em pesquisa",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/dolar-abre-em-queda-nesta-terca-apos-desemprego-apresentar-menor-indice-desde-2012.shtml",
+      "published_date": "2026-09-29T13:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fisiculturismo: Veja toda a trajetória de Lucas Garcia, que repetiu o feito de Eduardo Corrêa",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musculo/2026/09/fisiculturismo-veja-toda-a-trajetoria-de-lucas-garcia-que-repetiu-o-feito-de-eduardo-correa.shtml",
+      "published_date": "2026-09-29T13:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pesquisa Palver mostra Lula e Flávio empatados com 44% no primeiro turno",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-lula-e-flavio-empatados-com-44-no-primeiro-turno.shtml",
+      "published_date": "2026-09-29T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anvisa notifica Mercado Livre após empresa anunciar venda de remédio com receita",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/anvisa-notifica-mercado-livre-apos-empresa-anunciar-venda-de-remedio-com-receita.shtml",
+      "published_date": "2026-09-29T09:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Viagem do papa à França mostra mundo de pernas para o ar, mas com desejo de reconciliação",
       "source": "Folha de S.Paulo",
@@ -38,109 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Flávio Dino abusa da toga para reeleger Lula",
+      "title": "Caso Nossa Senhora implode trégua no STF, e ministros veem chance de nova sessão-bomba",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/flavio-dino-abusa-da-toga-para-reeleger-lula.shtml",
-      "published_date": "2026-09-29T01:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/caso-nossa-senhora-implode-tregua-no-stf-e-ministros-veem-chance-de-nova-sessao-bomba.shtml",
+      "published_date": "2026-09-29T15:29:00Z",
+      "category": "Military"
     },
     {
-      "title": "Clubes ameaçam boicote, e reunião com governo Lula sobre bets é cancelada",
+      "title": "Bombardeiro nuclear cai e mata 6 na Rússia; veja vídeo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/clubes-de-futebol-ameacam-boicote-a-reuniao-sobre-bets-com-governo-lula-e-encontro-e-cancelado.shtml",
-      "published_date": "2026-09-29T00:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mensagens de Motta com Vorcaro citam 'sociedade' em negócio e discussão sobre projeto de lei na Câmara",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml",
-      "published_date": "2026-09-29T00:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mãe Loira do Funk, ex-vereadora do Rio, trocou celulares durante fuga, diz delegado",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/mae-loira-do-funk-ex-vereadora-do-rio-trocou-celulares-durante-fuga-diz-delegado.shtml",
-      "published_date": "2026-09-28T23:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Governo prorroga Desenrola para endividados que pagam faturas em dia",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-prorroga-desenrola-para-endividados-que-pagam-faturas-em-dia.shtml",
-      "published_date": "2026-09-28T23:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Campanha de Lula usa tom emocional, com música de Caetano, na reta final",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-usa-tom-emocional-com-musica-de-caetano-na-reta-final.shtml",
-      "published_date": "2026-09-28T23:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula mira rejeição a Flávio Bolsonaro em campanha no Norte, Nordeste e SP na reta final do 1º turno",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-mira-rejeicao-a-flavio-bolsonaro-em-campanha-no-norte-nordeste-e-sp-na-reta-final-do-1o-turno.shtml",
-      "published_date": "2026-09-28T22:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio Bolsonaro mira debate e Sudeste e tenta superar crise de fake news em última semana",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-mira-debate-e-sudeste-e-tenta-superar-crise-de-fake-news-em-ultima-semana.shtml",
-      "published_date": "2026-09-28T22:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Clubes paulistas se unem contra MP das bets, e CBF vira interlocutora com governo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/clubes-paulistas-se-unem-contra-mp-das-bets-e-cbf-vira-interlocutora-com-governo.shtml",
-      "published_date": "2026-09-28T21:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentino é enganado por taxista e paga R$ 30 mil em vez de R$ 30 em São Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/argentino-e-enganado-por-taxista-e-paga-r-30-mil-em-vez-de-r-30-em-sao-paulo.shtml",
-      "published_date": "2026-09-28T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula sanciona Lei do Futebol Feminino, que determina estímulo à modalidade",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/lula-sanciona-lei-do-futebol-feminino-que-determina-estimulo-a-modalidade.shtml",
-      "published_date": "2026-09-28T21:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio Bolsonaro é o pior candidato",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/09/flavio-bolsonaro-e-o-pior-candidato.shtml",
-      "published_date": "2026-09-28T21:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wagner Moura divulga vídeo de apoio Lula e diz ser 'por tudo o que ele significa'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/wagner-moura-diz-que-voto-em-lula-e-por-tudo-o-que-ele-significa.shtml",
-      "published_date": "2026-09-28T20:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula busca evitar desgaste e deve faltar a debate da Globo, adiando embate com Flávio Bolsonaro",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-busca-evitar-desgaste-e-deve-faltar-a-debate-da-globo-adiando-embate-com-flavio-bolsonaro.shtml",
-      "published_date": "2026-09-28T18:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Anvisa aprova caneta que combina insulina e semaglutida para diabetes tipo 2",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/anvisa-aprova-caneta-que-combina-insulina-e-semaglutida-para-diabetes-tipo-2.shtml",
-      "published_date": "2026-09-28T17:52:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/bombardeiro-nuclear-cai-e-mata-6-na-russia-veja-video.shtml",
+      "published_date": "2026-09-29T13:47:00Z",
+      "category": "Military"
     },
     {
       "title": "OpenAI cancela estreia de nova versão do modelo de IA Astra por riscos de segurança",
@@ -269,18 +283,60 @@
       "category": "Military"
     },
     {
-      "title": "Xi não atravessou o oceano Pacífico atrás de acordos com Donald Trump",
+      "title": "Tom Cruise busca Oscar com 'Digger', sobre bilionário que causa hecatombe climática",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/09/xi-nao-atravessou-o-oceano-pacifico-atras-de-acordos-com-donald-trump.shtml",
-      "published_date": "2026-09-25T20:25:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/tom-cruise-busca-oscar-com-digger-sobre-bilionario-que-causa-hecatombe-climatica.shtml",
+      "published_date": "2026-09-29T16:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "'Achou engraçado', diz estilista sobre reação de Zendaya após ele vazar casamento com Tom Holland",
+      "title": "Após ganharem o Nobel, alguns cientistas apresentaram delírios de grandeza",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/achou-engracado-diz-estilista-sobre-reacao-de-zendaya-apos-ele-vazar-casamento-com-tom-holland.shtml",
-      "published_date": "2026-09-25T19:24:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/09/nobelite-os-delirios-de-grandeza-dos-vencedores-do-premio-nobel.shtml",
+      "published_date": "2026-09-29T16:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Intérprete de Legião Urbana e David Bowie, André Frateschi leva rock a festival da Folha",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/09/interprete-de-legiao-urbana-e-david-bowie-andre-frateschi-leva-rock-a-festival-da-folha.shtml",
+      "published_date": "2026-09-29T14:44:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe Intelligence Brief — Tuesday, September 29, 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-september-29-2026/",
+      "published_date": "2026-09-29T14:35:08Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Petrobras assina acordo de 22 anos com a americana Cheniere para compra e venda de gás natural",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/petrobras-assina-acordo-de-22-anos-com-a-americana-cheniere-para-compra-e-venda-de-gas-natural.shtml",
+      "published_date": "2026-09-29T14:03:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Rede japonesa recorre a Lady Gaga para atrair funcionários em meio a escassez de mão de obra",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/rede-japonesa-recorre-a-lady-gaga-para-atrair-funcionarios-em-meio-a-escassez-de-mao-de-obra.shtml",
+      "published_date": "2026-09-29T12:44:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "João Moreira Salles e Txai Suruí participam de sessão promovida pela Folha",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/joao-moreira-salles-e-txai-surui-participam-de-sessao-promovida-pela-folha.shtml",
+      "published_date": "2026-09-29T12:22:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "A Fazenda 18: Sérgio é acusado de racismo e assédio e concentra rejeição em dinâmica",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-sergio-e-acusado-de-racismo-e-assedio-e-concentra-rejeicao-em-dinamica.shtml",
+      "published_date": "2026-09-29T11:19:00Z",
+      "category": "Energy"
     },
     {
       "title": "Imigrantes venezuelanos trazem a gastronomia de seu país a SP; veja onde experimentar",
@@ -367,60 +423,67 @@
       "category": "Energy"
     },
     {
-      "title": "Presença de mulheres na política fortalece a democracia",
+      "title": "Fachin atende Gilmar e manda tribunais de todo o país apertarem controle de precatórios",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2026/09/presenca-de-mulheres-na-politica-fortalece-a-democracia.shtml",
-      "published_date": "2026-09-27T15:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/fachin-atende-gilmar-e-manda-tribunais-de-todo-o-pais-apertarem-controle-de-precatorios.shtml",
+      "published_date": "2026-09-29T16:33:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Chef Henrique Fogaça estende menu-degustação ao Sal Gastronomia do shopping Cidade Jardim",
+      "title": "Prefeitura de SP cancela cadastro de taxista que cobrou R$ 30 mil por corrida de R$ 30",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/09/chef-henrique-fogaca-estende-menu-degustacao-ao-sal-gastronomia-do-shopping-cidade-jardim.shtml",
-      "published_date": "2026-09-27T15:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeitura-de-sp-cancela-cadastro-de-taxista-que-cobrou-r-30-mil-por-corrida-de-r-30.shtml",
+      "published_date": "2026-09-29T15:53:00Z",
+      "category": "Economy"
     },
     {
-      "title": "What Is Petrobras? Brazil’s Oil Giant Explained: the Business, the Politics and What to Watch",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/what-is-petrobras-explained-2026/",
-      "published_date": "2026-09-27T12:45:58Z",
-      "category": "Energy"
+      "title": "Paulinho da Força pede a Dino afastamento de Kassio e Mendonça de ações sobre propaganda no TSE",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/paulinho-da-forca-pede-a-dino-afastamento-de-kassio-e-mendonca-de-acoes-sobre-propaganda-no-tse.shtml",
+      "published_date": "2026-09-29T15:25:00Z",
+      "category": "Economy"
     },
     {
-      "title": "'Virtuosas' faz sátira afiada do conservadorismo a partir do terror",
+      "title": "'Índice do medo' da Bolsa vai a máxima histórica com proximidade das eleições",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/virtuosas-faz-satira-afiada-do-conservadorismo-a-partir-do-terror.shtml",
-      "published_date": "2026-09-27T07:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/indice-do-medo-da-bolsa-vai-a-maxima-historica-com-proximidade-das-eleicoes.shtml",
+      "published_date": "2026-09-29T15:04:00Z",
+      "category": "Economy"
     },
     {
-      "title": "A Fazenda 18: Entenda a briga entre Daniel Erthal, Fran Almeida e Igor Monteiro",
+      "title": "Ausência de agenda real desestimula o eleitor a votar",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/09/a-fazenda-18-entenda-a-briga-entre-daniel-erthal-fran-almeida-e-igor-monteiro.shtml",
-      "published_date": "2026-09-27T02:23:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/ausencia-de-agenda-real-desestimula-o-eleitor-a-votar.shtml",
+      "published_date": "2026-09-29T14:07:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Macarrão, Tadala e Trump: nomes e slogans inusitados marcam disputa por vagas no Legislativo",
+      "title": "BTG Pactual obtém licença para operar banco no Peru",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/macarrao-tadala-e-trump-nomes-e-slogans-inusitados-marcam-disputa-por-vagas-no-legislativo.shtml",
-      "published_date": "2026-09-27T02:04:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/09/btg-pactual-obtem-licenca-para-operar-banco-no-peru.shtml",
+      "published_date": "2026-09-29T14:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Foz do Amazonas põe Brasil no foco, mas petroleiras reclamam de incertezas",
+      "title": "Braskem pede à Justiça liberação de repasses à Idesa e retomada da proteção contra credores",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/foz-do-amazonas-poe-brasil-no-foco-mas-petroleiras-reclamam-de-incertezas.shtml",
-      "published_date": "2026-09-27T02:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/braskem-pede-a-justica-liberacao-de-repasses-a-idesa-e-retomada-da-protecao-contra-credores.shtml",
+      "published_date": "2026-09-29T13:20:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Câmara dos Deputados concentra funções que moldam leis, gastos e fiscalização",
+      "title": "Desemprego fica em 5,3% e tem menor taxa até agosto com aumento do trabalho informal",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/camara-dos-deputados-concentra-funcoes-que-moldam-leis-gastos-e-fiscalizacao.shtml",
-      "published_date": "2026-09-27T02:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/desemprego-fica-em-53-e-tem-menor-taxa-ate-agosto-na-serie-historica.shtml",
+      "published_date": "2026-09-29T12:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ações da Shein despencam quase 11% após resultado do primeiro semestre decepcionar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/acoes-da-shein-despencam-quase-11-apos-resultado-do-primeiro-semestre-decepcionar.shtml",
+      "published_date": "2026-09-29T11:25:00Z",
+      "category": "Economy"
     },
     {
       "title": "Governo eleva orçamento de reguladores do mercado financeiro após falhas no caso Master",
@@ -500,206 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Lesotho Asks the UN for Climate Money, Citing 38% Youth Joblessness",
+      "title": "Estudo mostra que cultura da empresa cede sob pressão por metas",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/estudo-mostra-que-cultura-da-empresa-cede-sob-pressao-por-metas.shtml",
+      "published_date": "2026-09-29T16:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interesses difusos ou confusos?",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/09/interesses-difusos-ou-confusos.shtml",
+      "published_date": "2026-09-29T16:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jogador argentino é detido sob suspeita de fazer gestos racistas contra brasileiro em torneio amador da Argentina",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/jogador-argentino-e-detido-sob-suspeita-de-fazer-gestos-racistas-contra-brasileiro-em-torneio-amador-da-argentina.shtml",
+      "published_date": "2026-09-29T16:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Em nova carta, senadores dos EUA alertam para risco de interferência de Trump na eleição do Brasil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/em-nova-carta-senadores-dos-eua-alertam-para-risco-de-interferencia-de-trump-na-eleicao-do-brasil.shtml",
+      "published_date": "2026-09-29T16:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Executivo do New York Times é morto a tiros; sogros são suspeitos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/executivo-do-new-york-times-e-morto-a-tiros-sogros-sao-presos-sob-suspeita.shtml",
+      "published_date": "2026-09-29T16:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zahara Jolie retira sobrenome Pitt e segue decisão dos irmãos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/zahara-jolie-retira-sobrenome-pitt-e-segue-decisao-dos-irmaos.shtml",
+      "published_date": "2026-09-29T16:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disney renova série 'Amor da Minha Vida', com Bruna Marquezine, para terceira temporada",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/disney-renova-serie-amor-da-minha-vida-com-bruna-marquezine-para-terceira-temporada.shtml",
+      "published_date": "2026-09-29T16:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jogador japonês de vôlei se declara gay",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/jogador-japones-de-volei-se-declara-gay.shtml",
+      "published_date": "2026-09-29T16:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Obra antibrexit de Banksy avaliada em mais de R$ 9 milhões vai a leilão",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/obra-anti-brexit-de-banksy-avaliada-em-mais-de-r-9-milhoes-vai-a-leilao.shtml",
+      "published_date": "2026-09-29T16:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filme 'Digger' é atual e cheio de boas intenções, mas é confuso e fraco",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/filme-digger-e-atual-e-cheio-de-boas-intencoes-mas-e-confuso-e-fraco.shtml",
+      "published_date": "2026-09-29T16:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-campeão mundial de sinuca é condenado a sete anos de prisão por abuso sexual de menores",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/ex-campeao-mundial-de-sinuca-e-condenado-a-sete-anos-de-prisao-por-abuso-sexual-de-menores.shtml",
+      "published_date": "2026-09-29T15:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eleições podem ser definidas no primeiro turno em ao menos 14 estados",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/eleicoes-podem-ser-definidas-no-primeiro-turno-em-ao-menos-14-estados.shtml",
+      "published_date": "2026-09-29T15:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diretor de arbitragem da federação turca de futebol é detido",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/diretor-de-arbitragem-da-federacao-turca-de-futebol-e-detido.shtml",
+      "published_date": "2026-09-29T15:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prefiro ser um gordo feliz, diz Leonardo, que voltou a beber após 30 dias",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/leonardo-volta-a-beber-apos-30-dias-e-brinca-sobre-abstinencia-prefiro-ser-um-gordo-feliz.shtml",
+      "published_date": "2026-09-29T15:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google recorre de decisão da União Europeia sobre dados de busca e Android",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/google-recorre-de-decisao-da-uniao-europeia-sobre-dados-de-busca-e-android.shtml",
+      "published_date": "2026-09-29T15:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justiça confirma dívidas de Renan Santos e frustra tentativa de sigilo sobre cobranças de impostos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-confirma-dividas-de-renan-santos-e-frustra-tentativa-de-sigilo-sobre-cobrancas-de-impostos.shtml",
+      "published_date": "2026-09-29T15:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fifa acusa Uefa de campanha de desinformação sobre projeto frustrado de capital privado",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/fifa-acusa-uefa-de-campanha-de-desinformacao-sobre-projeto-frustrado-de-capital-privado.shtml",
+      "published_date": "2026-09-29T15:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Apesar de saturada, indústria automobilística chinesa busca se reorganizar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/apesar-de-saturada-industria-automobilistica-chinesa-busca-se-reorganizar.shtml",
+      "published_date": "2026-09-29T15:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "O polêmico programa que expunha suspeitos de pedofilia e inspirou novo filme estrelado por Robert Pattinson",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/o-polemico-programa-que-expunha-suspeitos-de-pedofilia-e-inspirou-novo-filme-estrelado-por-robert-pattinson.shtml",
+      "published_date": "2026-09-29T15:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michael Bibi São Paulo: One Life Debuts at Arena Pinheiros, Brazil, on 28 November",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/lesotho-un-speech-climate-justice-youth-unemployment-migration/",
-      "published_date": "2026-09-26T22:51:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Argentina Opens Trade Talks With the Emirates to Pull in Mining Money",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/argentina-uae-cepa-mining-energy-rigi-2026/",
-      "published_date": "2026-09-26T16:59:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Presidente do City diz que processo por violação de regras 'está longe de terminar'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/presidente-do-city-diz-que-processo-por-violacao-de-regras-esta-longe-de-terminar.shtml",
-      "published_date": "2026-09-26T16:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Por que ocorre sangramento nasal? Entenda quando é preciso procurar um médico",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/por-que-ocorre-sangramento-nasal-entenda-quando-e-preciso-procurar-um-medico.shtml",
-      "published_date": "2026-09-26T13:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Nicaragua Explained 2026: The Ortega System, the Economy and What to Watch",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/nicaragua-explained-2026/",
-      "published_date": "2026-09-26T10:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Honduras Explained 2026: The Country, Its Politics, Its Economy and What to Watch",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/honduras-explained-2026/",
-      "published_date": "2026-09-26T10:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Guatemala Explained 2026: The Country, Its Politics, Its Economy and What to Watch",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/guatemala-explained-2026/",
-      "published_date": "2026-09-26T09:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dominican Republic Explained 2026: The Country, Its Economy, Its Politics and What to Watch",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/dominican-republic-explained-2026/",
-      "published_date": "2026-09-26T09:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Renata Gomide, vice-presidente de marketing do Boticário, é nova colunista do C-Level",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/renata-gomide-vice-presidente-de-marketing-do-boticario-e-nova-colunista-do-c-level.shtml",
-      "published_date": "2026-09-26T02:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Flávio Bolsonaro compara fake news sobre Nossa Senhora Aparecida a facada no pai",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/flavio-bolsonaro-compara-fake-news-sobre-nossa-senhora-aparecida-a-facada-no-pai.shtml",
-      "published_date": "2026-09-29T02:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ana Paula Renault fala sobre fim da amizade com Milena: 'Quem?'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/ana-paula-renault-fala-sobre-fim-da-amizade-com-milena-quem.shtml",
-      "published_date": "2026-09-29T02:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Direita latino-americana encampa discurso contra 'narcoterrorismo' na ONU",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/direita-latino-americana-encampa-discurso-contra-narcoterrorismo-na-onu.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caso Nossa Senhora abre nova disputa entre ministros e expõe contaminação eleitoral no STF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/caso-nossa-senhora-abre-nova-disputa-entre-ministros-e-expoe-contaminacao-eleitoral-no-stf.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlos Bolsonaro faz campanha em SC sem ir a debates e vincula promessas a vitória de irmão",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-bolsonaro-faz-campanha-em-sc-sem-ir-a-debates-e-vincula-promessas-a-vitoria-de-irmao.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "XCMG fecha venda de 251 caminhões elétricos em negócio de R$ 500 milhões no Brasil",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/xcmg-fecha-venda-de-251-caminhoes-eletricos-em-negocio-de-r-500-milhoes-no-brasil.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidatos suspeitos de ligação com crime organizado recebem R$ 21,6 milhões de verba pública",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/candidatos-suspeitos-de-ligacao-com-crime-organizado-recebem-r-216-milhoes-de-verba-publica.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gabinete de Mendonça diz que acesso a dados do caso Master comprometeu diligências",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gabinete-de-mendonca-diz-que-acesso-a-dados-do-caso-master-comprometeu-diligencias.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidatos do segundo pelotão na corrida presidencial focam redutos eleitorais na reta final",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/candidatos-do-segundo-pelotao-na-corrida-presidencial-focam-redutos-eleitorais-na-reta-final.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mudanças da perimenopausa aumentam risco cardiovascular entre mulheres",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/mudancas-da-perimenopausa-aumentam-risco-cardiovascular-entre-mulheres.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historiadores analisam semelhanças entre Brasil e Austrália diante da China",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/historiadores-analisam-semelhancas-entre-brasil-e-australia-diante-da-china.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jato que derrubou avião da Gol em 2006 continua voando por empresa mexicana",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/jato-que-derrubou-aviao-da-gol-em-2006-continua-voando-por-empresa-mexicana.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tragédia com avião da Gol há 20 anos mudou a investigação de acidentes aéreos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/tragedia-com-aviao-da-gol-ha-20-anos-mudou-a-investigacao-de-acidentes-aereos.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aliados de Nunes descartam apoio a Salles para sua sucessão em 2028",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-nunes-descartam-apoio-a-salles-para-sua-sucessao-em-2028.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scooter Voge SR4 Max chega ao mercado brasileiro com foco nos usos urbano e rodoviário",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/scooter-voge-sr4-max-chega-ao-mercado-brasileiro-com-foco-nos-usos-urbano-e-rodoviario.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mercedes Classe V marca retomada das vans de luxo no Brasil",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/mercedes-classe-v-marca-retomada-das-vans-de-luxo-no-brasil.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como eu me tornei a velha do legado",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/09/como-eu-me-tornei-a-velha-do-legado.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do frango ao foguete, como Joesley virou fabricante de armas",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/do-frango-ao-foguete-como-joesley-virou-fabricante-de-armas.shtml",
-      "published_date": "2026-09-29T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthropic alerta em documento de IPO que IA pode trazer risco existencial à humanidade",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/anthropic-alerta-em-documento-de-ipo-que-ia-pode-trazer-risco-existencial-a-humanidade.shtml",
-      "published_date": "2026-09-29T01:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Constituição do Super-Homem",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/a-constituicao-do-super-homem.shtml",
-      "published_date": "2026-09-29T01:00:00Z",
+      "url": "https://www.riotimesonline.com/michael-bibi-life-sao-paulo-2026-brazil-28-november/",
+      "published_date": "2026-09-29T15:21:57Z",
       "category": "Local Events"
     }
   ]
