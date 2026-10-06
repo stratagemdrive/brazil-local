@@ -1,7 +1,84 @@
 {
   "country": "brazil",
-  "last_updated": "2026-10-05T01:27:09Z",
+  "last_updated": "2026-10-06T02:37:45Z",
   "stories": [
+    {
+      "title": "Flávio Bolsonaro consolida apoios na direita e no centrão enquanto Lula sobe tom contra STF e mira quem não votou",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-consolida-apoios-na-direita-e-no-centrao-enquanto-lula-sobe-tom-contra-stf-e-mira-quem-nao-votou.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANP oferece maior pacote de áreas do pré-sal desde 2022 em leilão nesta quarta (7)",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/anp-oferece-maior-pacote-de-areas-do-pre-sal-desde-2022-em-leilao-nesta-quarta-7.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sobe o custo do socorro ao agro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/sobe-o-custo-do-socorro-ao-agro.shtml",
+      "published_date": "2026-10-06T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Campanha de Lula avalia que MP das bets pode ter sido um erro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-avalia-que-mp-das-bets-pode-ter-sido-um-erro.shtml",
+      "published_date": "2026-10-06T00:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Flávio Bolsonaro ganha terreno sobre Lula na periferia de SP; veja mapa de votação por zona eleitoral",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ganha-terreno-sobre-lula-na-periferia-de-sp-veja-mapa-de-votacao-por-zona-eleitoral.shtml",
+      "published_date": "2026-10-05T23:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula diz carregar 'promiscuidade' do STF na campanha e chama Flávio Bolsonaro de 'cara do sistema'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-diz-carregar-promiscuidade-do-stf-na-campanha-e-chama-flavio-bolsonaro-de-cara-do-sistema.shtml",
+      "published_date": "2026-10-05T23:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Casas de análise projetam alta de até 45% para a Bolsa com vitória de Flávio Bolsonaro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/casas-de-analise-projetam-alta-de-ate-45-para-a-bolsa-com-vitoria-de-flavio-bolsonaro.shtml",
+      "published_date": "2026-10-05T21:26:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alcolumbre deve seguir fiel a Lula, apesar de posição pró-Flávio do União",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/alcolumbre-deve-seguir-fiel-a-lula-apesar-de-posicao-pro-flavio-do-uniao.shtml",
+      "published_date": "2026-10-05T20:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lucas Pavanato diz que vai lutar pelo impeachment de Alexandre de Moraes",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/lucas-pavanato-diz-que-vai-lutar-pelo-impeachment-de-alexandre-de-moraes.shtml",
+      "published_date": "2026-10-05T20:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Grande vitória', diz Trump sobre Flávio Bolsonaro ter ficado à frente no 1º turno da eleição",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/grande-vitoria-diz-trump-sobre-flavio-bolsonaro-ter-ficado-a-frente-no-1o-turno-da-eleicao.shtml",
+      "published_date": "2026-10-05T20:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A derrocada da esquerda é ainda mais dura que a de 2018",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/a-derrocada-da-esquerda-e-ainda-mais-dura-que-a-de-2018.shtml",
+      "published_date": "2026-10-05T19:56:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lula tem pior percentual de votos em 1º turno desde 1998",
       "source": "Folha de S.Paulo",
@@ -63,83 +140,6 @@
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-repete-vitoria-em-pa-am-e-ap-leva-virada-no-to-e-ve-avanco-bolsonarista-em-toda-a-amazonia-legal.shtml",
       "published_date": "2026-10-05T00:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cenário é de grande vitória da direita, diz colunista na TV Folha",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/cenario-e-de-grande-vitoria-da-direita-diz-colunista-na-tv-folha.shtml",
-      "published_date": "2026-10-05T00:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reeleita em PE, Raquel Lyra resiste a apoiar Lula no segundo turno",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reeleita-em-pe-raquel-lyra-resiste-a-apoiar-lula-no-segundo-turno.shtml",
-      "published_date": "2026-10-05T00:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Conheça os senadores eleitos no Espírito Santo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/conheca-os-senadores-eleitos-no-espirito-santo.shtml",
-      "published_date": "2026-10-05T00:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Da libertação da mulher à desconfiança, como a pílula deixou de ser a escolha óbvia de contracepção",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/da-libertacao-da-mulher-a-desconfianca-como-a-pilula-deixou-de-ser-a-escolha-obvia-de-contracepcao.shtml",
-      "published_date": "2026-10-05T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Com 2,9 mi de votos, Pavanato diz que esperava 700 mil e mira campanha de Flávio no 2º turno",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/com-29-mi-de-votos-pavanato-diz-que-esperava-700-mil-e-mira-campanha-de-flavio-no-2o-turno.shtml",
-      "published_date": "2026-10-04T23:52:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erros em sequência e onda bolsonarista emparedam Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/erros-em-sequencia-e-onda-bolsonarista-encurralam-lula.shtml",
-      "published_date": "2026-10-04T23:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Disputa entre Lula e Flávio ocorre sob pressão fiscal e juros altos; veja propostas econômicas dos candidatos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/disputa-entre-lula-e-flavio-ocorre-sob-pressao-fiscal-e-juros-altos.shtml",
-      "published_date": "2026-10-04T23:37:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio Bolsonaro mira apoio de campeões de votos e crescimento em MG no segundo turno",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-mira-apoio-de-campeoes-de-votos-e-crescimento-em-mg-no-segundo-turno.shtml",
-      "published_date": "2026-10-04T23:19:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Veja a evolução da apuração dos votos para presidente",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-a-evolucao-da-apuracao-dos-votos-para-presidente.shtml",
-      "published_date": "2026-10-04T22:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vantagem de Flávio contra Lula dá fôlego à Bolsa e ao real, dizem analistas",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/mercado-ve-bolsa-em-alta-e-dolar-em-queda-apos-vantagem-de-flavio-contra-lula-em-2o-turno.shtml",
-      "published_date": "2026-10-04T22:47:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio and Lula Head to Brazil Runoff, 99.5% Counted",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazil-election-first-round-results-lula-flavio-2026/",
-      "published_date": "2026-10-04T21:16:26Z",
       "category": "Diplomacy"
     },
     {
@@ -283,6 +283,62 @@
       "category": "Military"
     },
     {
+      "title": "Ranking Folha Mauá: sucesso de vendas, BYD Dolphin Mini é o elétrico que gasta menos energia",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/ranking-folha-maua-sucesso-de-vendas-byd-dolphin-mini-e-o-eletrico-que-gasta-menos-energia.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Assembleia do Ceará será a mais feminina, e Acre terá apenas deputados estaduais homens",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/assembleia-do-ceara-sera-a-mais-feminina-e-acre-tera-apenas-deputados-estaduais-homens.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Aneel começa julgamento sobre rompimento do contrato da Enel em SP",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/aneel-comeca-julgamento-sobre-rompimento-do-contrato-da-enel-em-sp.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil Fund Falls 2.3% on G7 Release as Petrobras Jumps | Oil, Oct 5",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/oil-markets-latam-monday-october-5-2026/",
+      "published_date": "2026-10-06T01:01:02Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Entidades europeias veem riscos geopolítico, ambiental e comercial se Flávio Bolsonaro vencer",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/entidades-europeias-veem-riscos-geopolitico-ambiental-e-comercial-se-flavio-bolsonaro-vencer.shtml",
+      "published_date": "2026-10-05T23:58:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "5 sintomas gastrointestinais que você nunca deve ignorar",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/5-sintomas-gastrointestinais-que-voce-nunca-deve-ignorar.shtml",
+      "published_date": "2026-10-05T22:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Globo tira Ana Castela e Lauana Prado do Amigas, especial com cantoras do sertanejo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-tira-ana-castela-e-lauana-prado-do-amigas-especial-com-cantoras-do-sertanejo.shtml",
+      "published_date": "2026-10-05T20:53:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Curiosidade sobre como algas vão em direção à luz gerou pesquisa laureada com o Nobel",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/curiosidade-sobre-como-algas-vao-em-direcao-a-luz-gerou-pesquisa-laureada-com-o-nobel.shtml",
+      "published_date": "2026-10-05T19:27:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Rayssa Furlan e Lucas Barreto são eleitos ao Senado pelo Amapá, e Randolfe perde vaga",
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rayssa-furlan-e-lucas-barreto-sao-eleitos-ao-senado-pelo-amapa-e-randolfe-perde-vaga.shtml",
@@ -367,60 +423,46 @@
       "category": "Energy"
     },
     {
-      "title": "Veja os números dos candidatos ao Senado em Mato Grosso do Sul",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-em-mato-grosso-do-sul.shtml",
-      "published_date": "2026-10-04T01:48:00Z",
-      "category": "Energy"
+      "title": "Wheat Fund Gains 1.4% as Soy, Corn Edge Up | Grains, Oct 5",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-october-5-2026/",
+      "published_date": "2026-10-06T01:01:16Z",
+      "category": "Economy"
     },
     {
-      "title": "Veja os números dos candidatos ao Senado no PA",
+      "title": "Bolsonarismo terá poder inédito no Congresso",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-no-pa.shtml",
-      "published_date": "2026-10-04T01:22:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/bolsonarismo-tera-poder-inedito-no-congresso.shtml",
+      "published_date": "2026-10-06T01:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Veja os números dos candidatos ao Senado no Espírito Santo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-no-espirito-santo.shtml",
-      "published_date": "2026-10-04T01:02:00Z",
-      "category": "Energy"
+      "title": "COLCAP Gains 2.7% as Peso Strengthens | Colombia Market Report, Oct 5",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-october-5-2026/",
+      "published_date": "2026-10-06T00:59:10Z",
+      "category": "Economy"
     },
     {
-      "title": "Veja os números dos candidatos ao Senado no CE",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-no-ce.shtml",
-      "published_date": "2026-10-04T00:40:00Z",
-      "category": "Energy"
+      "title": "Merval Gains 3.7% as Risk Falls to 599 | Argentina Market Report, Oct 5",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-october-5-2026/",
+      "published_date": "2026-10-06T00:58:56Z",
+      "category": "Economy"
     },
     {
-      "title": "Veja os números dos candidatos ao Senado em Goiás",
+      "title": "Taxa de sucesso na reeleição fica em 72% na Câmara, mesmo nível de 2002 e abaixo de 2010 e 2014",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-em-goias.shtml",
-      "published_date": "2026-10-04T00:32:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/10/o-mito-da-blindagem.shtml",
+      "published_date": "2026-10-05T20:20:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Ex-ministro Pedro Parente diz que teve má impressão de Flávio em jantar e que não votará nele",
+      "title": "PF adia depoimento de André Esteves como testemunha em inquérito sobre Master",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ex-ministro-pedro-parente-diz-que-teve-ma-impressao-de-flavio-em-jantar-e-que-nao-votara-nele.shtml",
-      "published_date": "2026-10-03T23:47:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Veja os números dos candidatos ao Senado em Santa Catarina",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-em-santa-catarina.shtml",
-      "published_date": "2026-10-03T23:29:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Veja os números dos candidatos ao Senado em Pernambuco",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-dos-candidatos-ao-senado-em-pernambuco.shtml",
-      "published_date": "2026-10-03T23:12:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/pf-adia-depoimento-de-andre-esteves-como-testemunha-em-inquerito-sobre-master.shtml",
+      "published_date": "2026-10-05T19:23:00Z",
+      "category": "Economy"
     },
     {
       "title": "Tarcísio reeleito",
@@ -521,185 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Mexico IPC Slips 0.2% as Peso Gains 0.8% | Mexico Market Report, Oct 2",
+      "title": "Missão aposta em expansão nacional, mas elege só dois deputados",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/missao-aposta-em-expansao-nacional-mas-elege-so-dois-deputados.shtml",
+      "published_date": "2026-10-06T02:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ranking Folha Mauá: Chevrolet Spark Activ e BYD Yuan Plus dividem liderança entre SUVs elétricos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/ranking-folha-maua-chevrolet-spark-activ-e-byd-yuan-plus-dividem-lideranca-entre-suvs-eletricos.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina faz festa para despedida de Messi enquanto pensa em como jogar sem ele",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/argentina-faz-festa-para-despedida-de-messi-enquanto-pensa-em-como-jogar-sem-ele.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ferramentas de IA mudam hábitos de consumo e desafiam estratégias de gigantes do ecommerce",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/ferramentas-de-ia-mudam-habitos-de-consumo-e-desafiam-estrategias-de-gigantes-do-ecommerce.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Natura diz que mudança climática na amazônia põe em risco 2,6% da receita líquida",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/natura-diz-que-mudanca-climatica-na-amazonia-poe-em-risco-26-da-receita-liquida.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel lista mortos em Gaza que seriam combatentes disfarçados de jornalistas",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/israel-lista-mortos-em-gaza-que-seriam-combatentes-disfarcados-de-jornalistas.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punição de universidade dos EUA para acusado de estupro foi escrever redação, mostram documentos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/punicao-de-universidade-dos-eua-para-acusado-de-estupro-foi-escrever-redacao-mostram-documentos.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ranking Folha Mauá: Mercedes retorna à primeira colocação em desempenho com AMG GT 63S",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/ranking-folha-maua-mercedes-retorna-a-primeira-colocacao-em-desempenho-com-amg-gt-63s.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zhongtong chega ao Brasil e quer investir R$ 100 milhões em fábrica de ônibus urbanos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/zhongtong-chega-ao-brasil-e-quer-investir-r-100-milhoes-em-fabrica-de-onibus-urbanos.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senado mantém análise do fim da 6x1 nesta terça, e oposição tenta adiamento após resultado das urnas",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/senado-mantem-analise-do-fim-da-6x1-nesta-terca-e-oposicao-tenta-adiamento-apos-resultado-das-urnas.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cinema aposta no 'incel horror', com 'caras legais' que torturam mulheres",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/cinema-aposta-no-incel-horror-com-caras-legais-que-torturam-mulheres.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'O acúmulo de riqueza está ligado ao patriarcado', diz Karim Aïnouz, que critica super-ricos em novo filme",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/10/o-acumulo-de-riqueza-esta-ligado-ao-patriarcado-diz-karim-ainouz-que-critica-super-ricos-em-novo-filme.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kassab vê PSD encolher no Congresso e perder estados após aposta em Caiado",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassab-ve-psd-encolher-no-congresso-e-perder-estados-apos-aposta-em-caiado.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chefs brasileiros contam os sacrifícios e as alegrias de conquistar estrelas Michelin",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/10/chefs-brasileiros-contam-os-sacrificios-e-as-alegrias-de-conquistar-estrelas-michelin.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como não perder a ternura em tempos de cólera",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/miriangoldenberg/2026/10/como-nao-perder-a-ternura-em-tempos-de-colera.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eleição tem vitória de apenas um candidato ligado aos presos do 8 de janeiro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/eleicao-tem-vitoria-de-apenas-um-candidato-ligado-aos-presos-do-8-de-janeiro.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kia Sorento é o vencedor na categoria SUVs a Diesel do Ranking Folha Mauá 2026",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/kia-sorento-e-o-vencedor-na-categoria-suvs-a-diesel-do-ranking-folha-maua-2026.shtml",
+      "published_date": "2026-10-06T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marvvila relata perseguição de stalker: 'Fala como se fôssemos um casal'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marvvila-relata-perseguicao-de-stalker-fala-como-se-fossemos-um-casal.shtml",
+      "published_date": "2026-10-06T01:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Steel ETF Gains 1.5% as CSN Jumps 6.9% | Steel, Oct 5",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-saturday-october-3-2026/",
-      "published_date": "2026-10-03T00:45:50Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/steel-markets-latam-monday-october-5-2026/",
+      "published_date": "2026-10-06T01:00:46Z",
+      "category": "Local Events"
     },
     {
-      "title": "Merval Gains 0.3% as Country Risk Stays at 646 | Argentina Markets, Oct 2",
+      "title": "Nexa Gains 1.9% as Peru Zinc Output Falls | Zinc, Oct 5",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-saturday-october-3-2026/",
-      "published_date": "2026-10-03T00:45:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold ETF Falls 0.7% as Silver Dips 0.1% | Precious Metals Report, Oct 2",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/gold-silver-precious-metals-saturday-october-3-2026/",
-      "published_date": "2026-10-03T00:45:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bitcoin Gains 0.4% to US$85,206 as US Jobs Miss | Crypto Report, Oct 2",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-october-3-2026/",
-      "published_date": "2026-10-03T00:45:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Atrás nas pesquisas, Flávio Bolsonaro volta a desacreditar as eleições",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/atras-nas-pesquisas-flavio-bolsonaro-volta-a-desacreditar-as-eleicoes.shtml",
-      "published_date": "2026-10-02T14:31:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Presidente é dono da política fiscal, e quem for eleito precisa liderar ajuste, diz CEO da Bradesco Asset",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/10/presidente-e-dono-da-politica-fiscal-e-quem-for-eleito-precisa-liderar-ajuste-diz-ceo-da-bradesco-asset.shtml",
-      "published_date": "2026-10-02T14:06:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Saiba quem são os deputados estaduais eleitos em Sergipe (SE)",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/saiba-quem-sao-os-deputados-estaduais-eleitos-em-sergipe-se.shtml",
-      "published_date": "2026-10-05T01:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veja quem são os deputados federais eleitos em Sergipe",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-quem-sao-os-deputados-federais-eleitos-em-sergipe.shtml",
-      "published_date": "2026-10-05T01:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condenado na Lava Jato, Eduardo Cunha fracassa em voltar à Câmara por MG",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/condenado-na-lava-jato-eduardo-cunha-fracassa-em-voltar-a-camara-por-mg.shtml",
-      "published_date": "2026-10-05T01:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veja os senadores eleitos em Sergipe",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-senadores-eleitos-em-sergipe.shtml",
-      "published_date": "2026-10-05T01:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OpenAI diz que benefícios da IA justificam 'aceitar alguns riscos'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-diz-que-beneficios-da-ia-justificam-aceitar-alguns-riscos.shtml",
-      "published_date": "2026-10-05T01:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eleições 2026: Não votou? Veja prazo e como justificar a ausência",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-nao-votou-veja-prazo-e-como-justificar-a-ausencia.shtml",
-      "published_date": "2026-10-05T01:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avalanche da direita nos estados tem método",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-avalanche-da-direita-nos-estados-tem-metodo.shtml",
-      "published_date": "2026-10-05T01:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veja quem são os deputados federais eleitos em Santa Catarina",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-quem-sao-os-deputados-federais-eleitos-em-santa-catarina.shtml",
-      "published_date": "2026-10-05T01:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saiba quem são os deputados estaduais eleitos em Santa Catarina (SC)",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/saiba-quem-sao-os-deputados-estaduais-eleitos-em-santa-catarina-sc.shtml",
-      "published_date": "2026-10-05T01:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renan Santos afirma que Brasil será governado pelo 'mais corrupto da família Bolsonaro'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-afirma-que-brasil-sera-governado-pelo-mais-corrupto-da-familia-bolsonaro.shtml",
-      "published_date": "2026-10-05T01:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PL Leads for 19 of 54 Brazil Senate Seats",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazil-senate-results-2026/",
-      "published_date": "2026-10-05T00:51:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiririca perde disputa pela Câmara no Ceará após quatro vitórias consecutivas",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tiririca-perde-disputa-pela-camara-no-ceara-apos-quatro-vitorias-consecutivas.shtml",
-      "published_date": "2026-10-05T00:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cármen Lúcia é aplaudida ao votar, e Moraes elogia Kássio Nunes",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carmen-lucia-e-aplaudida-ao-votar-e-moraes-elogia-kassio-nunes.shtml",
-      "published_date": "2026-10-05T00:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Affleck diz que não está à procura de novo romance",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ben-affleck-diz-que-nao-esta-a-procura-de-novo-romance.shtml",
-      "published_date": "2026-10-05T00:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saiba quem são os deputados estaduais eleitos em Mato Grosso (MT)",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/saiba-quem-sao-os-deputados-estaduais-eleitos-em-mato-grosso-mt.shtml",
-      "published_date": "2026-10-05T00:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conheça os senadores eleitos em Mato Grosso",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/conheca-os-senadores-eleitos-em-mato-grosso.shtml",
-      "published_date": "2026-10-05T00:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PL elege 5 governadores no primeiro turno e pode comandar até 7 estados",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-elege-5-governadores-no-primeiro-turno-e-pode-comandar-ate-7-estados.shtml",
-      "published_date": "2026-10-05T00:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veja quem são os deputados federais eleitos em Mato Grosso",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-quem-sao-os-deputados-federais-eleitos-em-mato-grosso.shtml",
-      "published_date": "2026-10-05T00:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarcísio promete empenho de SP para eleger Flávio Bolsonaro: 'o PT não tem mais nada a oferecer'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-promete-empenho-de-sp-para-eleger-flavio-bolsonaro-que-entra-em-chamada-de-video.shtml",
-      "published_date": "2026-10-05T00:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arthur Lira e Marina JHC são eleitos ao Senado em AL; Renan Calheiros é derrotado após 4 mandatos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/arthur-lira-e-renata-jhc-sao-eleitos-ao-senado-em-al-renan-calheiros-e-derrotado-apos-4-mandatos.shtml",
-      "published_date": "2026-10-05T00:32:00Z",
+      "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-october-5-2026/",
+      "published_date": "2026-10-06T01:00:32Z",
       "category": "Local Events"
     }
   ]
