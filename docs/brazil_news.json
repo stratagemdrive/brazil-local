@@ -1,146 +1,160 @@
 {
   "country": "brazil",
-  "last_updated": "2026-10-25T00:43:38Z",
+  "last_updated": "2026-10-25T14:56:00Z",
   "stories": [
     {
-      "title": "Palver Poll Has Flávio 50%, Lula 49%",
+      "title": "PT relata falta de ônibus em São Paulo e pede apuração ao TRE-SP",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-relata-falta-de-onibus-em-sao-paulo-e-pede-apuracao-ao-tre-sp.shtml",
+      "published_date": "2026-10-25T14:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Quem Ama Cuida': Pilar manda Ingrid seduzir Heitor para não ir morar na rua",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/quem-ama-cuida-pilar-manda-ingrid-seduzir-heitor-para-nao-ir-morar-na-rua.shtml",
+      "published_date": "2026-10-25T14:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ao votar no segundo turno, Flávio explora medo e endividamento, e Lula atribui atos de rua ao povo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml",
+      "published_date": "2026-10-25T13:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula vota, agradece mobilizações e diz que povo brasileiro não vai permitir miliciano no Planalto",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vota-agradece-mobilizacoes-e-diz-que-povo-brasileiro-nao-vai-permitir-miliciano-no-planalto.shtml",
+      "published_date": "2026-10-25T13:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula aumenta vantagem sobre Flávio Bolsonaro em popularidade digital na véspera do segundo turno",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-aumenta-vantagem-sobre-flavio-bolsonaro-em-popularidade-digital-na-vespera-do-segundo-turno.shtml",
+      "published_date": "2026-10-25T13:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ao votar, Flávio Bolsonaro cita endividamento e segurança pública e diz que campanha foi limpa",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-flavio-bolsonaro-cita-endividamento-e-seguranca-publica-e-diz-que-campanha-foi-limpa.shtml",
+      "published_date": "2026-10-25T11:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bolsonaristas têm ânimo final com Datafolha, e petistas esperam mais votos com mobilização",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaristas-tem-animo-final-com-datafolha-e-petistas-esperam-mais-votos-com-mobilizacao.shtml",
+      "published_date": "2026-10-25T10:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maior doador de Lula em 2022 planeja implantar jornada de 40 horas semanais antes do prazo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/maior-doador-de-lula-em-2022-planeja-implantar-jornada-de-40-horas-semanais-antes-do-prazo.shtml",
+      "published_date": "2026-10-25T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Comparecimento sobe na China continental, e Lula vence com 70,5% dos votos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/comparecimento-sobe-na-china-continental-e-lula-vence-com-705-dos-votos.shtml",
+      "published_date": "2026-10-25T09:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egyptian Firm Cheiron to Run Peru Oil Field",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/palver-poll-flavio-50-lula-49-runoff-eve-2026/",
-      "published_date": "2026-10-25T00:04:21Z",
+      "url": "https://www.riotimesonline.com/peru-lot-192-cheiron-egyptian-operator-2026/",
+      "published_date": "2026-10-25T09:08:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Se 5% dos eleitores de Flávio forem sinceros sobre corrupção, Lula vence",
+      "title": "Eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/se-5-dos-eleitores-de-flavio-forem-sinceros-sobre-corrupcao-lula-vence.shtml",
-      "published_date": "2026-10-25T00:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-mais-acirrada-desde-a-redemocratizacao-opoe-flavio-bolsonaro-a-lula-com-158-milhoes-aptos-a-votar.shtml",
+      "published_date": "2026-10-25T03:02:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Datafolha: Com diferença mínima entre Flávio e Lula, quem sair de casa vai decidir o 2º turno",
+      "title": "Lula fala a apoiadores em frente a sua casa em SP: 'Vocês são mais do que os partidos políticos'",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-com-diferenca-minima-entre-flavio-e-lula-quem-sair-de-casa-vai-decidir-o-2o-turno.shtml",
-      "published_date": "2026-10-24T23:44:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-a-apoiadores-em-frente-a-sua-casa-em-sp-voces-sao-mais-do-que-os-partidos-politicos.shtml",
+      "published_date": "2026-10-25T02:44:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Quaest Poll Has Flávio 51%, Lula 49%",
+      "title": "Lula tenta virada inédita após prometer benesses e acirrar discurso contra Flávio Bolsonaro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-virada-inedita-apos-prometer-benesses-e-acirrar-discurso-contra-flavio-bolsonaro.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Promessas de Lula e Flávio às vésperas do 2º turno ampliam risco de colapso fiscal do Brasil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/promessas-de-lula-e-flavio-as-vesperas-do-2o-turno-ampliam-risco-de-colapso-fiscal-do-brasil.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula e Flávio Bolsonaro escolherão chefe da Fazenda sob cenário de desconfiança",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-escolherao-chefe-da-fazenda-sob-cenario-de-desconfianca.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ações no TSE devem prolongar disputa entre Lula e Flávio Bolsonaro com ares de 'terceiro turno'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/acoes-no-tse-devem-prolongar-disputa-entre-lula-e-flavio-bolsonaro-com-ares-de-terceiro-turno.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foco de Lula e Flávio Bolsonaro nas eleições, MEI exigirá ajustes para afastar bomba para a Previdência",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/foco-de-lula-e-flavio-bolsonaro-nas-eleicoes-mei-exigira-ajustes-para-afastar-bomba-para-a-previdencia.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Economia, STF, Congresso e ruas: conheça os desafios do próximo presidente",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/economia-stf-congresso-e-ruas-conheca-os-desafios-do-proximo-presidente.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Folha usa selfies de candidatos para retratar disputa do 2º turno",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/folha-usa-selfies-de-candidatos-para-retratar-disputa-do-2o-turno.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Veja como chegar aos shows da banda Iron Maiden em São Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/10/veja-como-chegar-aos-shows-da-banda-iron-maiden-em-sao-paulo.shtml",
+      "published_date": "2026-10-25T02:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guinea-Bissau Groups Defend Dakar Meeting",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/quaest-poll-flavio-51-lula-49-final-runoff-2026/",
-      "published_date": "2026-10-24T23:42:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.riotimesonline.com/guinea-bissau-civil-society-dakar-meeting-2026/",
+      "published_date": "2026-10-25T09:08:40Z",
+      "category": "Military"
     },
     {
-      "title": "Palmeiras assume liderança provisória do Brasileiro, e Corinthians entra na zona de rebaixamento",
+      "title": "Corpos encontrados no Haiti podem ser de soldados de El Salvador, diz jornal",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/palmeiras-assume-lideranca-provisoria-do-brasileiro-e-corinthians-entra-na-zona-de-rebaixamento.shtml",
-      "published_date": "2026-10-24T23:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leitores comentam último debate antes do segundo turno: 'Brasil está à deriva com esses dois'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitores-comentam-ultimo-debate-antes-do-segundo-turno-brasil-esta-a-deriva-com-esses-dois.shtml",
-      "published_date": "2026-10-24T23:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nexus Poll Has Flávio 50.5%, Lula 49.5%",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/nexus-btg-poll-flavio-50-5-lula-49-5-runoff-2026/",
-      "published_date": "2026-10-24T23:00:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BTG/Nexus: Flávio Bolsonaro tem 50,5% dos votos válidos, e Lula, 49,5%",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-505-dos-votos-validos-e-lula-495.shtml",
-      "published_date": "2026-10-24T22:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flávio Bolsonaro tem vantagem entre mais propensos a votar, diz análise do Datafolha",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml",
-      "published_date": "2026-10-24T22:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "O dia depois de amanhã: economia difícil e um presidente impopular",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/o-dia-depois-de-amanha-economia-dificil-e-um-presidente-impopular.shtml",
-      "published_date": "2026-10-24T22:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quaest: Allyson Bezerra (União Brasil) tem 51%, ante 49% de Cadu de Lula (PT) no Rio Grande do Norte",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-allyson-bezerra-uniao-brasil-tem-51-ante-49-de-cadu-de-lula-pt-no-rio-grande-do-norte.shtml",
-      "published_date": "2026-10-24T22:22:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quaest: Flávio Bolsonaro marca 51% dos votos válidos, e Lula tem 49% na véspera da eleição",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-51-dos-votos-validos-e-lula-tem-49-na-vespera-da-eleicao.shtml",
-      "published_date": "2026-10-24T22:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Flávio me preocupa tanto ou mais que pai dele', diz João Amoêdo sobre voto em Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-me-preocupa-tanto-ou-mais-que-pai-dele-diz-joao-amoedo-sobre-voto-em-lula.shtml",
-      "published_date": "2026-10-24T22:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: Eleitor se divide sobre Lula ou Flávio como vencedor de debate, e maioria diz ter assistido",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitor-se-divide-sobre-lula-ou-flavio-como-vencedor-de-debate-e-maioria-diz-ter-assistido.shtml",
-      "published_date": "2026-10-24T21:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pedro Pascal declara apoio à reeleição de Lula nas redes sociais",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/pedro-pascal-declara-apoio-a-reeleicao-de-lula-nas-redes-sociais.shtml",
-      "published_date": "2026-10-24T21:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 45%",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-e-rejeitado-por-46-e-flavio-bolsonaro-por-45.shtml",
-      "published_date": "2026-10-24T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Datafolha: Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, em empate técnico",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml",
-      "published_date": "2026-10-24T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Campanha de Lula aposta em casos Ana Clara e 'nove dedos' para sensibilizar eleitor",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-aposta-em-casos-ana-clara-e-nove-dedos-para-sensibilizar-eleitor.shtml",
-      "published_date": "2026-10-24T20:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ato de esquerda reúne milhares em Brasília pela reeleição de Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/ato-de-esquerda-reune-milhares-em-brasilia-pela-reeleicao-de-lula.shtml",
-      "published_date": "2026-10-24T20:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Procuradoria defende manutenção de 'Exército do Lula' após TSE barrar suspensão do canal",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-defende-manutencao-de-exercito-do-lula-apos-tse-barrar-suspensao-do-canal.shtml",
-      "published_date": "2026-10-24T20:29:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/corpos-encontrados-no-haiti-podem-ser-de-soldados-de-el-salvador-diz-jornal.shtml",
+      "published_date": "2026-10-25T07:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Obama and Trump Hold Rival Midterm Rallies",
@@ -269,18 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Gigantes da indústria europeia investem para surfar na onda do boom da IA",
+      "title": "Meu pé de pau-brasil",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/gigantes-da-industria-europeia-investem-para-surfar-na-onda-do-boom-da-ia.shtml",
-      "published_date": "2026-10-18T18:45:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/10/meu-pe-de-pau-brasil.shtml",
+      "published_date": "2026-10-25T11:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Best Places to Live in Ghana for Expats 2026",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/best-places-to-live-in-ghana-for-expats-2026/",
-      "published_date": "2026-10-18T11:14:58Z",
-      "category": "Military"
+      "title": "Antiga metrópole asiática, Mohenjo-daro uniu menos desigualdade e prosperidade",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/antiga-metropole-asiatica-mohenjo-daro-uniu-menos-desigualdade-e-prosperidade.shtml",
+      "published_date": "2026-10-25T09:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "John Leguizamo, ator de 'A Odisseia', fará palestra na Mostra de SP",
@@ -409,21 +423,28 @@
       "category": "Energy"
     },
     {
-      "title": "Nasdaq cai e títulos do Tesouro dos EUA disparam com temor sobre gastos da Meta em IA",
+      "title": "Por que o uso de canetas emagrecedoras está afetando as vendas de produtos de beleza, segundo a L'Oreal",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/nasdaq-cai-enquanto-titulos-do-tesouro-disparam-com-temor-sobre-gastos-da-meta-em-ia.shtml",
-      "published_date": "2026-10-22T20:45:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/por-que-o-uso-de-canetas-emagrecedoras-esta-afetando-as-vendas-de-produtos-de-beleza-segundo-a-loreal.shtml",
+      "published_date": "2026-10-25T14:07:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Justiça decreta perda de prédio usado pelo PCC para tráfico e prostituição no centro de São Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/justica-decreta-perda-de-predio-usado-pelo-pcc-para-trafico-e-prostituicao-no-centro-de-sao-paulo.shtml",
-      "published_date": "2026-10-22T20:25:00Z",
-      "category": "Energy"
+      "title": "Argentina’s YPF Stock Beats 23.6% Inflation",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/argentina-ypf-uva-cer-investments-2026/",
+      "published_date": "2026-10-25T09:09:46Z",
+      "category": "Economy"
     },
     {
-      "title": "Flávio Bolsonaro manda apoiadores fiscalizarem mesários após fechamento das urnas",
+      "title": "Democracia e rigor fiscal para reduzir os juros e a pobreza",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/democracia-e-rigor-fiscal-para-reduzir-os-juros-e-a-pobreza.shtml",
+      "published_date": "2026-10-25T01:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Flávio Bolsonaro repete notícia falsa sobre mesários inserindo votos após fechamento das urnas",
       "source": "Folha de S.Paulo",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-manda-apoiadores-fiscalizarem-mesarios-apos-fechamento-das-urnas.shtml",
       "published_date": "2026-10-25T00:33:00Z",
@@ -542,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Trabalhadora grávida orientada a vomitar em lixeira receberá R$ 30 mil em ação contra Vivo e call center",
+      "title": "'Cara-de-Barro', filme sobre vilão do Batman, lidera bilheterias nos EUA",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/trabalhadora-gravida-orientada-a-vomitar-em-lixeira-recebera-r-30-mil-em-acao-contra-vivo-e-call-center.shtml",
-      "published_date": "2026-10-22T21:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Grenada Election Race Enters Final Two Weeks",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/grenada-election-final-two-weeks-campaign/",
-      "published_date": "2026-10-22T20:58:28Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Decreto estende dispensa de CNPJ e nota fiscal para nanoempreendedores",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/10/decreto-estende-dispensa-de-cnpj-e-nota-fiscal-para-nanoempreendedores.shtml",
-      "published_date": "2026-10-22T19:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ícone do surfe brasileiro Dadá Figueiredo morre aos 61 anos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/icone-do-surfe-brasileiro-dada-figueiredo-morre-aos-61-anos.shtml",
-      "published_date": "2026-10-25T00:20:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/cara-de-barro-filme-sobre-vilao-do-batman-lidera-bilheterias-nos-eua.shtml",
+      "published_date": "2026-10-25T14:47:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quem domina as redes domina as narrativas?",
+      "title": "Desempenho na trave dá a Flávia Saraiva bronze no Mundial de ginástica",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-domina-as-redes-domina-as-narrativas.shtml",
-      "published_date": "2026-10-25T00:04:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/desempenho-na-trave-da-a-flavia-saraiva-bronze-no-mundial-de-ginastica.shtml",
+      "published_date": "2026-10-25T14:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Michelle Bolsonaro e Bia Kicis vão indicar secretários de novo governo Celina no DF",
+      "title": "Após derrota nas eleições, Silvia Abravanel volta ao ar no SBT em novembro",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-bolsonaro-e-bia-kicis-vao-indicar-secretarios-de-novo-governo-celina-no-df.shtml",
-      "published_date": "2026-10-25T00:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/apos-derrota-nas-eleicoes-silvia-abravanel-volta-ao-ar-no-sbt-em-novembro.shtml",
+      "published_date": "2026-10-25T14:41:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Presidente do TSE reforça que eleitores devem checar local de votação antes de votar",
+      "title": "Trump vota antecipado em eleições para o Congresso dos EUA e volta a falar em fraude, sem provas",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/presidente-do-tse-reforca-que-eleitores-devem-checar-local-de-votacao-antes-de-votar.shtml",
-      "published_date": "2026-10-24T23:58:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-vota-antecipado-em-eleicoes-para-o-congresso-dos-eua-e-volta-a-falar-em-fraude-sem-provas.shtml",
+      "published_date": "2026-10-25T14:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Brazil Court Sets 3 Hours on Indigenous Vote",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/stf-tse-indigenous-voter-transport-3-hour-deadline-runoff-2026/",
-      "published_date": "2026-10-24T23:34:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mortes: Gentil, dominava as artes plásticas e reconhecia a inovação inesperada",
+      "title": "TSE termina eleição sob foco e com ministra escoltada por seguranças",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-gentil-dominava-as-artes-plasticas-e-reconhecia-a-inovacao-inesperada.shtml",
-      "published_date": "2026-10-24T23:31:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-termina-eleicao-sob-foco-e-com-ministra-escoltada-por-segurancas.shtml",
+      "published_date": "2026-10-25T13:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Segurança, economia, garantia da democracia: Leitores opinam sobre prioridade para presidente em 2027",
+      "title": "Exército de Israel diz que fechará entradas da Cisjordânia no dia da eleição",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/seguranca-economia-garantia-da-democracia-leitores-opinam-sobre-prioridade-para-presidente-em-2027.shtml",
-      "published_date": "2026-10-24T23:30:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/exercito-de-israel-diz-que-fechara-entradas-da-cisjordania-no-dia-da-eleicao.shtml",
+      "published_date": "2026-10-25T13:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quem vai ganhar o troféu abacaxi?",
+      "title": "Literatura de palestino morto na Faixa de Gaza reverbera hoje no Brasil",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/quem-vai-ganhar-o-trofeu-abacaxi.shtml",
-      "published_date": "2026-10-24T23:19:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/literatura-de-palestino-morto-na-faixa-de-gaza-reverbera-hoje-no-brasil.shtml",
+      "published_date": "2026-10-25T13:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Brazil Moves 394 Voting Stations for Runoff",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/tse-394-voting-sections-moved-runoff-eve-2026/",
-      "published_date": "2026-10-24T23:12:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marseille Police Hit by Mortar Fireworks",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/marseille-police-mortar-fireworks-protests/",
-      "published_date": "2026-10-24T23:10:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paróquia em SP celebra missa para neurodivergentes com liturgia mais curta e sons e luzes amenos",
+      "title": "CV amplia ações de controle sobre moradia, comércio e serviços com ameaça e extorsão pelo país",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/paroquia-em-sp-celebra-missa-para-neurodivergentes-com-liturgia-mais-curta-e-sons-e-luzes-amenos.shtml",
-      "published_date": "2026-10-24T23:09:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/cv-amplia-acoes-de-controle-sobre-moradia-comercio-e-servicos-com-ameaca-e-extorsao-pelo-pais.shtml",
+      "published_date": "2026-10-25T13:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ana Maria Braga faz apelo para que brasileiros votem no segundo turno",
+      "title": "Semana de 25 a 31 de outubro tem tensão astral e acirra ânimos no país; veja previsões",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ana-maria-braga-faz-apelo-para-que-brasileiros-votem-no-segundo-turno.shtml",
-      "published_date": "2026-10-24T23:04:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/10/semana-de-25-a-31-de-outubro-tem-tensao-astral-e-acirra-animos-no-pais-veja-previsoes.shtml",
+      "published_date": "2026-10-25T13:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quaest: Mailza Assis (PP) tem 62%, ante 38% de Alan Rick (Republicanos) no Acre",
+      "title": "Famosos vão às urnas para votar no segundo turno das eleições; veja fotos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-62-ante-38-de-alan-rick-republicanos-no-acre.shtml",
-      "published_date": "2026-10-24T23:01:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/famosos-vao-as-urnas-para-votar-no-segundo-turno-das-eleicoes-veja-fotos.shtml",
+      "published_date": "2026-10-25T12:48:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Flávio Bolsonaro encerra campanha com multidão no RJ e em BH e ao lado de Nikolas, Tarcísio e Cleitinho",
+      "title": "Expectativa é de paz e tranquilidade, diz Kassio ao votar",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml",
-      "published_date": "2026-10-24T22:58:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/expectativa-e-de-paz-e-tranquilidade-diz-kassio-ao-votar.shtml",
+      "published_date": "2026-10-25T12:34:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quaest: Vicentinho Júnior tem 59% no segundo turno do Tocantins, ante 41% de Professora Dorinha",
+      "title": "Entre a pressão e o sonho da aprovação, medo marca a preparação para o Enem e os vestibulares",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vicentinho-junior-tem-59-no-segundo-turno-do-tocantins-ante-41-de-professora-dorinha.shtml",
-      "published_date": "2026-10-24T22:58:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/entre-a-pressao-e-o-sonho-da-aprovacao-medo-marca-a-preparacao-para-o-enem-e-os-vestibulares.shtml",
+      "published_date": "2026-10-25T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quaest: Omar Aziz (PSD) tem 59% no Amazonas, ante 41% de Maria do Carmo (PL)",
+      "title": "Medo e terror",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-omar-aziz-psd-tem-59-no-amazonas-ante-41-de-maria-do-carmo-pl.shtml",
-      "published_date": "2026-10-24T22:53:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/10/medo-e-terror.shtml",
+      "published_date": "2026-10-25T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Credores e acionistas da Braskem mais perto de um acordo",
+      "title": "Vacina para câncer de pele renova fé na genômica",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/braskem-divulga-a-investidores-detalhes-de-propostas-de-reestruturacao-da-divida.shtml",
-      "published_date": "2026-10-24T22:51:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/vacina-para-cancer-de-pele-renova-fe-na-genomica.shtml",
+      "published_date": "2026-10-25T11:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel",
+      "title": "A sobrevivência de Flávio na era do pós-escândalo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
-      "published_date": "2026-10-24T22:24:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-sobrevivencia-de-flavio-na-era-do-pos-escandalo.shtml",
+      "published_date": "2026-10-25T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE",
+      "title": "O que acontece nos EUA acontece aqui também",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-diz-temer-interferencia-e-tratamento-desigual-por-ministros-do-tse.shtml",
-      "published_date": "2026-10-24T22:19:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-que-acontece-nos-eua-acontece-aqui-tambem.shtml",
+      "published_date": "2026-10-25T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quaest: Pazolini lidera no Espírito Santo com 55%; Ferraço tem 45%",
+      "title": "Depois das urnas, o que fica?",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-pazolini-lidera-no-espirito-santo-com-55-ferraco-tem-45.shtml",
-      "published_date": "2026-10-24T22:08:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/depois-das-urnas-o-que-fica.shtml",
+      "published_date": "2026-10-25T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Não tenho mágoas, diz filho de Ronald Biggs, o 'ladrão do século'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/nao-tenho-magoas-diz-filho-de-ronald-biggs-o-ladrao-do-seculo.shtml",
+      "published_date": "2026-10-25T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chuva causa duas mortes em Jundiaí, no interior de SP; capital paulista tem queda de árvores",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/chuva-atinge-oito-cidades-de-sp-e-deixa-familias-fora-de-casa.shtml",
+      "published_date": "2026-10-25T10:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ascensão de Hitler nos lembra riscos de elite apoiar governantes autoritários",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/ascensao-de-hitler-nos-lembra-riscos-de-elite-apoiar-governantes-autoritarios.shtml",
+      "published_date": "2026-10-25T10:00:00Z",
       "category": "Local Events"
     }
   ]
