@@ -1,7 +1,126 @@
 {
   "country": "brazil",
-  "last_updated": "2026-10-30T02:18:16Z",
+  "last_updated": "2026-10-30T16:59:35Z",
   "stories": [
+    {
+      "title": "Nikolas ignora carta golpista de Flávio Bolsonaro e defende boicote a empresas de petistas",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml",
+      "published_date": "2026-10-30T16:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tribunal decide que Rússia pode disputar Mundial de hóquei no gelo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/tribunal-decide-que-russia-pode-disputar-mundial-de-hoquei-no-gelo.shtml",
+      "published_date": "2026-10-30T16:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Apoiadores de Flávio pedem no instagram de Trump intervenção no Brasil e captura de Lula, aponta estudo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apoiadores-de-flavio-pedem-intervencao-no-brasil-e-captura-de-lula-no-instagram-de-trump-aponta-estudo.shtml",
+      "published_date": "2026-10-30T16:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vaga de Pacheco no TCU é cobiçada por aliados e Lula tem ao menos três cotados",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vaga-de-pacheco-no-tcu-e-cobicada-por-aliados-e-lula-tem-ao-menos-tres-cotados.shtml",
+      "published_date": "2026-10-30T16:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula vai procurar centrão e condiciona indicações para ministérios a votos no Congresso",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vai-procurar-centrao-e-condiciona-indicacoes-para-ministerios-a-votos-no-congresso.shtml",
+      "published_date": "2026-10-30T16:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula planeja montar frente ampla com Alcolumbre e Motta e nova relação com base",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-planeja-montar-frente-ampla-com-alcolumbre-e-motta-e-nova-relacao-com-base.shtml",
+      "published_date": "2026-10-30T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canal de WhatsApp francês inspirado no 'Exército do Lula' triplica de tamanho em três dias",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/canal-de-whatsapp-frances-inspirado-no-exercito-do-lula-triplica-de-tamanho-em-tres-dias.shtml",
+      "published_date": "2026-10-30T15:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governo Lula e relator querem aprovar regulação concorrencial das big techs até o fim do ano",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/governo-lula-e-relator-querem-aprovar-regulacao-concorrencial-das-big-techs-ate-o-fim-do-ano.shtml",
+      "published_date": "2026-10-30T15:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eleições no Roblox têm protestos, urna eletrônica e Lula com 51% dos votos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/10/eleicoes-no-roblox-tem-protestos-urna-eletronica-e-lula-com-51-dos-votos.shtml",
+      "published_date": "2026-10-30T14:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nova tecnologia de DNA ligou Ted Bundy à morte de adolescente em 1974",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/nova-tecnologia-de-dna-ligou-ted-bundy-a-morte-de-adolescente-em-1974.shtml",
+      "published_date": "2026-10-30T14:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula quer reunião com Trump ainda neste ano e deve ignorar fuga de Flávio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-reuniao-com-trump-ainda-neste-ano-e-deve-ignorar-fuga-de-flavio.shtml",
+      "published_date": "2026-10-30T13:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Liga argentina terá novo formato na próxima temporada",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/liga-argentina-tera-novo-formato-na-proxima-temporada.shtml",
+      "published_date": "2026-10-30T13:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governo cita prática abusiva e notifica empresas que teriam recusado clientes de esquerda",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-cita-pratica-abusiva-e-notifica-empresas-que-teriam-recusado-clientes-de-esquerda.shtml",
+      "published_date": "2026-10-30T10:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Janones será homenageado na festa do Prerrô, grupo jurídico que apoia Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/janones-sera-homenageado-na-festa-do-prerro-grupo-juridico-que-apoia-lula.shtml",
+      "published_date": "2026-10-30T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Podcast entrevista André Singer e discute rumos do lulismo no governo Lula 4",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-entrevista-andre-singer-e-discute-rumos-do-lulismo-no-governo-lula-4.shtml",
+      "published_date": "2026-10-30T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Escolas têm relatos de bullying político entre alunos após tensão na disputa eleitoral",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/escolas-tem-relatos-de-bullying-politico-entre-alunos-apos-tensao-na-disputa-eleitoral.shtml",
+      "published_date": "2026-10-30T07:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Desistência de Virginia Fonseca de ir ao Teleton causa decepção e mal-estar no SBT",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/desistencia-de-virginia-fonseca-de-ir-ao-teleton-causa-decepcao-e-mal-estar-no-sbt.shtml",
+      "published_date": "2026-10-30T07:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Empresários retiram doações e pressionam ONGs após vitória de Lula",
       "source": "Folha de S.Paulo",
@@ -24,123 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tamanho do ajuste nas contas públicas gera impasse no governo Lula, e equipe discute medidas",
+      "title": "Patrick Stewart atuou com um dos filhos, mas lamentava o afastamento deles",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/patrick-stewart-atuou-com-um-dos-filhos-mas-lamentava-o-afastamento-deles.shtml",
+      "published_date": "2026-10-30T15:09:00Z",
+      "category": "Military"
     },
     {
-      "title": "Lula tenta evitar que caso Flávio Bolsonaro vire crise diplomática por ajuda de Trump em fuga",
+      "title": "Leilão do Banco Master e Will Bank tem cadeiras e móveis de escritório de luxo; veja como participar",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-evitar-que-caso-flavio-bolsonaro-vire-crise-diplomatica-por-ajuda-de-trump-em-fuga.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flamengo goleia o Vasco e se isola na liderança do Brasileiro a cinco rodadas do fim",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/flamengo-goleia-o-vasco-e-se-isola-na-lideranca-do-brasileiro-a-cinco-rodadas-do-fim.shtml",
-      "published_date": "2026-10-30T01:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula não vai procurar Trump e diplomatas dizem que Flávio é 'página virada'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-nao-vai-procurar-trump-e-diplomatas-dizem-que-flavio-e-pagina-virada.shtml",
-      "published_date": "2026-10-30T00:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dizer que Lula 4 será Dilma 2 é exagero, assim como achar que não há risco de colapso",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/dizer-que-lula-4-sera-dilma-2-e-exagero-assim-como-achar-que-nao-ha-risco-de-colapso.shtml",
-      "published_date": "2026-10-29T23:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Defesa de Vorcaro diz que arquivos de celular foram modificados e questiona provas de investigação",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/defesa-de-vorcaro-diz-que-arquivos-de-celular-foram-modificados-e-questionam-provas-de-investigacao.shtml",
-      "published_date": "2026-10-29T22:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chefe de gabinete de Milei defende atuação da Argentina na fuga de Flávio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/chefe-de-gabinete-de-milei-defende-atuacao-da-argentina-na-fuga-de-flavio.shtml",
-      "published_date": "2026-10-29T22:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Observatório Eleitoral defende lisura da vitória de Lula e condena golpismo de Flávio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/observatorio-eleitoral-defende-lisura-da-vitoria-de-lula-e-condena-golpismo-de-flavio.shtml",
-      "published_date": "2026-10-29T21:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Boicote a restaurantes é choro de mau perdedor",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cozinha-bruta/2026/10/boicote-a-restaurantes-e-choro-de-mau-perdedor.shtml",
-      "published_date": "2026-10-29T21:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exemplares extras da Folha de 26 de outubro se esgotam",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/exemplares-extras-da-folha-de-26-de-outubro-se-esgotam.shtml",
-      "published_date": "2026-10-29T17:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exportações de produtos beneficiados pelo acordo Mercosul-UE crescem 21%, diz governo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/exportacoes-de-produtos-beneficiados-pelo-acordo-mercosul-ue-crescem-21-diz-governo.shtml",
-      "published_date": "2026-10-29T16:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fachin arquiva mais cinco investigações ligadas a inquérito das fake news",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fachin-arquiva-mais-cinco-investigacoes-ligadas-a-inquerito-das-fake-news.shtml",
-      "published_date": "2026-10-29T16:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Janones e militância deram impulso decisivo à campanha de Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-e-militancia-deram-impulso-decisivo-a-campanha-de-lula.shtml",
-      "published_date": "2026-10-29T16:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump diz que conversará com Lula e que petista lhe pediu para não tomar lado",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-que-conversara-com-lula-e-que-petista-lhe-pediu-para-nao-tomar-lado.shtml",
-      "published_date": "2026-10-29T15:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Climate Summit in Turkey Nov. 9-20",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/cop31-antalya-leaders-summit-schedule-2026/",
-      "published_date": "2026-10-29T15:25:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kassio e Mendonça tentam se desvincular de Flávio após carta golpista e falam em perda de bom senso",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-tentam-se-desvincular-de-flavio-apos-carta-golpista-e-falam-em-perda-de-bom-senso.shtml",
-      "published_date": "2026-10-29T15:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wall Street Journal acusa governo Lula de perseguição política a Flávio Bolsonaro",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/wall-street-journal-acusa-governo-lula-de-perseguicao-politica-a-flavio-bolsonaro.shtml",
-      "published_date": "2026-10-29T15:07:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/leilao-do-banco-master-e-will-bank-tem-cadeiras-mesas-e-itens-de-escritorio-veja-como-participar.shtml",
+      "published_date": "2026-10-30T13:11:00Z",
+      "category": "Military"
     },
     {
       "title": "Sorvetes artesanais da Frida & Mina e bombons coloridos da Mica adoçam festival da Folha",
@@ -269,11 +283,39 @@
       "category": "Military"
     },
     {
-      "title": "Voo de Belo Horizonte a Congonhas é cancelado após carta com ameaça de bomba ser encontrada",
+      "title": "CNU 2027 pode ter até 3.000 vagas após aval do Congresso, diz Ministério da Gestão; veja como será",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/voo-de-belo-horizonte-a-congonhas-e-cancelado-apos-carta-com-ameaca-de-bomba-ser-encontrada.shtml",
-      "published_date": "2026-10-23T19:39:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/cnu-2027-pode-ter-ate-3000-vagas-apos-aval-do-congresso-diz-ministerio-da-gestao-veja-como-sera.shtml",
+      "published_date": "2026-10-30T16:49:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Empresa recebe R$ 880 mi do BNDES para renovar 100% da frota de São José dos Campos com ônibus elétricos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/empresa-recebe-r-880-mi-do-bndes-para-renovar-100-da-frota-de-sao-jose-dos-campos-com-onibus-eletricos.shtml",
+      "published_date": "2026-10-30T14:24:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Big techs perdem quase US$ 900 bilhões após manterem investimentos bilionários em IA",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/big-techs-perdem-quase-us-900-bilhoes-apos-manterem-investimentos-bilionarios-em-ia.shtml",
+      "published_date": "2026-10-30T14:21:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Desemprego é o menor até setembro com criação de vagas na construção; renda estaciona",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/desemprego-fica-em-52-e-tem-menor-taxa-ate-setembro-na-serie-historica.shtml",
+      "published_date": "2026-10-30T12:01:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "BP quadriplica lucro líquido no terceiro trimestre com alta do petróleo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/bp-quadriplica-lucro-liquido-no-terceiro-trimestre-com-alta-do-petroleo.shtml",
+      "published_date": "2026-10-30T11:25:00Z",
+      "category": "Energy"
     },
     {
       "title": "Com rombo herdado, governadora do DF articula criação de agência para atrair investimentos à capital",
@@ -381,39 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "Estados aprovam alta do ICMS sobre combustíveis e pressionam preços em 2027",
+      "title": "Polícia investiga suposta estadia de Epstein em castelo da família real britânica",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/estados-aprovam-alta-do-icms-sobre-combustiveis-e-pressionam-precos-em-2027.shtml",
-      "published_date": "2026-10-28T16:27:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/policia-investiga-suposta-estadia-de-epstein-em-castelo-da-familia-real-britanica.shtml",
+      "published_date": "2026-10-30T15:53:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Russell Brand diz que amigos o abandonaram após acusações de crimes sexuais",
+      "title": "Dólar sobe em dia de disputa pela Ptax; Bolsa cai com dados do mercado de trabalho e cenário político",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/russell-brand-diz-que-amigos-o-abandonaram-apos-acusacoes-de-crimes-sexuais.shtml",
-      "published_date": "2026-10-28T12:44:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-em-dia-de-disputa-pela-ptax-e-apos-dados-do-mercado-de-trabalho-no-brasil.shtml",
+      "published_date": "2026-10-30T12:57:00Z",
+      "category": "Economy"
     },
     {
-      "title": "OpenAI deve fechar acordo para comprar chips do Google, diz site",
+      "title": "Vorcaro diz em depoimento que não fez fraude com BRB e que está preso injustamente",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-deve-fechar-acordo-para-comprar-chips-do-google-diz-site.shtml",
-      "published_date": "2026-10-28T11:21:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-diz-em-depoimento-que-nao-fez-fraude-com-brb-que-esta-preso-injustamente.shtml",
+      "published_date": "2026-10-30T12:27:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Rede Emiliano recebe certificação B Corp após ampliar economia circular",
+      "title": "Obras em Congonhas ampliam trânsito e mudam rotina de motoristas",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/10/rede-emiliano-recebe-certificacao-b-corp-apos-ampliar-economia-circular.shtml",
-      "published_date": "2026-10-28T10:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Gestão Nunes gasta em nove meses quase todo o previsto para 2026 com subsídios de ônibus",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/gestao-nunes-gasta-em-nove-meses-quase-todo-o-previsto-para-2026-com-subsidios-de-onibus.shtml",
-      "published_date": "2026-10-28T09:00:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/obras-em-congonhas-ampliam-transito-e-mudam-rotina-de-motoristas.shtml",
+      "published_date": "2026-10-30T09:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Bancos privados aumentam taxas do crédito da casa própria em resposta à alta nos juros futuros",
@@ -528,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Marina Ruy Barbosa nega affair com Vini Jr.: 'Sensacionalismo puro'",
+      "title": "Cinemateca exibe mostra de cineastas negros com filmes sobre experiências nos EUA",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/marina-ruy-barbosa-nega-affair-com-vini-jr-sensacionalismo-puro.shtml",
-      "published_date": "2026-10-28T20:21:00Z",
-      "category": "Economy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/cinemateca-exibe-mostra-de-cineastas-negros-com-filmes-sobre-experiencias-nos-eua.shtml",
+      "published_date": "2026-10-30T16:54:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Brazil Shoppers Face 11.3% Sales Tax in 2027",
+      "title": "'Meu corpo dói', diz Christa Pike em 1ª fala após sobreviver a injeção letal",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/meu-corpo-doi-diz-christa-pike-em-1a-fala-apos-sobreviver-a-injecao-letal.shtml",
+      "published_date": "2026-10-30T16:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Empresa chinesa cria aparelho com IA e laser para caçar mosquitos",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/empresa-chinesa-cria-aparelho-com-ia-e-laser-para-cacar-mosquitos.shtml",
+      "published_date": "2026-10-30T16:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vale afirma que é improvável pagar dividendos extraordinários em 2026",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/vale-afirma-que-e-improvavel-pagar-dividendos-extraordinarios-em-2026.shtml",
+      "published_date": "2026-10-30T16:27:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como tendência de compartilhamento de sangue pode estar alimentando nova crise de HIV",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/como-tendencia-de-compartilhamento-de-sangue-pode-estar-alimentando-nova-crise-de-hiv.shtml",
+      "published_date": "2026-10-30T16:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fachin tenta conter divisão no STF, mas decisão sobre INSS incomoda aliados de Moraes",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fachin-tenta-conter-divisao-no-stf-mas-decisao-sobre-inss-incomoda-aliados-de-moraes.shtml",
+      "published_date": "2026-10-30T16:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Binance Brasil suspende saques após ataque hacker de US$ 6,3 bilhões",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/binance-brasil-suspende-saques-apos-ataque-hacker-de-us-63-bilhoes.shtml",
+      "published_date": "2026-10-30T16:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Casa da icônica porta azul de 'Um Lugar Chamado Notting Hill' vai à venda por R$ 54 milhões",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/casa-da-iconica-porta-azul-de-um-lugar-chamado-notting-hill-vai-a-venda-por-r-54-milhoes.shtml",
+      "published_date": "2026-10-30T16:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Em meio a guerra dos supertênis, Adidas busca 'volta da vitória' em NY",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/em-meio-a-guerra-dos-supertenis-adidas-busca-volta-da-vitoria-em-ny.shtml",
+      "published_date": "2026-10-30T16:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Apenas 1,47% dos municípios cumprem meta de vacinação contra gripe",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/apenas-147-dos-municipios-cumprem-meta-de-vacinacao-contra-gripe.shtml",
+      "published_date": "2026-10-30T16:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Ovelhas Desgarradas', de Madeline Cash, pode ser o romance do ano",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/ovelhas-desgarradas-de-madeline-cash-pode-ser-o-romance-do-ano.shtml",
+      "published_date": "2026-10-30T16:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crítico de Trump, Leão 14 vota pelo correio nas eleições de meio de mandato dos EUA",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/critico-de-trump-leao-14-vota-pelo-correio-nas-eleicoes-de-meio-de-mandato-dos-eua.shtml",
+      "published_date": "2026-10-30T15:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Festival de cinema LGBT é cancelado na China após pressão do governo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/festival-de-cinema-lgbt-e-cancelado-na-china-apos-pressao-do-governo.shtml",
+      "published_date": "2026-10-30T15:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Assessor de Trump que ajudou Flávio a fugir viu apuração das eleições ao lado de Eduardo Bolsonaro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/assessor-de-trump-que-ajudou-flavio-a-fugir-viu-apuracao-das-eleicoes-ao-lado-de-eduardo-bolsonaro.shtml",
+      "published_date": "2026-10-30T15:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundo de private equity compra subsidiária da Evergrande",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/fundo-de-private-equity-compra-subsidiaria-da-evergrande.shtml",
+      "published_date": "2026-10-30T15:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soweto Derby Sells Out in Under 6 Hours",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/brazil-cbs-tax-rate-11-3-percent-tcu-2027/",
-      "published_date": "2026-10-28T15:06:53Z",
-      "category": "Economy"
+      "url": "https://www.riotimesonline.com/soweto-derby-sold-out-fnb-stadium/",
+      "published_date": "2026-10-30T15:25:44Z",
+      "category": "Local Events"
     },
     {
-      "title": "'Dom de Iludir', da Netflix, une trama de golpe ao melodrama de novela",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/10/dom-de-iludir-da-netflix-une-trama-de-golpe-ao-melodrama-de-novela.shtml",
-      "published_date": "2026-10-28T15:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cabo Verde Markets Give President 86% Odds",
+      "title": "New Zealand Voters Lose Enrolment",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/cabo-verde-markets-give-president-86-odds/",
-      "published_date": "2026-10-28T14:26:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Neymar descontrolado",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/10/neymar-descontrolado.shtml",
-      "published_date": "2026-10-30T02:05:00Z",
+      "url": "https://www.riotimesonline.com/new-zealand-enrolment-drops-before-election/",
+      "published_date": "2026-10-30T15:25:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Teatro Anchieta, no Sesc Consolação, se reafirma como destaque de SP",
+      "title": "PM mata suspeito de envolvimento em atentado a tenente da Rota em SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/teatro-anchieta-no-sesc-consolacao-se-reafirma-como-destaque-de-sp.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/suspeito-de-envolvimento-na-morte-de-tenente-da-rota-e-morto-em-acao-da-pm-em-sao-paulo.shtml",
+      "published_date": "2026-10-30T15:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Focado em música de câmara, Cultura Artística preza pela acústica em detalhes",
+      "title": "Rali Dakar é transferido para Portugal e Marrocos após ataques no Golfo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/focado-em-musica-de-camara-cultura-artistica-preza-pela-acustica-em-detalhes.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rali-dakar-e-transferido-para-portugal-e-marrocos-apos-ataques-no-golfo.shtml",
+      "published_date": "2026-10-30T15:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Teatros do Sesc voltam a dominar lista dos melhores palcos em cada região de São Paulo",
+      "title": "Madu Ferreira conquista 2ª coroa para Gramado no Miss Rio Grande do Sul 2027",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/teatros-do-sesc-voltam-a-dominar-lista-dos-melhores-palcos-em-cada-regiao-de-sao-paulo.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Direita rejeita trocar apoio a Alcolumbre por plano de indulto a Bolsonaro e prioriza redução de penas",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/direita-rejeita-trocar-apoio-a-alcolumbre-por-plano-de-indulto-a-bolsonaro-e-prioriza-reducao-de-penas.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rapper BK' faz show gratuito no Sesc Itaquera, na região leste de SP",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/10/rapper-bk-faz-show-gratuito-no-sesc-itaquera-na-regiao-leste-de-sp.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obras de Rosa Elena Curruchich no Masp retratam cultura maia na Guatemala",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/10/obras-de-rosa-elena-curruchich-no-masp-retratam-cultura-maia-na-guatemala.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Com montagem que torna plateia parte do cenário, Ágora é o melhor teatro de até cem lugares em SP",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/com-montagem-que-torna-plateia-parte-do-cenario-agora-e-o-melhor-teatro-de-ate-cem-lugares-em-sp.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teatro mais confortável de SP tem poltronas aconchegantes e visão privilegiada do palco",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/teatro-mais-confortavel-de-sp-tem-poltronas-aconchegantes-e-visao-privilegiada-do-palco.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Livro revela rodopios diplomáticos e interesses escusos do genro de Trump",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/10/livro-revela-rodopios-diplomaticos-e-interesses-escusos-do-genro-de-trump.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Espaço no Teatro Porto facilita acesso para cadeirantes e oferece área com ótima visibilidade",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/guia/2026/10/espaco-no-teatro-porto-facilita-acesso-para-cadeirantes-e-oferece-area-com-otima-visibilidade.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melhor café de teatro de SP, Capô promove o blend de memória, cozinha e espetáculos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/melhor-cafe-de-teatro-de-sp-capo-promove-o-blend-de-memoria-cozinha-e-espetaculos.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melhor teatro experimental, Oficina faz visitas guiadas e abre acervo",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/melhor-teatro-experimental-oficina-faz-visitas-guiadas-e-abre-acervo.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pista de dança volta ao pop mais elegante, com letras intimistas e sons eruditos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/pista-de-danca-volta-ao-pop-mais-elegante-com-letras-intimistas-e-sons-eruditos.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alíquota da reforma tributária mostra de forma crua uma carga que o Brasil não conseguia ver",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/aliquota-da-reforma-tributaria-mostra-de-forma-crua-uma-carga-que-o-brasil-nao-conseguia-ver.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sympla, melhor plataforma de ingressos, se destaca pela variedade de eventos",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/sympla-melhor-plataforma-de-ingressos-se-destaca-pela-variedade-de-eventos.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reformado, Teatro UOL mantém melhor programação de humor",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/reformado-teatro-uol-mantem-melhor-programacao-de-humor.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-viu-excesso-em-ordem-para-apreensao-de-passaporte-de-flavio-e-procurou-stf-para-reclamar.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Por que o fim de outubro é tão sobrenatural para tantas culturas pelo mundo?",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/10/por-que-o-fim-de-outubro-e-tao-sobrenatural-para-tantas-culturas-pelo-mundo.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Com a melhor localização, Teatro do Sesi fica em icônico prédio da Paulista",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/10/com-a-melhor-localizacao-teatro-do-sesi-fica-em-iconico-predio-da-paulista.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/10/madu-ferreira-conquista-2a-coroa-para-gramado-no-miss-rio-grande-do-sul-2027.shtml",
+      "published_date": "2026-10-30T15:00:00Z",
       "category": "Local Events"
     }
   ]
