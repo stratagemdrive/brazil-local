@@ -1,7 +1,70 @@
 {
   "country": "brazil",
-  "last_updated": "2026-10-31T16:01:05Z",
+  "last_updated": "2026-11-01T01:42:49Z",
   "stories": [
+    {
+      "title": "Promessa de governar para as mulheres é, também, governar com as mulheres",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/promessa-de-governar-para-as-mulheres-e-tambem-governar-com-as-mulheres.shtml",
+      "published_date": "2026-11-01T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Do alívio à apreensão",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/do-alivio-a-apreensao.shtml",
+      "published_date": "2026-11-01T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deputado do PT de SP copia Janones e cria 'Exército' para fiscalizar Tarcísio",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/deputado-do-pt-de-sp-copia-janones-e-cria-exercito-para-fiscalizar-tarcisio.shtml",
+      "published_date": "2026-11-01T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Approves Visa for Ghanaian Teen’s Mom",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/trump-visa-mother-slain-ghanaian-teen-bronx/",
+      "published_date": "2026-10-31T22:13:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A última dança de Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/a-ultima-danca-de-lula.shtml",
+      "published_date": "2026-10-31T21:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain Draws Citizens to Run Its Election",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/spain-polling-station-draws-election/",
+      "published_date": "2026-10-31T21:25:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Semifinais da Copa do Brasil reúnem times em situações opostas no Brasileiro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/semifinais-da-copa-do-brasil-reunem-times-em-situacoes-opostas-no-brasileiro.shtml",
+      "published_date": "2026-10-31T19:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governo calcula base fiel de 200 deputados e mais 100 'em disputa' a partir de 2027",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governo-calcula-base-fiel-de-200-deputados-e-mais-100-em-disputa-a-partir-de-2027.shtml",
+      "published_date": "2026-10-31T18:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/expectativas-de-inflacao-para-2027-e-2028-saltam-apos-segundo-turno.shtml",
+      "published_date": "2026-10-31T16:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Boulos fala em chantagem do mercado sobre ajuste fiscal e defende corte em desoneração e supersalário",
       "source": "Folha de S.Paulo",
@@ -80,67 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Além da Fazenda, BC de Lula 4 também gera incerteza",
+      "title": "Incêndio atinge galpão em Mauá (SP) e mobiliza 21 viaturas dos bombeiros; veja vídeo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/alem-da-fazenda-bc-de-lula-4-tambem-gera-incerteza.shtml",
-      "published_date": "2026-10-31T01:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/incendio-atinge-galpao-em-maua-sp-e-mobiliza-15-viaturas-dos-bombeiros.shtml",
+      "published_date": "2026-10-31T23:21:00Z",
+      "category": "Military"
     },
     {
-      "title": "O tesouraço foi derrotado nas redes, nas ruas e nas urnas, diz leitor sobre ajuste fiscal no governo Lula",
+      "title": "Incêndio de grandes proporções atinge área de proteção ambiental em Santarém, no Pará",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/o-tesouraco-foi-derrotado-nas-redes-nas-ruas-e-nas-urnas-diz-leitor-sobre-ajuste-fiscal-no-governo-lula.shtml",
-      "published_date": "2026-10-31T00:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Afônico após campanha e vitória, Lula faz sessões diárias de fonoaudiologia",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/afonico-apos-campanha-e-vitoria-lula-faz-sessoes-diarias-de-fonoaudiologia.shtml",
-      "published_date": "2026-10-31T00:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mauro Vieira e Marco Rubio evitam tratar de fuga de Flávio Bolsonaro em reunião pré-G20",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mauro-vieira-e-marco-rubio-evitam-tratar-de-fuga-de-flavio-bolsonaro-em-reuniao-pre-g20.shtml",
-      "published_date": "2026-10-30T23:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vieira recebe cumprimentos de ao menos dez chanceleres no G20 pela vitória de Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vieira-recebe-cumprimentos-de-ao-menos-dez-chanceleres-no-g20-pela-vitoria-de-lula.shtml",
-      "published_date": "2026-10-30T23:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Calma, não estamos em 2030!",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/calma-nao-estamos-em-2030.shtml",
-      "published_date": "2026-10-30T23:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OAB-SP pede que governo apure denúncia de que PMs obrigaram jovens detidos a vestir camisetas do PT",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/oab-sp-pede-que-governo-apure-denuncia-de-que-pms-obrigaram-jovens-detidos-a-vestir-camisetas-do-pt.shtml",
-      "published_date": "2026-10-30T22:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bolsa cai 18% na semana da vitória de Lula e tem pior resultado desde 2020; dólar tem maior alta desde 2008",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bolsa-cai-175-na-semana-da-vitoria-de-lula-e-tem-pior-resultado-desde-2020.shtml",
-      "published_date": "2026-10-30T20:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tarólogos viralizam nas redes prevendo a vitória de Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/tarologos-viralizam-nas-redes-prevendo-a-vitoria-de-lula.shtml",
-      "published_date": "2026-10-30T20:42:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/incendio-de-grandes-proporcoes-atinge-area-de-protecao-ambiental-em-santarem-no-para.shtml",
+      "published_date": "2026-10-31T16:23:00Z",
+      "category": "Military"
     },
     {
       "title": "Boko Haram and Nigeria’s Jihadist War Explained",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "ANP reavalia manter bomba branca em postos bandeirados",
+      "title": "CNMP adia decisão sobre promoção para mulheres no Ministério Público de SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/anp-reavalia-manter-bomba-branca-em-postos-bandeirados.shtml",
-      "published_date": "2026-10-26T16:54:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Macron Warns Saturday Is High Risk in France",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/macron-warns-saturday-high-risk-france/",
-      "published_date": "2026-10-26T15:43:16Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cnmp-adia-decisao-sobre-promocao-para-mulheres-no-ministerio-publico-de-sp.shtml",
+      "published_date": "2026-10-31T21:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Inspirada pelo noticiário da semana: veja 6 produções audiovisuais sobre fugas",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/10/inspirada-pelo-noticiario-da-semana-veja-6-producoes-audiovisuais-sobre-fugas.shtml",
-      "published_date": "2026-10-30T02:00:00Z",
-      "category": "Energy"
+      "title": "US Jobs Report Tests Peso and Real",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/us-jobs-report-november-2026-latin-america-peso-real-explained/",
+      "published_date": "2026-10-31T22:19:49Z",
+      "category": "Economy"
     },
     {
       "title": "USA & Canada Intelligence Brief — Saturday, October 31, 2026",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Wheat Fund Edges Up 0.23% as Bunge Falls 4.74% | Grains, Oct 29",
+      "title": "'Quem Ama Cuida': Ulisses usa nome de Felipe para desviar dinheiro e é descoberto",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/quem-ama-cuida-ulisses-usa-nome-de-felipe-para-desviar-dinheiro-e-e-descoberto.shtml",
+      "published_date": "2026-11-01T01:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Operação Contenção, 1 ano depois",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/operacao-contencao-1-ano-depois.shtml",
+      "published_date": "2026-11-01T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "O ódio precisa ser civilizado",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-odio-precisa-ser-civilizado.shtml",
+      "published_date": "2026-11-01T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irmãs disputam à bala o controle de torcida organizada do futebol argentino",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/irmas-disputam-a-bala-o-controle-de-torcida-organizada-do-futebol-argentino.shtml",
+      "published_date": "2026-10-31T23:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "É preciso seguir regra do notável saber jurídico, diz leitora sobre Simone Tebet no STF",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/e-preciso-seguir-regra-do-notavel-saber-juridico-diz-leitora-sobre-simone-tebet-no-stf.shtml",
+      "published_date": "2026-10-31T23:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fogo amigo, de Palocci a Fonteles",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/fogo-amigo-de-palocci-a-fonteles.shtml",
+      "published_date": "2026-10-31T23:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eleição 2026: Leitores opinam sobre a mobilização digital no contexto eleitoral",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/eleicao-2026-leitores-opinam-sobre-a-mobilizacao-digital-no-contexto-eleitoral.shtml",
+      "published_date": "2026-10-31T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malafaia sinaliza divórcio entre líderes gospel e bolsonarismo",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/malafaia-sinaliza-divorcio-entre-lideres-gospel-e-bolsonarismo.shtml",
+      "published_date": "2026-10-31T23:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Zealand Advance Voting Passes 500,000",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-october-29-2026/",
-      "published_date": "2026-10-30T00:49:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Perto do Brasil, Colômbia recebe militares americanos para suposto treinamento",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/10/perto-do-brasil-colombia-recebe-militares-americanos-para-suposto-treinamento.shtml",
-      "published_date": "2026-10-31T15:52:00Z",
+      "url": "https://www.riotimesonline.com/new-zealand-advance-voting-passes-500000/",
+      "published_date": "2026-10-31T23:25:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Virginia Fonseca se fantasia de coelhinha para festa de Halloween",
+      "title": "Hamilton volta à pole após três anos, e Antonelli vai largar em quarto",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/virginia-fonseca-se-fantasia-de-coelhinha-para-festa-de-halloween.shtml",
-      "published_date": "2026-10-31T15:46:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/hamilton-volta-a-pole-apos-tres-anos-e-antonelli-vai-largar-em-quarto.shtml",
+      "published_date": "2026-10-31T23:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Binance diz que 90% dos ativos foram repostos após ataque hacker roubar US$ 6,3 bilhões",
+      "title": "Candice Swanepoel usa anel de compromisso após rumor de namoro com Tom Brady",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/binance-diz-que-90-dos-ativos-foram-repostos-apos-ataque-hacker-roubar-us-63-bilhoes.shtml",
-      "published_date": "2026-10-31T15:37:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/candice-swanepoel-usa-anel-de-compromisso-apos-rumor-de-namoro-com-tom-brady.shtml",
+      "published_date": "2026-10-31T22:45:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Mulher tem parada cardiorrespiratória após ser atingida por cabo de alta tensão em SP",
+      "title": "Dissociação cognitiva",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mulher-tem-parada-cardiorrespiratoria-apos-ser-atingida-por-cabo-de-alta-tensao-em-sp.shtml",
-      "published_date": "2026-10-31T15:31:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/10/dissociacao-cognitiva.shtml",
+      "published_date": "2026-10-31T22:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Café da Mantiqueira de Minas é eleito o melhor do Brasil no 'Oscar' da categoria; veja vencedores",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/10/cafe-da-mantiqueira-de-minas-e-eleito-o-melhor-do-brasil-no-oscar-da-categoria-veja-vencedores.shtml",
-      "published_date": "2026-10-31T15:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governo Trump investiga suposta fraude no Alasca por candidatos rivais com nomes iguais",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-investiga-suposta-fraude-no-alasca-por-candidatos-rivais-com-nomes-iguais.shtml",
-      "published_date": "2026-10-31T15:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Florida Jails Six in Cuban Smuggling Ring",
+      "title": "What to Do in Valparaíso in November 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/florida-six-sentenced-cuban-migrant-smuggling-ring/",
-      "published_date": "2026-10-31T15:02:19Z",
+      "url": "https://www.riotimesonline.com/what-to-do-in-valparaiso-in-november-2026/",
+      "published_date": "2026-10-31T22:26:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Pesquisas indicam que evolução elevou risco moderno de doenças autoimunes",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/pesquisas-indicam-que-evolucao-elevou-risco-moderno-de-doencas-autoimunes.shtml",
-      "published_date": "2026-10-31T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turquia quer usar COP31 para acelerar eletrificação global, mas sem foco em renováveis",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/turquia-quer-usar-cop31-para-acelerar-eletrificacao-global-mas-sem-foco-em-renovaveis.shtml",
-      "published_date": "2026-10-31T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fitch rebaixa perspectiva da nota de crédito da França após contração da economia",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/fitch-rebaixa-perspectiva-da-nota-de-credito-da-franca-apos-contracao-da-economia.shtml",
-      "published_date": "2026-10-31T14:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como Miami se tornou refúgio de políticos conservadores da América Latina",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/como-miami-se-tornou-refugio-de-politicos-conservadores-da-america-latina.shtml",
-      "published_date": "2026-10-31T14:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morre Solano Ribeiro, que produziu festivais marcantes da MPB na televisão, aos 87",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/morre-solano-ribeiro-que-produziu-festivais-marcantes-da-mpb-na-televisao-aos-87.shtml",
-      "published_date": "2026-10-31T14:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Fazenda 18: Mônica Fonseca é expulsa do reality após briga em festa",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-monica-fonseca-e-expulsa-do-reality-apos-briga-em-festa.shtml",
-      "published_date": "2026-10-31T14:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OpenAI reduz US$ 10 bi da meta de financiamento em meio a preocupações com setor de IA",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-reduz-us-10-bi-da-meta-de-financiamento-em-meio-a-preocupacoes-com-setor-de-ia.shtml",
-      "published_date": "2026-10-31T14:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A história de como uma sobrevivente de violência sexual do século 15 buscou justiça",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/a-historia-de-como-uma-sobrevivente-de-violencia-sexual-do-seculo-15-buscou-justica.shtml",
-      "published_date": "2026-10-31T14:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aos 92, funcionário mais velho da Presidência passou por reforma de Collor, carreira militar e de atleta",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/aos-92-funcionario-mais-velho-da-presidencia-passou-por-reforma-de-collor-carreira-militar-e-de-atleta.shtml",
-      "published_date": "2026-10-31T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morre aos 85 anos Nonna Silvi, cozinheira toscana que se tornou fenômeno nas redes",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/morre-aos-85-anos-nonna-silvi-cozinheira-toscana-que-se-tornou-fenomeno-nas-redes.shtml",
-      "published_date": "2026-10-31T13:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s Gen Z Protest Wave Explained",
+      "title": "What to Do in Asunción in November 2026",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/gen-z-protests-europe-germany-france-explained-2026/",
-      "published_date": "2026-10-31T13:37:19Z",
+      "url": "https://www.riotimesonline.com/what-to-do-in-asuncion-in-november-2026/",
+      "published_date": "2026-10-31T22:26:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Correspondente da Globo em Londres vai substituir Maju Coutinho no Fantástico",
+      "title": "Johnny Massaro vai protagonizar primeiro longa-metragem de Ailton Krenak; saiba mais",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/correspondente-da-globo-em-londres-vai-substituir-maju-coutinho-no-fantastico.shtml",
-      "published_date": "2026-10-31T13:09:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/johnny-massaro-vai-protagonizar-primeiro-longa-metragem-de-ailton-krenak-saiba-mais.shtml",
+      "published_date": "2026-10-31T22:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Europe Intelligence Brief — Saturday, October 31, 2026",
+      "title": "Estudantes de medicina são expulsos de universidade por ofensas a bolsistas após as eleições",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudantes-de-medicina-sao-expulsos-de-universidade-por-ofensas-a-bolsistas-apos-as-eleicoes.shtml",
+      "published_date": "2026-10-31T21:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saiba onde ver a final da Libertadores Feminina entre Corinthians e Cruzeiro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/saiba-onde-ver-a-final-da-libertadores-feminina-entre-corinthians-e-cruzeiro.shtml",
+      "published_date": "2026-10-31T21:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Site do Corinthians sofre ataque hacker e anuncia contratação falsa de Lionel Messi",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/site-do-corinthians-sofre-ataque-hacker-e-anuncia-contratacao-falsa-de-lionel-messi.shtml",
+      "published_date": "2026-10-31T21:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa’s Pirates Beat Chiefs 2-1",
       "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/europe-intelligence-brief-saturday-october-31-2026/",
-      "published_date": "2026-10-31T13:06:30Z",
+      "url": "https://www.riotimesonline.com/pirates-beat-chiefs-soweto-derby/",
+      "published_date": "2026-10-31T21:25:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duque de Caxias (RJ) tem tiroteio, prisões e bloqueios de trânsito no início deste sábado (31)",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/duque-de-caxias-rj-tem-tiroteio-prisoes-e-bloqueios-de-transito-no-inicio-deste-sabado-31.shtml",
+      "published_date": "2026-10-31T21:03:00Z",
       "category": "Local Events"
     }
   ]
