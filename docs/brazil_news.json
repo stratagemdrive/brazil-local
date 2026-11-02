@@ -1,7 +1,63 @@
 {
   "country": "brazil",
-  "last_updated": "2026-11-01T17:04:44Z",
+  "last_updated": "2026-11-02T02:00:42Z",
   "stories": [
+    {
+      "title": "Lula 4 precisa moderar pautas diante de Congresso hostil",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/lula-4-precisa-moderar-pautas-diante-de-congresso-hostil.shtml",
+      "published_date": "2026-11-02T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Flávio Bolsonaro critica Moraes ao falar de 'juiz que acordou com vontade de fazer o mal'",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-critica-moraes-ao-falar-de-juiz-que-acordou-com-vontade-de-fazer-o-mal.shtml",
+      "published_date": "2026-11-01T23:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governadora do RN é cotada para ministério da área social de Lula",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-rn-e-cotada-para-ministerio-da-area-social-de-lula.shtml",
+      "published_date": "2026-11-01T22:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula afirma que nenhum programa social será extinto em seu quarto mandato",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml",
+      "published_date": "2026-11-01T21:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BTS Ends São Paulo Run as Reviews Stay Open",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/bts-ends-sao-paulo-run-regulatory-reviews-open/",
+      "published_date": "2026-11-01T21:26:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aliados avisaram Flávio Bolsonaro sobre risco de prisão e de ele virar novo Jair",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/aliados-avisaram-flavio-bolsonaro-sobre-risco-de-prisao-e-de-ele-virar-novo-jair.shtml",
+      "published_date": "2026-11-01T20:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Atos estudantis têm críticas a Flávio Bolsonaro e atuação dos EUA nas eleições",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/atos-estudantis-tem-criticas-a-flavio-bolsonaro-e-atuacao-dos-eua-nas-eleicoes.shtml",
+      "published_date": "2026-11-01T19:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Lulazo' é aula para derrotar Milei em 2027, diz oposição na Argentina",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lulazo-e-aula-para-derrotar-milei-em-2027-diz-oposicao-na-argentina.shtml",
+      "published_date": "2026-11-01T19:10:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Governo Lula vai precisar de salto bilionário no orçamento para cumprir promessas na educação",
       "source": "Folha de S.Paulo",
@@ -87,60 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PT trava disputa interna e abre debate sobre futuro do partido no pós-Lula",
+      "title": "Incêndio de grandes proporções em Alter do Chão (PA) é controlado; bombeiros e brigadistas combatem novos focos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-trava-disputa-interna-e-abre-debate-sobre-futuro-do-partido-no-pos-lula.shtml",
-      "published_date": "2026-11-01T02:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/incendio-de-grandes-proporcoes-em-alter-do-chao-pa-e-controlado-bombeiros-e-brigadistas-combatem-novos-focos.shtml",
+      "published_date": "2026-11-01T21:04:00Z",
+      "category": "Military"
     },
     {
-      "title": "Lula 4 dá fôlego à democracia, mas extrema direita não foi embora com Flávio",
+      "title": "Indígenas relatam perseguição política e temem ataques no interior de SP",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-4-da-folego-a-democracia-mas-extrema-direita-nao-foi-embora-com-flavio.shtml",
-      "published_date": "2026-11-01T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nikolas não age como cristão ao zombar de quem votou em Lula, diz pastor de direita",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-nao-age-como-cristao-ao-zombar-de-quem-votou-em-lula-diz-pastor-de-direita.shtml",
-      "published_date": "2026-11-01T02:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Promessa de governar para as mulheres é, também, governar com as mulheres",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/promessa-de-governar-para-as-mulheres-e-tambem-governar-com-as-mulheres.shtml",
-      "published_date": "2026-11-01T01:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Do alívio à apreensão",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/do-alivio-a-apreensao.shtml",
-      "published_date": "2026-11-01T01:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deputado do PT de SP copia Janones e cria 'Exército' para fiscalizar Tarcísio",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/deputado-do-pt-de-sp-copia-janones-e-cria-exercito-para-fiscalizar-tarcisio.shtml",
-      "published_date": "2026-11-01T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Approves Visa for Ghanaian Teen’s Mom",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/trump-visa-mother-slain-ghanaian-teen-bronx/",
-      "published_date": "2026-10-31T22:13:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A última dança de Lula",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/a-ultima-danca-de-lula.shtml",
-      "published_date": "2026-10-31T21:44:00Z",
-      "category": "Diplomacy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/indigenas-relatam-perseguicao-politica-e-temem-ataques-no-interior-de-sp.shtml",
+      "published_date": "2026-11-01T19:22:00Z",
+      "category": "Military"
     },
     {
       "title": "Halloween: Vice-presidente americano se fantasia de Dumbledore e divide opiniões",
@@ -269,18 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Professor Xavier em 'X-Men': relembre personagens de Patrick Stewart",
+      "title": "Antonelli coroa aposta ousada da Mercedes e se torna o mais jovem campeão da F1",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/professor-xavier-em-x-men-relembre-personagens-de-patrick-stewart.shtml",
-      "published_date": "2026-10-29T21:35:00Z",
-      "category": "Military"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/antonelli-coroa-aposta-ousada-da-mercedes-e-se-torna-o-mais-jovem-campeao-da-f1.shtml",
+      "published_date": "2026-11-01T22:24:00Z",
+      "category": "Energy"
     },
     {
-      "title": "CIA Operation Tops Cuba Invasion Poll",
-      "source": "The Rio Times Online",
-      "url": "https://www.riotimesonline.com/miami-cuban-poll-backs-force-and-medicine/",
-      "published_date": "2026-10-29T16:31:06Z",
-      "category": "Military"
+      "title": "Amigas de infância, Marina Ruy Barbosa e Luma Costa brigam e deixam de se seguir",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/amigas-de-infancia-marina-ruy-barbosa-e-luma-costa-brigam-e-deixam-de-se-seguir.shtml",
+      "published_date": "2026-11-01T20:26:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Festival de Cinema Brasileiro na Rússia terá comédia com Fernanda Montenegro",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/festival-de-cinema-brasileiro-na-russia-tera-comedia-com-fernanda-montenegro.shtml",
+      "published_date": "2026-11-01T20:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Aliados de Tarcísio apostam no desgaste do bolsonarismo para lançar candidatura em 2030",
+      "source": "Folha de S.Paulo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-de-tarcisio-apostam-no-desgaste-do-bolsonarismo-para-lancar-candidatura-em-2030.shtml",
+      "published_date": "2026-11-01T19:39:00Z",
+      "category": "Energy"
     },
     {
       "title": "Petrolíferas resistem à pressão para investir em novas refinarias apesar da disparada dos combustíveis",
@@ -395,32 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "Blackstone vê risco de Anthropic ficar sem grau de investimento após IPO",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/blackstone-ve-risco-de-anthropic-ficar-sem-grau-de-investimento-apos-ipo.shtml",
-      "published_date": "2026-10-30T21:24:00Z",
-      "category": "Energy"
+      "title": "Spain Conservatives Lead Poll by 2.3 Points",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/spain-conservatives-lead-sondaxe-poll-2026-11/",
+      "published_date": "2026-11-01T23:25:33Z",
+      "category": "Economy"
     },
     {
-      "title": "DoorDash compra Instacart por US$ 17 bilhões",
+      "title": "Tabelamento de juros não está na mesa de Lula, diz ministro da Fazenda",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/doordash-compra-instacart-por-us-17-bilhoes.shtml",
-      "published_date": "2026-10-30T20:50:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tabelamento-de-juros-nao-esta-na-mesa-de-lula-diz-ministro-da-fazenda.shtml",
+      "published_date": "2026-11-01T22:47:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Ações de tecnologia desabam nos EUA com novas dúvidas sobre gastos em IA",
+      "title": "Proposta de Lara Resende para limitar Selic assusta mercado; Durigan nega discussão no governo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/nasdaq-cai-ao-menor-nivel-em-tres-meses-com-duvidas-sobre-gastos-com-ia.shtml",
-      "published_date": "2026-10-30T18:30:00Z",
-      "category": "Energy"
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-lara-resende-para-limitar-selic-entra-no-radar-de-lula-e-assusta-mercado.shtml",
+      "published_date": "2026-11-01T20:35:00Z",
+      "category": "Economy"
     },
     {
-      "title": "CNU 2027 pode ter até 3.000 vagas após aval do Congresso, diz Ministério da Gestão; veja como será",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/cnu-2027-pode-ter-ate-3000-vagas-apos-aval-do-congresso-diz-ministerio-da-gestao-veja-como-sera.shtml",
-      "published_date": "2026-10-30T16:49:00Z",
-      "category": "Energy"
+      "title": "Mexico’s Buen Fin Sale Starts Nov. 13",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/mexico-buen-fin-sale-starts-nov-13/",
+      "published_date": "2026-11-01T19:25:47Z",
+      "category": "Economy"
     },
     {
       "title": "Preservar o social ou fazer ajuste fiscal é um falso dilema",
@@ -535,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "CNJ vai firmar acordo com registradoras de ativos para rastrear precatórios após caso Master",
+      "title": "Virginia Fonseca demonstra carinho por Zé Felipe e relmebra apelido antigo de ex",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/cnj-vai-firmar-acordo-com-registradoras-de-ativos-para-rastrear-precatorios-apos-caso-master.shtml",
-      "published_date": "2026-10-30T21:34:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Alegando questões financeiras, Igreja Universal deixa de comprar madrugadas da Band",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/alegando-questoes-financeiras-igreja-universal-deixa-de-comprar-madrugadas-da-band.shtml",
-      "published_date": "2026-10-30T21:16:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vorcaro tinha pleno conhecimento e comandava operações de consignado no Master, diz ex-sócio à PF",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/vorcaro-tinha-pleno-conhecimento-e-comandava-operacoes-de-consignado-no-master-diz-ex-socio-a-pf.shtml",
-      "published_date": "2026-10-30T18:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Polícia investiga suposta estadia de Epstein em castelo da família real britânica",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/policia-investiga-suposta-estadia-de-epstein-em-castelo-da-familia-real-britanica.shtml",
-      "published_date": "2026-10-30T15:53:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "O mês em que a inocência em cibersegurança acabou",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/o-mes-em-que-a-inocencia-em-ciberseguranca-acabou.shtml",
-      "published_date": "2026-11-01T17:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/virginia-fonseca-demonstra-carinho-por-ze-felipe-e-relmebra-apelido-antigo-de-ex.shtml",
+      "published_date": "2026-11-02T01:23:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Governo Trump debocha de migrantes em vídeo de Halloween",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-debocha-de-migrantes-em-video-de-halloween.shtml",
-      "published_date": "2026-11-01T16:51:00Z",
+      "title": "Tundu Lissu’s Brother Dies in Tanzania",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/tundu-lissu-brother-alute-dies-tanzania/",
+      "published_date": "2026-11-02T01:11:43Z",
       "category": "Local Events"
     },
     {
-      "title": "PSOL pede que Ministério Público apure exoneração de servidora da gestão Tarcísio que criticou Flávio",
+      "title": "Modelo da reforma eleitoral divide Câmara e ameaça implodir acordo para frear PL",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psol-pede-que-ministerio-publico-apure-exoneracao-de-servidora-da-gestao-tarcisio-que-criticou-flavio.shtml",
-      "published_date": "2026-11-01T16:39:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/modelo-da-reforma-eleitoral-divide-camara-e-ameaca-implodir-acordo-para-frear-pl.shtml",
+      "published_date": "2026-11-02T01:04:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Maior volume de exercícios amplia benefícios cardiovasculares, diz estudo",
+      "title": "A conta da IA está chegando",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/maior-volume-de-exercicios-amplia-beneficios-cardiovasculares-diz-estudo.shtml",
-      "published_date": "2026-11-01T16:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/a-conta-da-ia-esta-chegando.shtml",
+      "published_date": "2026-11-02T01:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Filme de Gabriel Martins transforma tragédia em um retrato social",
+      "title": "Cármen Lúcia dará aula magna em conferência sobre mulheres e Justiça em Brasília",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/filme-de-gabriel-martins-transforma-tragedia-em-um-retrato-social.shtml",
-      "published_date": "2026-11-01T16:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/carmen-lucia-dara-aula-magna-em-conferencia-sobre-mulheres-e-justica-em-brasilia.shtml",
+      "published_date": "2026-11-02T01:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Alemão que viralizou ao falar sobre 'sulistas' quer que brasileiros valorizem mais o próprio país",
+      "title": "Quem pode mais, paga mais",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/alemao-que-viralizou-ao-falar-sobre-sulistas-quer-que-brasileiros-valorizem-mais-o-proprio-pais.shtml",
-      "published_date": "2026-11-01T16:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/quem-pode-mais-paga-mais.shtml",
+      "published_date": "2026-11-02T01:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ocon nega agressão ao chefe da Haas após ser substituído no GP do México",
+      "title": "A verdadeira caixa-preta das eleições",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/ocon-nega-agressao-ao-chefe-da-haas-apos-ser-substituido-no-gp-do-mexico.shtml",
-      "published_date": "2026-11-01T15:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/a-verdadeira-caixa-preta-das-eleicoes.shtml",
+      "published_date": "2026-11-02T01:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "1 em cada 3 brasileiros com diabetes terá retinopatia diabética, que pode evoluir para cegueira",
+      "title": "Dez momentos da trajetória de Antonelli rumo ao título mundial de F1",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/1-em-cada-3-brasileiros-com-diabetes-tera-retinopatia-diabetica-que-pode-evoluir-para-cegueira.shtml",
-      "published_date": "2026-11-01T15:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/dez-momentos-da-trajetoria-de-antonelli-rumo-ao-titulo-mundial-de-f1.shtml",
+      "published_date": "2026-11-02T00:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Nossa Senhora Aparecida, rogai por nós",
+      "title": "'Esquerda também tem que assumir seus erros', diz leitora, comentando críticas de pastor a Nikolas Ferreira",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ana-cristina-rosa/2026/11/nossa-senhora-aparecida-rogai-por-nos.shtml",
-      "published_date": "2026-11-01T15:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/esquerda-tambem-tem-que-assumir-seus-erros-diz-leitora-comentando-criticas-de-pastor-a-nikolas-ferreira.shtml",
+      "published_date": "2026-11-02T00:21:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Mega-Sena 3080 acumula e premiação pode chegar a R$ 46 milhões nesta quarta (4)",
+      "title": "Opep+ mantém metas de produção de petróleo para dezembro, antes de decisão sobre 2027",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/confira-o-resultado-do-concurso-3080-da-mega-sena-sorteado-neste-domingo-1o.shtml",
-      "published_date": "2026-11-01T14:03:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-antes-de-decisao-sobre-2027.shtml",
+      "published_date": "2026-11-01T23:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Taís Araujo será destaque do Salgueiro no Carnaval carioca em 2027",
+      "title": "Grêmio vence o Atlético-MG e fica mais perto da final da Copa do Brasil",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/tais-araujo-sera-destaque-do-salgueiro-no-carnaval-carioca-em-2027.shtml",
-      "published_date": "2026-11-01T14:02:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/gremio-vence-o-atletico-mg-e-fica-mais-perto-da-final-da-copa-do-brasil.shtml",
+      "published_date": "2026-11-01T23:39:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ciência quer descobrir se nojo influencia posições políticas conservadoras",
+      "title": "Marido de Xuxa faz piada com Flávio Bolsonaro após sair da Dança dos Famosos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/11/ciencia-quer-descobrir-se-nojo-influencia-posicoes-politicas-conservadoras.shtml",
-      "published_date": "2026-11-01T14:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/marido-de-xuxa-faz-piada-com-flavio-bolsonaro-apos-sair-da-danca-dos-famosos.shtml",
+      "published_date": "2026-11-01T23:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+      "title": "Rita Guedes, Gracyanne, Junno Andrade e Ticiane Pinheiro são eliminados da Dança dos Famosos",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump.shtml",
-      "published_date": "2026-11-01T13:55:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/rita-guedes-gracyanne-junno-andrade-e-ticiane-pinheiro-sao-eliminados-da-danca-dos-famosos.shtml",
+      "published_date": "2026-11-01T23:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Israelenses protestam por aliança entre oposição e partidos árabes para tirar Netanyahu do poder",
+      "title": "Com Antonelli no time dos campeões, veja os maiores vencedores da F1",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/israelenses-protestam-por-alianca-entre-oposicao-e-partidos-arabes-para-tirar-netanyahu-do-poder.shtml",
-      "published_date": "2026-11-01T13:36:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/com-antonelli-no-time-dos-campeoes-veja-os-maiores-vencedores-da-f1.shtml",
+      "published_date": "2026-11-01T23:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "'Quem Ama Cuida': Agredida mais uma vez, Elenice decide denunciar Tom",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/quem-ama-cuida-agredida-mais-uma-vez-elenice-decide-denunciar-tom.shtml",
-      "published_date": "2026-11-01T13:05:00Z",
+      "title": "Colombia Peace Pioneer Navarro Wolff Dies",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/colombia-peace-pioneer-navarro-wolff-dies/",
+      "published_date": "2026-11-01T23:11:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Alíquota da CBS a 11,3% aumenta carga tributária sobre consumo em 2027",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-a-113-aumenta-carga-tributaria-sobre-consumo-em-2027.shtml",
-      "published_date": "2026-11-01T13:00:00Z",
+      "title": "What to Do in Nairobi in November 2026: Fashion Week",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/what-to-do-in-nairobi-in-november-2026/",
+      "published_date": "2026-11-01T22:33:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Interdição na zona sul de SP afeta comércios e gera reclamações de moradores e pedestres",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/interdicao-na-zona-sul-de-sp-afeta-comercios-e-gera-reclamacoes-de-moradores-e-pedestres.shtml",
-      "published_date": "2026-11-01T13:00:00Z",
+      "title": "What to Do in Lima in November 2026: Taemin, Gorillaz",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/what-to-do-in-lima-in-november-2026/",
+      "published_date": "2026-11-01T22:32:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Gabriel Martins filma o luto e volta a dramas coletivos em 'Vicentina Pede Desculpas'",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/gabriel-martins-filma-o-luto-e-volta-a-dramas-coletivos-em-vicentina-pede-desculpas.shtml",
-      "published_date": "2026-11-01T13:00:00Z",
+      "title": "What to Do in Playa del Carmen in November 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/what-to-do-in-playa-del-carmen-in-november-2026/",
+      "published_date": "2026-11-01T22:29:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Experiências de 11 países apontam avanço do mercado ilegal após veto a bets, diz levantamento",
-      "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/experiencias-de-11-paises-apontam-avanco-do-mercado-ilegal-apos-veto-a-bets-diz-levantamento.shtml",
-      "published_date": "2026-11-01T13:00:00Z",
+      "title": "What to Do in Johannesburg in November 2026",
+      "source": "The Rio Times Online",
+      "url": "https://www.riotimesonline.com/what-to-do-in-johannesburg-in-november-2026/",
+      "published_date": "2026-11-01T22:29:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Semana de 1º a 7 de novembro mistura descanso no início e tensão nas conversas; veja previsões",
+      "title": "Ladrões escalam imóvel em furto a apartamentos em Higienópolis, área nobre de São Paulo",
       "source": "Folha de S.Paulo",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/11/semana-de-1o-a-7-de-novembro-mistura-descanso-no-inicio-e-tensao-nas-conversas-veja-previsoes.shtml",
-      "published_date": "2026-11-01T13:00:00Z",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/ladroes-escalam-imovel-e-entram-por-janelas-em-furto-a-apartamentos-em-higienopolis-area-nobre-de-sao-paulo.shtml",
+      "published_date": "2026-11-01T22:24:00Z",
       "category": "Local Events"
     }
   ]
